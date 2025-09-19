@@ -1,0 +1,57 @@
+name: Daily AI Digest
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "立即执行一次"
+        default: "false"
+        required: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run daily script
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_SECURE: ${{ secrets.SMTP_SECURE }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_FROM_NAME: ${{ secrets.MAIL_FROM_NAME }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          DISPATCH_HOUR_BEIJING: ${{ vars.DISPATCH_HOUR_BEIJING }}
+          FORCE_DISPATCH: ${{ github.event.inputs.force || 'false' }}
+        run: npm run daily
+
+      - name: Commit updated brief
+        if: success()
+        run: |
+          if [[ -n $(git status --porcelain data/latest.json) ]]; then
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
+            git add data/latest.json
+            git commit -m "chore: update daily ai digest"
+            git push
+          else
+            echo "No changes to commit"
+          fi
