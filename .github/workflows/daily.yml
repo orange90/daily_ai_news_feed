@@ -2,7 +2,7 @@ name: Daily AI Digest
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 1 * * *"
   workflow_dispatch:
     inputs:
       force:
