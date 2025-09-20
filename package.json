@@ -1,0 +1,27 @@
+{
+  "name": "daily_ai_news_feed",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "daily": "node scripts/runDaily.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "next": "14.2.4",
+    "nodemailer": "^6.9.13",
+    "rss-parser": "^3.13.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.2.4",
+    "typescript": "5.4.5"
+  }
+}
