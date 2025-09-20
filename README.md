@@ -39,6 +39,8 @@ npm run dev
 | `DISPATCH_HOUR_BEIJING` | 每日推送时间（北京时间小时，0-23） | GitHub Repository Variables |
 | `NEWS_FETCH_USER_AGENT` *(可选)* | 自定义抓取新闻时的 UA，避免部分源拦截 | GitHub Repository Variables |
 
+
+
 > 可以参考 `.env.example` 在本地调试，正式运行请将敏感信息写入 GitHub Secrets。
 
 ### 3. GitHub Action 调度
@@ -75,6 +77,7 @@ HN 来源示例：
 }
 ```
 
+
 ### 4. 邮件发送
 
 脚本使用 Nodemailer，兼容任意支持 SMTP 的免费邮箱服务。
@@ -108,5 +111,6 @@ HN 来源示例：
 2. 在 GitHub 仓库中添加 Repository Variable：`DISPATCH_HOUR_BEIJING`（例如 `9` 代表每天上午九点），如有需要可配置 `NEWS_FETCH_USER_AGENT`。
 3. 如需订阅不同资讯，只需编辑 `config/newsSources.js` 并推送；无需额外配置。
 4. 在 Vercel 中设置对应的环境变量（用于本地调试或未来扩展）。
+
 
 完成以上步骤后，你即可享受每日自动生成的 AI 热点洞察，无需手动操作。

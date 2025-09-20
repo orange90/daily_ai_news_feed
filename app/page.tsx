@@ -37,6 +37,7 @@ export default function HomePage() {
         <p className="text-slate-300">
           我们会每天从公开渠道选出十条 AI 科技热点，由 DeepSeek 自动提出关键问题并生成洞察点评，
           数据也会通过邮件同步发送给你。
+
         </p>
       </header>
 
