@@ -55,7 +55,11 @@ export default function HomePage() {
               <div className="flex items-start justify-between gap-4">
                 <div>
                   <h2 className="text-xl font-semibold text-slate-50">
-                    <a href={item.url} target="_blank" rel="noreferrer">
+                    <a
+                      href={item.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
                       {item.title}
                     </a>
                   </h2>
