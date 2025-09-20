@@ -1,12 +1,47 @@
 const fs = require("fs");
 const path = require("path");
+const crypto = require("crypto");
 const nodemailer = require("nodemailer");
 const dotenv = require("dotenv");
+const Parser = require("rss-parser");
+
+const newsSources = require("../config/newsSources");
 
 dotenv.config();
 
 const DISPATCH_HOUR = Number.parseInt(process.env.DISPATCH_HOUR_BEIJING ?? "9", 10);
 const ITEMS_LIMIT = 10;
+const KEYWORD_PATTERNS = [
+  /\bAI\b/i,
+  /artificial intelligence/i,
+  /machine learning/i,
+  /deep learning/i,
+  /generative AI/i,
+  /genai/i,
+  /large language model/i,
+  /LLM/i,
+  /autonomous/i,
+  /openai/i,
+  /deepseek/i,
+  /人工智能/,
+  /大模型/,
+  /机器学习/,
+  /深度学习/,
+  /生成式/,
+  /算力/,
+  /智能体/,
+  /自动驾驶/
+];
+
+const parser = new Parser({
+  headers: {
+    "User-Agent":
+      process.env.NEWS_FETCH_USER_AGENT ||
+      "Daily-AI-Digest/1.0 (+https://github.com/daily-ai-news-feed)",
+    Accept: "application/rss+xml, application/xml;q=0.9, text/xml;q=0.8, text/html;q=0.7"
+  },
+  timeout: 20000
+});
 
 const nowInBeijing = () =>
   new Date(
@@ -15,91 +50,298 @@ const nowInBeijing = () =>
     })
   );
 
-const shouldRunNow = () => {
-  if (process.env.FORCE_DISPATCH === "true") {
-    return true;
-  }
-
-  const beijing = nowInBeijing();
-  const targetHour = Number.isNaN(DISPATCH_HOUR) ? 9 : DISPATCH_HOUR;
-  return beijing.getHours() === targetHour;
-};
-
 const getStartOfTodayTimestamp = () => {
   const beijing = nowInBeijing();
   beijing.setHours(0, 0, 0, 0);
   return Math.floor(beijing.getTime() / 1000);
 };
 
-const pickQuestion = (title, source) => {
-  const templates = [
-    `如何看待“${title}”？这条消息背后的趋势是什么？`,
-    `从行业角度看，“${title}” 对未来半年的 AI 布局意味着什么？`,
-    `如果你是投资人，会如何评价“${title}” 的潜在价值？`,
-    `站在普通开发者角度，${title} 带来哪些值得关注的机会？`,
-    `这条来自 ${source ?? "业内"} 的动态“${title}” 会如何影响国内外生态？`
-  ];
+const shouldSendEmailNow = () => {
+  if (process.env.FORCE_DISPATCH === "true") {
+    return true;
+  }
 
-  return templates[Math.floor(Math.random() * templates.length)];
+  const targetHour = Number.isNaN(DISPATCH_HOUR) ? 9 : DISPATCH_HOUR;
+  return nowInBeijing().getHours() === targetHour;
 };
 
-const fetchDailyNews = async () => {
+const sanitizeText = (text, maxLength = 800) => {
+  if (!text) return "";
+  const normalized = String(text).replace(/\s+/g, " ").trim();
+  if (!normalized) return "";
+  if (normalized.length <= maxLength) {
+    return normalized;
+  }
+  return `${normalized.slice(0, maxLength)}...`;
+};
+
+const isAIRelevant = (content) => {
+  if (!content) return false;
+  const normalized = content.toLowerCase();
+  return KEYWORD_PATTERNS.some((pattern) => pattern.test(normalized));
+};
+
+const parseDateToTimestamp = (value) => {
+  if (!value) return undefined;
+  const date = new Date(value);
+  const time = date.getTime();
+  if (Number.isNaN(time)) {
+    return undefined;
+  }
+  return time;
+};
+
+const hashId = (sourceId, rawId) =>
+  crypto.createHash("md5").update(`${sourceId}:${rawId}`).digest("hex");
+
+const fetchFromRss = async (source) => {
+  const feed = await parser.parseURL(source.url);
+  const items = Array.isArray(feed.items) ? feed.items : [];
+  return items
+    .filter((item) => item?.title && (item?.link || item?.guid))
+    .map((item) => {
+      const url = item.link || item.guid;
+      return {
+        id: hashId(source.id, url || item.title),
+        title: sanitizeText(item.title, 300),
+        url,
+        source: source.name,
+        summary: sanitizeText(item.contentSnippet || item.content || item.summary, 600),
+        publishedAt: parseDateToTimestamp(item.isoDate || item.pubDate),
+        language: source.language,
+        weight: source.weight ?? 0
+      };
+    });
+};
+
+const fetchFromHackerNews = async (source) => {
   const startTimestamp = getStartOfTodayTimestamp();
   const endpoint = new URL("https://hn.algolia.com/api/v1/search");
-  endpoint.searchParams.set("query", "AI");
+  endpoint.searchParams.set("query", source.query || "AI");
   endpoint.searchParams.set("tags", "story");
-  endpoint.searchParams.set("numericFilters", `created_at_i>${startTimestamp}`);
-  endpoint.searchParams.set("hitsPerPage", String(ITEMS_LIMIT * 2));
+  endpoint.searchParams.set("numericFilters", `created_at_i>${startTimestamp - 3600}`);
+  endpoint.searchParams.set("hitsPerPage", String(ITEMS_LIMIT * 4));
 
   const response = await fetch(endpoint.href);
   if (!response.ok) {
-    throw new Error(`无法获取新闻：${response.status} ${response.statusText}`);
+    throw new Error(`无法获取 ${source.name}：${response.status} ${response.statusText}`);
   }
 
   const payload = await response.json();
   const hits = Array.isArray(payload.hits) ? payload.hits : [];
-
-  const items = hits
+  return hits
     .filter((item) => item?.title)
     .map((item) => {
       const url = item.url || `https://news.ycombinator.com/item?id=${item.objectID}`;
-      let source;
-      try {
-        source = new URL(url).hostname.replace(/^www\./, "");
-      } catch (error) {
-        source = "news.ycombinator.com";
-      }
-
       return {
-        id: item.objectID,
-        title: item.title,
+        id: hashId(source.id, item.objectID),
+        title: sanitizeText(item.title, 300),
         url,
-        source,
-        points: item.points ?? 0,
-        text: item.story_text || item.comment_text || ""
+        source: source.name,
+        summary: sanitizeText(item.story_text || item.comment_text, 600),
+        publishedAt: parseDateToTimestamp(item.created_at),
+        language: source.language,
+        weight: (source.weight ?? 0) + (item.points ?? 0) * 2
       };
-    })
-    .sort((a, b) => (b.points ?? 0) - (a.points ?? 0))
-    .slice(0, ITEMS_LIMIT);
-
-  return items;
+    });
 };
 
-const callDeepSeek = async ({ title, question, url, text, source }) => {
-  const apiKey = process.env.DEEPSEEK_API_KEY;
-  if (!apiKey) {
-    console.warn("未配置 DEEPSEEK_API_KEY，使用占位回答。");
-    return "（未配置 DeepSeek API Key，无法生成智能点评。请在仓库 Secrets 中设置 DEEPSEEK_API_KEY。）";
+const fetchNewsFromSource = async (source) => {
+  if (source.type === "hn") {
+    return fetchFromHackerNews(source);
   }
 
-  const prompt = [
-    `请基于以下信息输出一段 150-200 字的中文分析，语气专业、可读性强：`,
-    `标题：${title}`,
-    `来源：${source ?? "未知"}`,
+  if (source.type === "rss") {
+    return fetchFromRss(source);
+  }
+
+  throw new Error(`未知的来源类型：${source.type}`);
+};
+
+const collectNewsItems = async () => {
+  const aggregated = [];
+
+  for (const source of newsSources) {
+    try {
+      const items = await fetchNewsFromSource(source);
+      for (const item of items) {
+        const textForFilter = `${item.title} ${item.summary ?? ""}`;
+        if (!isAIRelevant(textForFilter)) {
+          continue;
+        }
+        aggregated.push({ ...item });
+      }
+    } catch (error) {
+      console.warn(`来源 ${source.name} 获取失败：${error.message}`);
+    }
+  }
+
+  return aggregated;
+};
+
+const dedupeAndSort = (items) => {
+  const map = new Map();
+  for (const item of items) {
+    if (!item.url && !item.id) {
+      continue;
+    }
+    const key = (item.url || item.id).split("#")[0];
+    if (!map.has(key)) {
+      map.set(key, item);
+      continue;
+    }
+    const existing = map.get(key);
+    const existingScore = (existing.publishedAt ?? 0) + (existing.weight ?? 0) * 60 * 60 * 1000;
+    const newScore = (item.publishedAt ?? 0) + (item.weight ?? 0) * 60 * 60 * 1000;
+    if (newScore > existingScore) {
+      map.set(key, item);
+    }
+  }
+
+  const deduped = Array.from(map.values());
+  return deduped.sort((a, b) => {
+    const scoreA = (a.publishedAt ?? 0) + (a.weight ?? 0) * 60 * 60 * 1000;
+    const scoreB = (b.publishedAt ?? 0) + (b.weight ?? 0) * 60 * 60 * 1000;
+    return scoreB - scoreA;
+  });
+};
+
+const selectTopItems = (items) => {
+  if (items.length === 0) {
+    return [];
+  }
+
+  const startOfToday = getStartOfTodayTimestamp() * 1000;
+  const todaysItems = items.filter((item) => !item.publishedAt || item.publishedAt >= startOfToday);
+  const workingSet = todaysItems.length >= ITEMS_LIMIT ? todaysItems : items;
+
+  const englishQuota = Math.floor(ITEMS_LIMIT / 2);
+  const chineseQuota = ITEMS_LIMIT - englishQuota;
+  const counts = { en: 0, zh: 0 };
+  const selected = [];
+  const fallback = [];
+  const selectedKeys = new Set();
+
+  const addItem = (item) => {
+    const key = item.id || item.url;
+    if (!key || selectedKeys.has(key)) {
+      return false;
+    }
+    selected.push(item);
+    selectedKeys.add(key);
+    return true;
+  };
+
+  for (const item of workingSet) {
+    if (selected.length >= ITEMS_LIMIT) {
+      break;
+    }
+    const language = item.language === "zh" ? "zh" : "en";
+    if (language === "en" && counts.en < englishQuota && addItem(item)) {
+      counts.en += 1;
+      continue;
+    }
+    if (language === "zh" && counts.zh < chineseQuota && addItem(item)) {
+      counts.zh += 1;
+      continue;
+    }
+    fallback.push(item);
+  }
+
+  if (selected.length < ITEMS_LIMIT) {
+    for (const item of fallback) {
+      if (selected.length >= ITEMS_LIMIT) break;
+      addItem(item);
+    }
+  }
+
+  if (selected.length < ITEMS_LIMIT) {
+    for (const item of workingSet) {
+      if (selected.length >= ITEMS_LIMIT) break;
+      addItem(item);
+    }
+  }
+
+  return selected.slice(0, ITEMS_LIMIT);
+};
+
+const fetchDailyNews = async () => {
+  const aggregated = await collectNewsItems();
+  const sorted = dedupeAndSort(aggregated);
+  const selected = selectTopItems(sorted);
+  if (selected.length < ITEMS_LIMIT) {
+    console.warn(
+      `仅找到 ${selected.length} 条符合条件的热点，请检查新闻源是否可访问或适当放宽关键词。`
+    );
+  }
+  return selected;
+};
+
+const extractJsonObject = (content) => {
+  if (!content) return null;
+  const trimmed = content.trim();
+  const blockMatch = trimmed.match(/```json([\s\S]*?)```/i) || trimmed.match(/```([\s\S]*?)```/i);
+  const jsonText = blockMatch ? blockMatch[1].trim() : trimmed;
+  try {
+    const parsed = JSON.parse(jsonText);
+    if (parsed && typeof parsed === "object") {
+      return parsed;
+    }
+  } catch (error) {
+    return null;
+  }
+  return null;
+};
+
+const fallbackParseAnswer = (content) => {
+  if (!content) {
+    return { question: "（未能解析问题）", answer: "（未能解析回答）" };
+  }
+  const questionMatch = content.match(/(?:提问|问题|Question|Q)[：: ]+([^\n]+)/i);
+  const answerMatch = content.match(/(?:回答|解析|Answer|A)[：: ]+([\s\S]+)/i);
+  if (questionMatch && answerMatch) {
+    return {
+      question: sanitizeText(questionMatch[1], 200),
+      answer: sanitizeText(answerMatch[1], 1200)
+    };
+  }
+
+  const lines = content
+    .split(/\n+/)
+    .map((line) => line.trim())
+    .filter(Boolean);
+  if (lines.length === 0) {
+    return { question: "（未能解析问题）", answer: "（未能解析回答）" };
+  }
+
+  const [firstLine, ...rest] = lines;
+  const restJoined = rest.join("\n");
+  return {
+    question: sanitizeText(firstLine, 200),
+    answer: sanitizeText(restJoined || content, 1200)
+  };
+};
+
+const callDeepSeek = async ({ title, url, summary, source, language }) => {
+  const apiKey = process.env.DEEPSEEK_API_KEY;
+  if (!apiKey) {
+    console.warn("未配置 DEEPSEEK_API_KEY，使用占位内容。");
+    return {
+      question: "（未配置 DeepSeek API Key，无法生成智能提问）",
+      answer: "（未配置 DeepSeek API Key，无法生成智能点评。请在仓库 Secrets 中设置 DEEPSEEK_API_KEY。）"
+    };
+  }
+
+  const promptParts = [
+    "你是一名人工智能行业的资深分析师。",
+    "请针对下面的新闻先提出一个最值得追问的问题，再给出 150-220 字的中文专业解读。",
+    "输出要求：直接返回 JSON 对象，形如 {\"question\": \"...\", \"answer\": \"...\"}，不要包含额外解释。",
+    "回答需包含现状、意义与潜在风险或挑战，语气保持客观、专业。",
+    `新闻标题：${title}`,
+    `新闻来源：${source ?? "未知"}`,
+    `原文语言：${language === "zh" ? "中文" : "英文"}`,
     url ? `链接：${url}` : null,
-    text ? `原文摘要：${text}` : null,
-    `提问：${question}`,
-    `请提供结构化的见解（包括现状、意义和潜在风险），不需要重复问题。`
+    summary ? `原文摘要：${summary}` : null
   ]
     .filter(Boolean)
     .join("\n");
@@ -119,11 +361,11 @@ const callDeepSeek = async ({ title, question, url, text, source }) => {
         },
         {
           role: "user",
-          content: prompt
+          content: promptParts
         }
       ],
       temperature: 0.7,
-      max_tokens: 600
+      max_tokens: 700
     })
   });
 
@@ -133,11 +375,20 @@ const callDeepSeek = async ({ title, question, url, text, source }) => {
   }
 
   const data = await response.json();
-  const answer = data?.choices?.[0]?.message?.content?.trim();
-  if (!answer) {
+  const content = data?.choices?.[0]?.message?.content;
+  if (!content) {
     throw new Error("DeepSeek 返回数据为空");
   }
-  return answer;
+
+  const parsed = extractJsonObject(content) || fallbackParseAnswer(content);
+  const question = sanitizeText(parsed.question, 200);
+  const answer = sanitizeText(parsed.answer, 1200);
+
+  if (!question || !answer) {
+    throw new Error("DeepSeek 输出缺少问题或回答");
+  }
+
+  return { question, answer };
 };
 
 const buildEmailContent = (items, generatedAtISO) => {
@@ -249,34 +500,30 @@ const writeDataFile = (items, generatedAtISO) => {
 };
 
 const main = async () => {
-  if (!shouldRunNow()) {
-    console.log(
-      `当前北京时间 ${nowInBeijing().toISOString()} 不在设定的触发小时 (${DISPATCH_HOUR}). 设置 FORCE_DISPATCH=true 可强制执行。`
-    );
-    return;
-  }
-
   console.log("开始获取今日 AI 热点...");
   const rawItems = await fetchDailyNews();
-  console.log(`获取到 ${rawItems.length} 条候选热点，开始生成点评。`);
+  console.log(`聚合到 ${rawItems.length} 条候选热点，开始调用 DeepSeek 生成提问和解读。`);
+  if (rawItems.length === 0) {
+    console.warn("未找到符合条件的热点，请检查新闻源配置或稍后重试。");
+  }
 
   const itemsWithInsights = [];
   for (const item of rawItems) {
-    const question = pickQuestion(item.title, item.source);
     try {
-      const answer = await callDeepSeek({
+      const { question, answer } = await callDeepSeek({
         title: item.title,
         url: item.url,
-        text: item.text,
-        question,
-        source: item.source
+        summary: item.summary,
+        source: item.source,
+        language: item.language
       });
       itemsWithInsights.push({ ...item, question, answer });
     } catch (error) {
       console.error(`生成点评失败 (${item.title})`, error);
+      const fallbackQuestion = `围绕“${item.title}”需要重点关注哪些问题？`;
       itemsWithInsights.push({
         ...item,
-        question,
+        question: fallbackQuestion,
         answer: "（调用 DeepSeek 失败，已记录日志，请稍后重试）"
       });
     }
@@ -286,7 +533,13 @@ const main = async () => {
   writeDataFile(itemsWithInsights, generatedAtISO);
 
   try {
-    await sendEmail(itemsWithInsights, generatedAtISO);
+    if (shouldSendEmailNow()) {
+      await sendEmail(itemsWithInsights, generatedAtISO);
+    } else {
+      console.log(
+        `当前北京时间 ${nowInBeijing().toISOString()} 未到设定的推送小时 (${DISPATCH_HOUR})，已跳过邮件发送，仅更新数据。`
+      );
+    }
   } catch (error) {
     console.error("发送邮件失败", error);
   }

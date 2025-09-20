@@ -35,8 +35,9 @@ export default function HomePage() {
         </h1>
         <p className="timestamp">最近更新：{formatTimestamp(generatedAt)}</p>
         <p className="text-slate-300">
-          我们会每天从公开渠道选出十条 AI 科技热点，针对每条热点提出延伸问题，并调用
-          DeepSeek 模型生成洞察点评。数据也会通过邮件同步发送给你。
+          我们会每天从公开渠道选出十条 AI 科技热点，由 DeepSeek 自动提出关键问题并生成洞察点评，
+          数据也会通过邮件同步发送给你。
+
         </p>
       </header>
 
