@@ -80,83 +80,219 @@ module.exports = [
     weight: 6
   },
   {
-    id: "36kr",
-    name: "36氪",
-    language: "zh",
+    id: "openai-blog",
+    name: "OpenAI Blog",
+    language: "en",
     type: "rss",
-    url: "https://www.36kr.com/feed",
-    weight: 15
+    url: "https://openai.com/blog/rss/",
+    weight: 12
   },
   {
-    id: "ifanr",
-    name: "爱范儿",
-    language: "zh",
+    id: "google-ai-blog",
+    name: "Google AI Blog",
+    language: "en",
     type: "rss",
-    url: "https://www.ifanr.com/feed",
+    url: "https://blog.research.google/feed/",
     weight: 10
   },
   {
-    id: "huxiu",
-    name: "虎嗅网",
-    language: "zh",
+    id: "deepmind-blog",
+    name: "Google DeepMind Blog",
+    language: "en",
     type: "rss",
-    url: "https://www.huxiu.com/rss/0",
-    weight: 8
-  },
-  {
-    id: "qbitai",
-    name: "量子位",
-    language: "zh",
-    type: "rss",
-    url: "https://www.qbitai.com/feed",
-    weight: 12
-  },
-  {
-    id: "leiphone",
-    name: "雷锋网",
-    language: "zh",
-    type: "rss",
-    url: "https://www.leiphone.com/feed",
+    url: "https://deepmind.google/discover/blog/rss/",
     weight: 9
   },
   {
-    id: "ithome",
-    name: "IT之家",
-    language: "zh",
+    id: "meta-ai-blog",
+    name: "Meta AI Blog",
+    language: "en",
     type: "rss",
-    url: "https://www.ithome.com/rss/",
+    url: "https://ai.facebook.com/blog/rss/",
+    weight: 9
+  },
+  {
+    id: "microsoft-ai-blog",
+    name: "Microsoft AI Blog",
+    language: "en",
+    type: "rss",
+    url: "https://blogs.microsoft.com/ai/feed/",
+    weight: 9
+  },
+  {
+    id: "anthropic-blog",
+    name: "Anthropic News",
+    language: "en",
+    type: "rss",
+    url: "https://www.anthropic.com/news/rss",
+    weight: 8
+  },
+  {
+    id: "nvidia-ai-blog",
+    name: "NVIDIA Technical Blog · AI",
+    language: "en",
+    type: "rss",
+    url: "https://blogs.nvidia.com/blog/category/ai/feed/",
+    weight: 8
+  },
+  {
+    id: "amazon-science",
+    name: "Amazon Science",
+    language: "en",
+    type: "rss",
+    url: "https://www.amazon.science/index.rss",
+    weight: 7
+  },
+  {
+    id: "ibm-research-blog",
+    name: "IBM Research Blog",
+    language: "en",
+    type: "rss",
+    url: "https://research.ibm.com/blog/rss.xml",
     weight: 6
   },
   {
-    id: "jiqizhixin",
-    name: "机器之心",
-    language: "zh",
+    id: "apple-ml-journal",
+    name: "Apple Machine Learning Research",
+    language: "en",
     type: "rss",
-    url: "https://www.jiqizhixin.com/rss",
-    weight: 12
+    url: "https://machinelearning.apple.com/rss.xml",
+    weight: 8
   },
   {
-    id: "geekpark",
-    name: "极客公园",
-    language: "zh",
+    id: "google-cloud-ai",
+    name: "Google Cloud Blog · AI & ML",
+    language: "en",
     type: "rss",
-    url: "https://www.geekpark.net/rss",
+    url: "https://cloud.google.com/blog/topics/ai-ml/feed",
+    weight: 9
+  },
+  {
+    id: "huggingface-blog",
+    name: "Hugging Face Blog",
+    language: "en",
+    type: "rss",
+    url: "https://huggingface.co/blog/feed.xml",
+    weight: 8
+  },
+  {
+    id: "stability-ai-blog",
+    name: "Stability AI Blog",
+    language: "en",
+    type: "rss",
+    url: "https://stability.ai/blog/rss.xml",
     weight: 7
   },
   {
-    id: "pingwest",
-    name: "品玩",
-    language: "zh",
+    id: "cohere-blog",
+    name: "Cohere Blog",
+    language: "en",
     type: "rss",
-    url: "https://www.pingwest.com/feed",
+    url: "https://cohere.com/blog/rss.xml",
     weight: 7
   },
   {
-    id: "sina-tech",
-    name: "新浪科技",
-    language: "zh",
+    id: "anthropic-research",
+    name: "Anthropic Research",
+    language: "en",
     type: "rss",
-    url: "https://rsshub.app/sina/technology",
+    url: "https://www.anthropic.com/research/rss",
+    weight: 7
+  },
+  {
+    id: "adobe-ai-blog",
+    name: "Adobe Blog · AI",
+    language: "en",
+    type: "rss",
+    url: "https://blog.adobe.com/en/topics/artificial-intelligence.rss",
+    weight: 7
+  },
+  {
+    id: "databricks-blog",
+    name: "Databricks Blog",
+    language: "en",
+    type: "rss",
+    url: "https://www.databricks.com/blog/rss.xml",
+    weight: 6
+  },
+  {
+    id: "snowflake-ai-blog",
+    name: "Snowflake Blog · AI",
+    language: "en",
+    type: "rss",
+    url: "https://www.snowflake.com/blog/category/artificial-intelligence/feed/",
+    weight: 6
+  },
+  {
+    id: "salesforce-ai",
+    name: "Salesforce Engineering · AI",
+    language: "en",
+    type: "rss",
+    url: "https://engineering.salesforce.com/tag/artificial-intelligence/feed/",
+    weight: 6
+  },
+  {
+    id: "theverge-ai",
+    name: "The Verge · Artificial Intelligence",
+    language: "en",
+    type: "rss",
+    url: "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+    weight: 6
+  },
+  {
+    id: "ars-ai",
+    name: "Ars Technica · AI",
+    language: "en",
+    type: "rss",
+    url: "https://feeds.arstechnica.com/arstechnica/ai",
+    weight: 6
+  },
+  {
+    id: "engadget-ai",
+    name: "Engadget · AI",
+    language: "en",
+    type: "rss",
+    url: "https://www.engadget.com/tag/ai/rss.xml",
+    weight: 5
+  },
+  {
+    id: "ap-ai",
+    name: "AP News · Artificial Intelligence",
+    language: "en",
+    type: "rss",
+    url: "https://apnews.com/hub/artificial-intelligence?format=atom",
+    weight: 6
+  },
+  {
+    id: "europe-ai-policy",
+    name: "European Commission · Digital & AI Policy",
+    language: "en",
+    type: "rss",
+    url: "https://digital-strategy.ec.europa.eu/en/newsroom/rss.xml",
+    weight: 7
+  },
+  {
+    id: "uk-gov-ai",
+    name: "UK Government · AI Regulation Updates",
+    language: "en",
+    type: "rss",
+    url: "https://www.gov.uk/search/news-and-communications?content_store_document_type=news_article&parent=office-for-artificial-intelligence&order=updated-newest&format=atom",
+    weight: 6
+  },
+  {
+    id: "nist-ai",
+    name: "NIST · AI News",
+    language: "en",
+    type: "rss",
+    url: "https://www.nist.gov/rss/artificial-intelligence",
+    weight: 6
+  },
+  {
+    id: "oecd-ai-policy",
+    name: "OECD · AI Policy Observatory",
+    language: "en",
+    type: "rss",
+    url: "https://oecd.ai/en/wonk/rss",
     weight: 5
   }
 ];

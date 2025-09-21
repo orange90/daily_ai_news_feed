@@ -13,8 +13,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="zh-CN">
-      <body className="min-h-screen bg-slate-950 text-slate-100">
-        <main className="mx-auto max-w-4xl px-4 py-10">{children}</main>
+      <body className="min-h-screen bg-[#fdfbf7] text-slate-900 antialiased">
+        <main className="mx-auto max-w-3xl px-5 py-12 md:py-16">{children}</main>
       </body>
     </html>
   );
