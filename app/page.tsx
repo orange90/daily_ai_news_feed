@@ -10,6 +10,33 @@ interface NewsItem {
   hotnessScore?: number;
 }
 
+const getHotnessScore = (item: NewsItem): number | null =>
+  typeof item.hotnessScore === "number" ? item.hotnessScore : null;
+
+const selectTopNewsItems = (items: NewsItem[], limit = 30) =>
+  [...items]
+    .map((item, index) => ({ item, index }))
+    .sort((a, b) => {
+      const aScore = getHotnessScore(a.item);
+      const bScore = getHotnessScore(b.item);
+
+      if (aScore === bScore) {
+        return a.index - b.index;
+      }
+
+      if (aScore === null) {
+        return 1;
+      }
+
+      if (bScore === null) {
+        return -1;
+      }
+
+      return bScore - aScore;
+    })
+    .slice(0, limit)
+    .map(({ item }) => item);
+
 const splitIntoParagraphs = (text: string) =>
   String(text ?? "")
     .split(/\n{2,}/)
@@ -39,7 +66,8 @@ const formatTimestamp = (isoString: string | null) => {
 };
 
 export default function HomePage() {
-  const items = (newsData.items as NewsItem[]) ?? [];
+  const rawItems = (newsData.items as NewsItem[]) ?? [];
+  const items = selectTopNewsItems(rawItems);
   const generatedAt = newsData.generatedAt as string | null;
 
   return (
