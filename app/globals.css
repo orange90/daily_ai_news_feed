@@ -71,6 +71,7 @@ a:hover {
 }
 
 .answer {
+
   display: flex;
   flex-direction: column;
   gap: 1rem;
@@ -111,6 +112,7 @@ a:hover {
   content: "·";
   margin-right: 0.5rem;
   color: rgba(100, 116, 139, 0.7);
+
 }
 
 .timestamp {
