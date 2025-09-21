@@ -80,83 +80,75 @@ module.exports = [
     weight: 6
   },
   {
-    id: "36kr",
-    name: "36氪",
-    language: "zh",
+    id: "openai-blog",
+    name: "OpenAI Blog",
+    language: "en",
     type: "rss",
-    url: "https://www.36kr.com/feed",
-    weight: 15
+    url: "https://openai.com/blog/rss/",
+    weight: 12
   },
   {
-    id: "ifanr",
-    name: "爱范儿",
-    language: "zh",
+    id: "google-ai-blog",
+    name: "Google AI Blog",
+    language: "en",
     type: "rss",
-    url: "https://www.ifanr.com/feed",
+    url: "https://blog.research.google/feed/",
     weight: 10
   },
   {
-    id: "huxiu",
-    name: "虎嗅网",
-    language: "zh",
+    id: "deepmind-blog",
+    name: "Google DeepMind Blog",
+    language: "en",
     type: "rss",
-    url: "https://www.huxiu.com/rss/0",
-    weight: 8
-  },
-  {
-    id: "qbitai",
-    name: "量子位",
-    language: "zh",
-    type: "rss",
-    url: "https://www.qbitai.com/feed",
-    weight: 12
-  },
-  {
-    id: "leiphone",
-    name: "雷锋网",
-    language: "zh",
-    type: "rss",
-    url: "https://www.leiphone.com/feed",
+    url: "https://deepmind.google/discover/blog/rss/",
     weight: 9
   },
   {
-    id: "ithome",
-    name: "IT之家",
-    language: "zh",
+    id: "meta-ai-blog",
+    name: "Meta AI Blog",
+    language: "en",
     type: "rss",
-    url: "https://www.ithome.com/rss/",
+    url: "https://ai.facebook.com/blog/rss/",
+    weight: 9
+  },
+  {
+    id: "microsoft-ai-blog",
+    name: "Microsoft AI Blog",
+    language: "en",
+    type: "rss",
+    url: "https://blogs.microsoft.com/ai/feed/",
+    weight: 9
+  },
+  {
+    id: "anthropic-blog",
+    name: "Anthropic News",
+    language: "en",
+    type: "rss",
+    url: "https://www.anthropic.com/news/rss",
+    weight: 8
+  },
+  {
+    id: "nvidia-ai-blog",
+    name: "NVIDIA Technical Blog · AI",
+    language: "en",
+    type: "rss",
+    url: "https://blogs.nvidia.com/blog/category/ai/feed/",
+    weight: 8
+  },
+  {
+    id: "amazon-science",
+    name: "Amazon Science",
+    language: "en",
+    type: "rss",
+    url: "https://www.amazon.science/index.rss",
+    weight: 7
+  },
+  {
+    id: "ibm-research-blog",
+    name: "IBM Research Blog",
+    language: "en",
+    type: "rss",
+    url: "https://research.ibm.com/blog/rss.xml",
     weight: 6
-  },
-  {
-    id: "jiqizhixin",
-    name: "机器之心",
-    language: "zh",
-    type: "rss",
-    url: "https://www.jiqizhixin.com/rss",
-    weight: 12
-  },
-  {
-    id: "geekpark",
-    name: "极客公园",
-    language: "zh",
-    type: "rss",
-    url: "https://www.geekpark.net/rss",
-    weight: 7
-  },
-  {
-    id: "pingwest",
-    name: "品玩",
-    language: "zh",
-    type: "rss",
-    url: "https://www.pingwest.com/feed",
-    weight: 7
-  },
-  {
-    id: "sina-tech",
-    name: "新浪科技",
-    language: "zh",
-    type: "rss",
-    url: "https://rsshub.app/sina/technology",
-    weight: 5
   }
 ];
