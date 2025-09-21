@@ -7,7 +7,23 @@ interface NewsItem {
   source?: string;
   question: string;
   answer: string;
+  hotnessScore?: number;
 }
+
+const splitIntoParagraphs = (text: string) =>
+  String(text ?? "")
+    .split(/\n{2,}/)
+    .map((paragraph) => paragraph.trim())
+    .filter(Boolean);
+
+const getAnswerParagraphs = (text: string) => {
+  const paragraphs = splitIntoParagraphs(text);
+  if (paragraphs.length > 0) {
+    return paragraphs;
+  }
+  const trimmed = String(text ?? "").trim();
+  return trimmed ? [trimmed] : [];
+};
 
 const formatTimestamp = (isoString: string | null) => {
   if (!isoString) {
@@ -31,9 +47,10 @@ export default function HomePage() {
       <header className="space-y-4">
         <span className="badge">AI 热点 · 每日提问</span>
         <h1 className="text-4xl font-semibold leading-tight md:text-5xl">
-          今日 AI 深读精选
+          今日 AI 深读精选 · TOP 30
         </h1>
         <p className="timestamp">最近更新：{formatTimestamp(generatedAt)}</p>
+        <p className="meta-note">按综合热度排序，聚焦最新产品发布、技术突破与合规政策。</p>
         <p className="max-w-2xl text-base text-slate-600">
           从公开渠道精选最新 AI 资讯，借助 DeepSeek 提出关键问题与洞察分析，帮助你快速把握今日焦点。
         </p>
@@ -63,17 +80,25 @@ export default function HomePage() {
                         {item.title}
                       </a>
                     </h2>
-                    {item.source ? (
-                      <p className="text-sm uppercase tracking-[0.18em] text-slate-500">
-                        {item.source}
+                    {(item.source || typeof item.hotnessScore === "number") && (
+                      <p className="meta-line">
+                        {item.source ? <span>{item.source}</span> : null}
+                        {typeof item.hotnessScore === "number" ? (
+                          <span>热度指数 {Math.round(item.hotnessScore)}</span>
+                        ) : null}
                       </p>
-                    ) : null}
+                    )}
                   </div>
                   <div className="space-y-2">
                     <p className="question">Q. {item.question}</p>
-                    <p className="answer whitespace-pre-wrap">A. {item.answer}</p>
+                    <div className="answer">
+                      {getAnswerParagraphs(item.answer).map((paragraph, paragraphIndex) => (
+                        <p key={`${item.id ?? index}-answer-${paragraphIndex}`}>
+                          {paragraphIndex === 0 ? `A. ${paragraph}` : paragraph}
+                        </p>
+                      ))}
+                    </div>
                   </div>
-
                 </div>
               </div>
             </li>

@@ -10,7 +10,9 @@ const newsSources = require("../config/newsSources");
 dotenv.config();
 
 const DISPATCH_HOUR = Number.parseInt(process.env.DISPATCH_HOUR_BEIJING ?? "9", 10);
-const ITEMS_LIMIT = 10;
+const ITEMS_LIMIT = 30;
+const ANSWER_MIN_LENGTH = 1000;
+const ANSWER_MAX_LENGTH = 2000;
 const KEYWORD_PATTERNS = [
   /\bAI\b/i,
   /artificial intelligence/i,
@@ -31,6 +33,22 @@ const KEYWORD_PATTERNS = [
   /算力/,
   /智能体/,
   /自动驾驶/
+];
+
+const NEWS_SIGNAL_PATTERNS = [
+  { pattern: /\b(announce[sd]?|announcing)\b/i, weight: 2 },
+  { pattern: /\b(launch(ed|ing)?|release[sd]?|unveil(ed|ing)?)\b/i, weight: 3 },
+  { pattern: /\b(introduc(e|ing|ed)|debut(s|ed)?)\b/i, weight: 2 },
+  { pattern: /\b(update[sd]?|upgrade[sd]?|refresh(ed|ing)?)\b/i, weight: 1 },
+  { pattern: /\b(partnership|collaborat(e|ion)|alliance|integrat(e|ion))\b/i, weight: 2 },
+  { pattern: /\b(regulation|policy|framework|law|bill|act|compliance|standard)\b/i, weight: 3 },
+  { pattern: /\b(funding|investment|round|acquisition|merger|deal|financing)\b/i, weight: 2 },
+  { pattern: /\b(public preview|general availability|GA release)\b/i, weight: 2 },
+  {
+    pattern:
+      /(发布|推出|上线|宣布|升级|迭代|合作|联合|集成|政策|法规|条例|法案|指导|标准|监管|融资|投资|收购|并购|新产品|新技术|正式版|公测)/,
+    weight: 3
+  }
 ];
 
 const parser = new Parser({
@@ -75,6 +93,56 @@ const sanitizeText = (text, maxLength = 800) => {
   return `${normalized.slice(0, maxLength)}...`;
 };
 
+const sanitizeAnswer = (text, maxLength = 4800) => {
+  if (!text) return "";
+  const normalized = String(text).replace(/\r\n/g, "\n");
+  const paragraphs = normalized
+    .split(/\n{2,}/)
+    .map((paragraph) => paragraph.replace(/\s+/g, " ").trim())
+    .filter(Boolean);
+  if (paragraphs.length === 0) {
+    return "";
+  }
+  const joined = paragraphs.join("\n\n");
+  if (joined.length <= maxLength) {
+    return joined;
+  }
+  return `${joined.slice(0, maxLength).trim()}...`;
+};
+
+const computeNewsSignal = (title, summary) => {
+  const text = `${title ?? ""} ${summary ?? ""}`;
+  let score = 0;
+  for (const { pattern, weight } of NEWS_SIGNAL_PATTERNS) {
+    if (pattern.test(text)) {
+      score += weight;
+    }
+  }
+  return score;
+};
+
+const isNewsWorthy = (signal, baseWeight = 0) => {
+  if (signal >= 2) {
+    return true;
+  }
+  if (baseWeight >= 10 && signal >= 1) {
+    return true;
+  }
+  return signal > 0;
+};
+
+const computeHotnessScore = (item) => {
+  const now = Date.now();
+  const recencyHours = item.publishedAt
+    ? Math.max(0, (now - item.publishedAt) / (1000 * 60 * 60))
+    : 72;
+  const recencyScore = Math.max(0, 72 - recencyHours);
+  const baseWeight = item.weight ?? 0;
+  const newsSignal = item.newsSignal ?? computeNewsSignal(item.title, item.summary);
+  const engagement = item.engagement ?? 0;
+  return baseWeight * 10 + newsSignal * 4 + recencyScore * 2 + engagement * 3;
+};
+
 const isAIRelevant = (content) => {
   if (!content) return false;
   const normalized = content.toLowerCase();
@@ -109,7 +177,8 @@ const fetchFromRss = async (source) => {
         summary: sanitizeText(item.contentSnippet || item.content || item.summary, 600),
         publishedAt: parseDateToTimestamp(item.isoDate || item.pubDate),
         language: source.language,
-        weight: source.weight ?? 0
+        weight: source.weight ?? 0,
+        engagement: 0
       };
     });
 };
@@ -141,7 +210,8 @@ const fetchFromHackerNews = async (source) => {
         summary: sanitizeText(item.story_text || item.comment_text, 600),
         publishedAt: parseDateToTimestamp(item.created_at),
         language: source.language,
-        weight: (source.weight ?? 0) + (item.points ?? 0) * 2
+        weight: source.weight ?? 0,
+        engagement: item.points ?? 0
       };
     });
 };
@@ -169,7 +239,11 @@ const collectNewsItems = async () => {
         if (!isAIRelevant(textForFilter)) {
           continue;
         }
-        aggregated.push({ ...item });
+        const newsSignal = computeNewsSignal(item.title, item.summary);
+        if (!isNewsWorthy(newsSignal, item.weight ?? 0)) {
+          continue;
+        }
+        aggregated.push({ ...item, newsSignal });
       }
     } catch (error) {
       console.warn(`来源 ${source.name} 获取失败：${error.message}`);
@@ -186,24 +260,22 @@ const dedupeAndSort = (items) => {
       continue;
     }
     const key = (item.url || item.id).split("#")[0];
+    const enriched = { ...item };
+    enriched.hotnessScore = computeHotnessScore(enriched);
     if (!map.has(key)) {
-      map.set(key, item);
+      map.set(key, enriched);
       continue;
     }
     const existing = map.get(key);
-    const existingScore = (existing.publishedAt ?? 0) + (existing.weight ?? 0) * 60 * 60 * 1000;
-    const newScore = (item.publishedAt ?? 0) + (item.weight ?? 0) * 60 * 60 * 1000;
-    if (newScore > existingScore) {
-      map.set(key, item);
+    if ((enriched.hotnessScore ?? 0) > (existing.hotnessScore ?? 0)) {
+      map.set(key, enriched);
     }
   }
 
   const deduped = Array.from(map.values());
-  return deduped.sort((a, b) => {
-    const scoreA = (a.publishedAt ?? 0) + (a.weight ?? 0) * 60 * 60 * 1000;
-    const scoreB = (b.publishedAt ?? 0) + (b.weight ?? 0) * 60 * 60 * 1000;
-    return scoreB - scoreA;
-  });
+  return deduped.sort(
+    (a, b) => (b.hotnessScore ?? 0) - (a.hotnessScore ?? 0)
+  );
 };
 
 const selectTopItems = (items) => {
@@ -211,58 +283,7 @@ const selectTopItems = (items) => {
     return [];
   }
 
-  const startOfToday = getStartOfTodayTimestamp() * 1000;
-  const todaysItems = items.filter((item) => !item.publishedAt || item.publishedAt >= startOfToday);
-  const workingSet = todaysItems.length >= ITEMS_LIMIT ? todaysItems : items;
-
-  const englishQuota = Math.floor(ITEMS_LIMIT / 2);
-  const chineseQuota = ITEMS_LIMIT - englishQuota;
-  const counts = { en: 0, zh: 0 };
-  const selected = [];
-  const fallback = [];
-  const selectedKeys = new Set();
-
-  const addItem = (item) => {
-    const key = item.id || item.url;
-    if (!key || selectedKeys.has(key)) {
-      return false;
-    }
-    selected.push(item);
-    selectedKeys.add(key);
-    return true;
-  };
-
-  for (const item of workingSet) {
-    if (selected.length >= ITEMS_LIMIT) {
-      break;
-    }
-    const language = item.language === "zh" ? "zh" : "en";
-    if (language === "en" && counts.en < englishQuota && addItem(item)) {
-      counts.en += 1;
-      continue;
-    }
-    if (language === "zh" && counts.zh < chineseQuota && addItem(item)) {
-      counts.zh += 1;
-      continue;
-    }
-    fallback.push(item);
-  }
-
-  if (selected.length < ITEMS_LIMIT) {
-    for (const item of fallback) {
-      if (selected.length >= ITEMS_LIMIT) break;
-      addItem(item);
-    }
-  }
-
-  if (selected.length < ITEMS_LIMIT) {
-    for (const item of workingSet) {
-      if (selected.length >= ITEMS_LIMIT) break;
-      addItem(item);
-    }
-  }
-
-  return selected.slice(0, ITEMS_LIMIT);
+  return items.slice(0, ITEMS_LIMIT);
 };
 
 const fetchDailyNews = async () => {
@@ -302,7 +323,7 @@ const fallbackParseAnswer = (content) => {
   if (questionMatch && answerMatch) {
     return {
       question: sanitizeText(questionMatch[1], 200),
-      answer: sanitizeText(answerMatch[1], 1200)
+      answer: sanitizeAnswer(answerMatch[1], 4800)
     };
   }
 
@@ -318,7 +339,7 @@ const fallbackParseAnswer = (content) => {
   const restJoined = rest.join("\n");
   return {
     question: sanitizeText(firstLine, 200),
-    answer: sanitizeText(restJoined || content, 1200)
+    answer: sanitizeAnswer(restJoined || content, 4800)
   };
 };
 
@@ -332,63 +353,111 @@ const callDeepSeek = async ({ title, url, summary, source, language }) => {
     };
   }
 
-  const promptParts = [
-    "你是一名人工智能行业的资深分析师。",
-    "请针对下面的新闻先提出一个最值得追问的问题，再给出 150-220 字的中文专业解读。",
-    "输出要求：直接返回 JSON 对象，形如 {\"question\": \"...\", \"answer\": \"...\"}，不要包含额外解释。",
-    "回答需包含现状、意义与潜在风险或挑战，语气保持客观、专业。",
-    `新闻标题：${title}`,
-    `新闻来源：${source ?? "未知"}`,
-    `原文语言：${language === "zh" ? "中文" : "英文"}`,
-    url ? `链接：${url}` : null,
-    summary ? `原文摘要：${summary}` : null
-  ]
-    .filter(Boolean)
-    .join("\n");
+  const analysisRangeText = `${ANSWER_MIN_LENGTH} 至 ${ANSWER_MAX_LENGTH} 字`;
 
-  const response = await fetch("https://api.siliconflow.cn/v1/chat/completions", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${apiKey}`
-    },
-    body: JSON.stringify({
-      model: "deepseek-ai/DeepSeek-V3.1",
-      messages: [
-        {
-          role: "system",
-          content: "你是一名关注人工智能行业的科技分析师，需要给出简洁、有洞察力的中文解读。"
-        },
-        {
-          role: "user",
-          content: promptParts
-        }
-      ],
-      temperature: 0.7,
-      max_tokens: 700
-    })
-  });
+  const buildPrompt = (extraDirective = "") =>
+    [
+      "你是一名人工智能行业的资深分析师。",
+      `请针对下面的新闻先提出一个最值得追问的问题，再撰写 ${analysisRangeText} 的中文深度分析，分为 4-6 个段落，每段 3-4 句。`,
+      "分析需覆盖：1）事件背景与核心发布内容；2）对行业或生态的影响；3）技术、商业或监管层面的机会与风险；4）建议后续关注的指标或行动。",
+      "输出要求：直接返回 JSON 对象，形如 {\"question\":\"...\",\"answer\":\"...\"}，不要包含额外解释。",
+      "语气保持客观、专业，尽量引用公开事实、数据或案例来支撑判断。",
+      extraDirective || null,
+      `新闻标题：${title}`,
+      `新闻来源：${source ?? "未知"}`,
+      `原文语言：${language === "zh" ? "中文" : "英文"}`,
+      url ? `链接：${url}` : null,
+      summary ? `原文摘要：${summary}` : null
+    ]
+      .filter(Boolean)
+      .join("\n");
 
-  if (!response.ok) {
-    const errText = await response.text();
-    throw new Error(`调用 DeepSeek 失败：${response.status} ${errText}`);
+  const requestInsights = async (prompt) => {
+    const response = await fetch("https://api.siliconflow.cn/v1/chat/completions", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${apiKey}`
+      },
+      body: JSON.stringify({
+        model: "deepseek-ai/DeepSeek-V3.1",
+        messages: [
+          {
+            role: "system",
+            content: "你是一名关注人工智能行业的科技分析师，需要输出结构化、扎实的中文洞察。"
+          },
+          {
+            role: "user",
+            content: prompt
+          }
+        ],
+        temperature: 0.6,
+        max_tokens: 4096
+      })
+    });
+
+    if (!response.ok) {
+      const errText = await response.text();
+      throw new Error(`调用 DeepSeek 失败：${response.status} ${errText}`);
+    }
+
+    const data = await response.json();
+    const content = data?.choices?.[0]?.message?.content;
+    if (!content) {
+      throw new Error("DeepSeek 返回数据为空");
+    }
+
+    const parsed = extractJsonObject(content) || fallbackParseAnswer(content);
+    const question = sanitizeText(parsed.question, 200);
+    const answer = sanitizeAnswer(parsed.answer, 4800);
+
+    if (!question || !answer) {
+      throw new Error("DeepSeek 输出缺少问题或回答");
+    }
+
+    return { question, answer };
+  };
+
+  const firstAttempt = await requestInsights(buildPrompt());
+  const firstLength = firstAttempt.answer.length;
+  if (firstLength >= ANSWER_MIN_LENGTH && firstLength <= ANSWER_MAX_LENGTH) {
+    return firstAttempt;
   }
 
-  const data = await response.json();
-  const content = data?.choices?.[0]?.message?.content;
-  if (!content) {
-    throw new Error("DeepSeek 返回数据为空");
+  console.warn(
+    `DeepSeek 输出长度为 ${firstLength} 字，未满足 ${analysisRangeText} 的目标，将尝试重新生成。`
+  );
+
+  try {
+    const secondAttempt = await requestInsights(
+      buildPrompt(
+        "请严格控制分析正文在 1000 至 2000 字之间，如有必要补充更多事实、数据或行业对比，以保证段落详实且不重复。"
+      )
+    );
+    const secondLength = secondAttempt.answer.length;
+    if (secondLength >= ANSWER_MIN_LENGTH && secondLength <= ANSWER_MAX_LENGTH) {
+      return secondAttempt;
+    }
+
+    const targetMid = (ANSWER_MIN_LENGTH + ANSWER_MAX_LENGTH) / 2;
+    const firstDistance = Math.abs(firstLength - targetMid);
+    const secondDistance = Math.abs(secondLength - targetMid);
+
+    if (secondDistance < firstDistance) {
+      console.warn(
+        `DeepSeek 重试后长度为 ${secondLength} 字，仍未落在目标范围内，但较接近期望，已采用该结果。`
+      );
+      return secondAttempt;
+    }
+
+    console.warn(
+      `DeepSeek 重试后长度为 ${secondLength} 字，仍未满足要求，将沿用首次结果。`
+    );
+  } catch (retryError) {
+    console.warn("DeepSeek 重试失败，保留首次结果。", retryError);
   }
 
-  const parsed = extractJsonObject(content) || fallbackParseAnswer(content);
-  const question = sanitizeText(parsed.question, 200);
-  const answer = sanitizeText(parsed.answer, 1200);
-
-  if (!question || !answer) {
-    throw new Error("DeepSeek 输出缺少问题或回答");
-  }
-
-  return { question, answer };
+  return firstAttempt;
 };
 
 const buildEmailContent = (items, generatedAtISO) => {
@@ -398,24 +467,60 @@ const buildEmailContent = (items, generatedAtISO) => {
     timeStyle: "short"
   }).format(new Date(generatedAtISO));
 
+  const splitAnswerParagraphs = (answer) =>
+    String(answer ?? "")
+      .split(/\n{2,}/)
+      .map((paragraph) => paragraph.trim())
+      .filter(Boolean);
+
+  const formatAnswerParagraphsHtml = (answer) => {
+    const paragraphs = splitAnswerParagraphs(answer);
+    if (paragraphs.length === 0) {
+      return "";
+    }
+    return paragraphs
+      .map((paragraph, index) => {
+        const prefix = index === 0 ? "A：" : "";
+        return `<p style="margin:0 0 12px 0;color:#334155;line-height:1.7;">${prefix}${paragraph}</p>`;
+      })
+      .join("");
+  };
+
+  const formatAnswerParagraphsText = (answer) => {
+    const paragraphs = splitAnswerParagraphs(answer);
+    if (paragraphs.length === 0) {
+      return "A：";
+    }
+    return paragraphs
+      .map((paragraph, index) => `${index === 0 ? "A：" : ""}${paragraph}`)
+      .join("\n\n    ");
+  };
+
   const htmlItems = items
     .map(
-      (item, index) => `
+      (item, index) => {
+        const hotness = Math.round(item.hotnessScore ?? 0);
+        const answerHtml = formatAnswerParagraphsHtml(item.answer);
+        return `
         <tr>
           <td style="padding:16px;border-bottom:1px solid #e2e8f0;">
             <h3 style="margin:0 0 8px 0;font-size:16px;color:#0f172a;">${index + 1}. <a href="${item.url}" style="color:#2563eb;text-decoration:none;">${item.title}</a></h3>
-            <p style="margin:0 0 8px 0;color:#475569;font-size:13px;">来源：${item.source ?? "未知"}</p>
+            <p style="margin:0 0 8px 0;color:#475569;font-size:13px;">来源：${item.source ?? "未知"}${
+              hotness > 0 ? ` · 热度指数：${hotness}` : ""
+            }</p>
             <p style="margin:0 0 12px 0;font-weight:600;color:#0f172a;">Q：${item.question}</p>
-            <p style="margin:0;color:#334155;line-height:1.6;white-space:pre-wrap;">A：${item.answer}</p>
+            ${answerHtml}
           </td>
-        </tr>`
+        </tr>`;
+      }
     )
     .join("\n");
 
   const html = `
     <div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#f8fafc;padding:24px;color:#0f172a;">
-      <h2 style="margin:0 0 16px 0;">今日 AI 科技热点速递</h2>
-      <p style="margin:0 0 24px 0;color:#475569;">生成时间（北京时间）：${formattedDate}</p>
+      <h2 style="margin:0 0 16px 0;">今日 AI 科技热点深读 · TOP 30</h2>
+      <p style="margin:0 0 8px 0;color:#475569;">生成时间（北京时间）：${formattedDate}</p>
+      <p style="margin:0 0 24px 0;color:#64748b;font-size:13px;">按综合热度排序，涵盖新产品、关键技术发布与最新政策动态。</p>
       <table style="border-collapse:collapse;width:100%;background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 10px 25px rgba(15,23,42,0.1);">
         <tbody>
           ${htmlItems}
@@ -427,18 +532,21 @@ const buildEmailContent = (items, generatedAtISO) => {
 
   const textItems = items
     .map((item, index) => {
-      return [
+      const hotness = Math.round(item.hotnessScore ?? 0);
+      const answerText = formatAnswerParagraphsText(item.answer);
+      const parts = [
         `${index + 1}. ${item.title}`,
-        `来源：${item.source ?? "未知"}`,
+        `来源：${item.source ?? "未知"}${hotness > 0 ? ` · 热度指数：${hotness}` : ""}`,
         `链接：${item.url}`,
         `Q：${item.question}`,
-        `A：${item.answer}`,
+        answerText,
         ""
-      ].join("\n");
+      ];
+      return parts.join("\n");
     })
     .join("\n");
 
-  const text = `今日 AI 科技热点速递\n生成时间（北京时间）：${formattedDate}\n\n${textItems}`;
+  const text = `今日 AI 科技热点深读 · TOP 30\n生成时间（北京时间）：${formattedDate}\n按综合热度排序，聚焦新产品、技术突破与重要监管动态。\n\n${textItems}`;
 
   return { html, text };
 };
@@ -484,13 +592,15 @@ const sendEmail = async (items, generatedAtISO) => {
 const writeDataFile = (items, generatedAtISO) => {
   const output = {
     generatedAt: generatedAtISO,
-    items: items.map(({ id, title, url, source, question, answer }) => ({
+    items: items.map(({ id, title, url, source, question, answer, hotnessScore }) => ({
       id,
       title,
       url,
       source,
       question,
-      answer
+      answer,
+      hotnessScore:
+        typeof hotnessScore === "number" ? Math.round(hotnessScore) : undefined
     }))
   };
 
