@@ -73,6 +73,7 @@ export default function HomePage() {
                     <p className="question">Q. {item.question}</p>
                     <p className="answer whitespace-pre-wrap">A. {item.answer}</p>
                   </div>
+
                 </div>
               </div>
             </li>
