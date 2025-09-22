@@ -11,6 +11,7 @@ dotenv.config();
 
 const DISPATCH_HOUR = Number.parseInt(process.env.DISPATCH_HOUR_BEIJING ?? "9", 10);
 const ITEMS_LIMIT = 30;
+const NEWS_MAX_AGE_MS = 7 * 24 * 60 * 60 * 1000;
 const ANSWER_MIN_LENGTH = 1000;
 const ANSWER_MAX_LENGTH = 2000;
 const KEYWORD_PATTERNS = [
@@ -159,6 +160,18 @@ const parseDateToTimestamp = (value) => {
   return time;
 };
 
+const isRecentEnough = (timestamp, maxAge = NEWS_MAX_AGE_MS) => {
+  if (typeof timestamp !== "number") {
+    return false;
+  }
+  const now = Date.now();
+  const age = now - timestamp;
+  if (age < 0) {
+    return true;
+  }
+  return age <= maxAge;
+};
+
 const hashId = (sourceId, rawId) =>
   crypto.createHash("md5").update(`${sourceId}:${rawId}`).digest("hex");
 
@@ -237,6 +250,9 @@ const collectNewsItems = async () => {
       for (const item of items) {
         const textForFilter = `${item.title} ${item.summary ?? ""}`;
         if (!isAIRelevant(textForFilter)) {
+          continue;
+        }
+        if (!isRecentEnough(item.publishedAt)) {
           continue;
         }
         const newsSignal = computeNewsSignal(item.title, item.summary);
