@@ -354,6 +354,8 @@ const callDeepSeek = async ({ title, url, summary, source, language }) => {
   }
 
   const analysisRangeText = `${ANSWER_MIN_LENGTH} 至 ${ANSWER_MAX_LENGTH} 字`;
+  const systemPrompt =
+    `你是一名关注人工智能行业的科技分析师，需要输出结构化、扎实的中文洞察。务必使用中文作答，并将分析正文控制在 ${analysisRangeText} 之间。`;
 
   const buildPrompt = () =>
     [
@@ -384,7 +386,7 @@ const callDeepSeek = async ({ title, url, summary, source, language }) => {
         messages: [
           {
             role: "system",
-            content: "你是一名关注人工智能行业的科技分析师，需要输出结构化、扎实的中文洞察。"
+            content: systemPrompt
           },
           {
             role: "user",
@@ -417,16 +419,7 @@ const callDeepSeek = async ({ title, url, summary, source, language }) => {
 
     return { question, answer };
   };
-
-  const firstAttempt = await requestInsights(buildPrompt());
-  const firstLength = firstAttempt.answer.length;
-  if (firstLength < ANSWER_MIN_LENGTH || firstLength > ANSWER_MAX_LENGTH) {
-    console.warn(
-      `DeepSeek 输出长度为 ${firstLength} 字，未落在 ${analysisRangeText} 的目标范围内。`
-    );
-  }
-
-  return firstAttempt;
+  return requestInsights(buildPrompt());
 };
 
 const buildEmailContent = (items, generatedAtISO) => {
