@@ -419,7 +419,6 @@ const callDeepSeek = async ({ title, url, summary, source, language }) => {
 
     return { question, answer };
   };
-
   return requestInsights(buildPrompt());
 };
 
