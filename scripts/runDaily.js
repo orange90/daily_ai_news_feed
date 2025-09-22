@@ -354,15 +354,17 @@ const callDeepSeek = async ({ title, url, summary, source, language }) => {
   }
 
   const analysisRangeText = `${ANSWER_MIN_LENGTH} 至 ${ANSWER_MAX_LENGTH} 字`;
+  const systemPrompt =
+    `你是一名关注人工智能行业的科技分析师，需要输出结构化、扎实的中文洞察。务必使用中文作答，并将分析正文控制在 ${analysisRangeText} 之间。`;
 
-  const buildPrompt = (extraDirective = "") =>
+  const buildPrompt = () =>
     [
       "你是一名人工智能行业的资深分析师。",
-      `请针对下面的新闻先提出一个最值得追问的问题，再撰写 ${analysisRangeText} 的中文深度分析，分为 4-6 个段落，每段 3-4 句。`,
+      `请针对下面的新闻先提出一个最值得追问的问题，再撰写一份中文深度分析，正文请严格控制在 ${analysisRangeText} 之间，并分为 4-6 个段落，每段 3-4 句。`,
       "分析需覆盖：1）事件背景与核心发布内容；2）对行业或生态的影响；3）技术、商业或监管层面的机会与风险；4）建议后续关注的指标或行动。",
+      "如需补充更多事实、数据或行业对比以确保内容扎实，也请在上述字数范围内完成。",
       "输出要求：直接返回 JSON 对象，形如 {\"question\":\"...\",\"answer\":\"...\"}，不要包含额外解释。",
       "语气保持客观、专业，尽量引用公开事实、数据或案例来支撑判断。",
-      extraDirective || null,
       `新闻标题：${title}`,
       `新闻来源：${source ?? "未知"}`,
       `原文语言：${language === "zh" ? "中文" : "英文"}`,
@@ -384,7 +386,7 @@ const callDeepSeek = async ({ title, url, summary, source, language }) => {
         messages: [
           {
             role: "system",
-            content: "你是一名关注人工智能行业的科技分析师，需要输出结构化、扎实的中文洞察。"
+            content: systemPrompt
           },
           {
             role: "user",
@@ -418,46 +420,7 @@ const callDeepSeek = async ({ title, url, summary, source, language }) => {
     return { question, answer };
   };
 
-  const firstAttempt = await requestInsights(buildPrompt());
-  const firstLength = firstAttempt.answer.length;
-  if (firstLength >= ANSWER_MIN_LENGTH && firstLength <= ANSWER_MAX_LENGTH) {
-    return firstAttempt;
-  }
-
-  console.warn(
-    `DeepSeek 输出长度为 ${firstLength} 字，未满足 ${analysisRangeText} 的目标，将尝试重新生成。`
-  );
-
-  try {
-    const secondAttempt = await requestInsights(
-      buildPrompt(
-        "请严格控制分析正文在 1000 至 2000 字之间，如有必要补充更多事实、数据或行业对比，以保证段落详实且不重复。"
-      )
-    );
-    const secondLength = secondAttempt.answer.length;
-    if (secondLength >= ANSWER_MIN_LENGTH && secondLength <= ANSWER_MAX_LENGTH) {
-      return secondAttempt;
-    }
-
-    const targetMid = (ANSWER_MIN_LENGTH + ANSWER_MAX_LENGTH) / 2;
-    const firstDistance = Math.abs(firstLength - targetMid);
-    const secondDistance = Math.abs(secondLength - targetMid);
-
-    if (secondDistance < firstDistance) {
-      console.warn(
-        `DeepSeek 重试后长度为 ${secondLength} 字，仍未落在目标范围内，但较接近期望，已采用该结果。`
-      );
-      return secondAttempt;
-    }
-
-    console.warn(
-      `DeepSeek 重试后长度为 ${secondLength} 字，仍未满足要求，将沿用首次结果。`
-    );
-  } catch (retryError) {
-    console.warn("DeepSeek 重试失败，保留首次结果。", retryError);
-  }
-
-  return firstAttempt;
+  return requestInsights(buildPrompt());
 };
 
 const buildEmailContent = (items, generatedAtISO) => {
