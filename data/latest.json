@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-05-24T05:01:28.429Z",
+  "generatedAt": "2026-05-25T05:19:49.197Z",
   "items": [
     {
-      "id": "45f7f84c29d69b3d9b6101719676500f",
-      "title": "Easier bets to get early customer validation and VC attention",
-      "url": "https://news.ycombinator.com/item?id=48254369",
+      "id": "8cbcb044b1f29bcfbcea63e6f3ade65d",
+      "title": "HN: Silau – AI detects employee burnout\"",
+      "url": "https://news.ycombinator.com/item?id=48262636",
       "source": "Hacker News · AI",
-      "question": "围绕“Easier bets to get early customer validation and VC attention”需要重点关注哪些问题？",
+      "question": "围绕“HN: Silau – AI detects employee burnout\"”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 454
+      "hotnessScore": 451
     },
     {
-      "id": "059a6285939626a97ca5a0a5e7bc8f85",
-      "title": "Maxtoken: A Unified Framework for Unbounded AI Output",
-      "url": "https://zenodo.org/records/20360523",
+      "id": "af6e8d3d75d03667dc12c7e6886cfcc9",
+      "title": "Show HN: Live AI music sequencing agent",
+      "url": "https://pretzel.shukant.com/?nickname=Anonymous&role=stage",
       "source": "Hacker News · AI",
-      "question": "围绕“Maxtoken: A Unified Framework for Unbounded AI Output”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: Live AI music sequencing agent”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 453
+      "hotnessScore": 448
     },
     {
       "id": "3166ea7f94ddf691b0130137e47d2cd5",
@@ -35,16 +35,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“U.S. pushes its AI in China and Asia after Trump-Xi meeting”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 123
-    },
-    {
-      "id": "c595c16c68108989e035b45ffd4c1010",
-      "title": "Big Europe and Asian private equity health funds merge to defy AI disruption",
-      "url": "https://www.ft.com/content/4da49f68-6a8d-4e1a-a933-abe10c185ff7",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Big Europe and Asian private equity health funds merge to defy AI disruption”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
+      "hotnessScore": 75
     },
     {
       "id": "fa77ee502b31c7059178e3cead6421e5",
