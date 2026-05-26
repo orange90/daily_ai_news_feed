@@ -1,24 +1,6 @@
 {
-  "generatedAt": "2026-05-25T05:19:49.197Z",
+  "generatedAt": "2026-05-26T05:03:24.215Z",
   "items": [
-    {
-      "id": "8cbcb044b1f29bcfbcea63e6f3ade65d",
-      "title": "HN: Silau – AI detects employee burnout\"",
-      "url": "https://news.ycombinator.com/item?id=48262636",
-      "source": "Hacker News · AI",
-      "question": "围绕“HN: Silau – AI detects employee burnout\"”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 451
-    },
-    {
-      "id": "af6e8d3d75d03667dc12c7e6886cfcc9",
-      "title": "Show HN: Live AI music sequencing agent",
-      "url": "https://pretzel.shukant.com/?nickname=Anonymous&role=stage",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Live AI music sequencing agent”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 448
-    },
     {
       "id": "3166ea7f94ddf691b0130137e47d2cd5",
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -35,7 +17,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“U.S. pushes its AI in China and Asia after Trump-Xi meeting”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 75
+      "hotnessScore": 62
     },
     {
       "id": "fa77ee502b31c7059178e3cead6421e5",
