@@ -1,23 +1,32 @@
 {
-  "generatedAt": "2026-06-18T05:55:24.764Z",
+  "generatedAt": "2026-06-19T06:18:51.291Z",
   "items": [
     {
-      "id": "6a250a8d9ec8a0495798b640232b98ef",
-      "title": "Ask HN: AI models are built on all of us, should their weights act like patents?",
-      "url": "https://news.ycombinator.com/item?id=48579359",
+      "id": "8c2184639bfd62a1cee997abe5e415db",
+      "title": "Ask HN: Multi-LLM orchestration frameworks that collaborate?",
+      "url": "https://news.ycombinator.com/item?id=48593979",
       "source": "Hacker News · AI",
-      "question": "围绕“Ask HN: AI models are built on all of us, should their weights act like patents?”需要重点关注哪些问题？",
+      "question": "围绕“Ask HN: Multi-LLM orchestration frameworks that collaborate?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 465
+      "hotnessScore": 446
     },
     {
-      "id": "83d4f6fe8aca2bad3394c940520e0ced",
-      "title": "Show HN: Draft, Open Source Agent Context Sync/Collaboration",
-      "url": "https://github.com/idodekerobo/draft",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Draft, Open Source Agent Context Sync/Collaboration”需要重点关注哪些问题？",
+      "id": "2f91a8af25bf688ee05cab4474abca26",
+      "title": "‘We created a monster’: companies rein in AI usage as costs strain budgets",
+      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“‘We created a monster’: companies rein in AI usage as costs strain budgets”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 447
+      "hotnessScore": 207
+    },
+    {
+      "id": "e527a72b14352423d08717fb85776e25",
+      "title": "SpaceX plots $20bn bond deal after record IPO",
+      "url": "https://www.ft.com/content/8b73b4ce-3855-4b89-9110-3d892567f28a",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“SpaceX plots $20bn bond deal after record IPO”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 203
     },
     {
       "id": "ad4c576b878f78a63aefbe5fdfcd155c",
@@ -26,7 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“To avoid backlash, tech giants must share their AI wealth before it’s too late”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 190
+      "hotnessScore": 141
     },
     {
       "id": "3a9b9fa0c9620992ad3a2efb8d5d0951",
@@ -35,7 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Amazon backs AI start-up developing models to simulate physical world”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 160
+      "hotnessScore": 111
     },
     {
       "id": "047ced80087e20599eaf2e10c92fffcb",
@@ -44,7 +53,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Jeff Bezos backs UK start-up CuspAI in $400mn funding round”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 160
+      "hotnessScore": 111
     },
     {
       "id": "54aadb0ebcee3d55ba4d5794ea884597",
@@ -53,7 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“The White House’s capricious controls on Anthropic”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 144
+      "hotnessScore": 95
     },
     {
       "id": "432f54282d3ced10d248345f349c290d",
@@ -62,34 +71,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“Exclusive eBook: How AI is becoming the next military advisor”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 141
-    },
-    {
-      "id": "feb4d58be8a66979d0f6e2f22e5abad3",
-      "title": "Private equity bosses warn of AI threat to bets on law and accountancy",
-      "url": "https://www.ft.com/content/d368d0b8-9264-408b-b0af-0f0b660e1c8f",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Private equity bosses warn of AI threat to bets on law and accountancy”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 116
-    },
-    {
-      "id": "03e7122927f94033c674466c4b4924bc",
-      "title": "SpaceX shares gain for second day after blockbuster debut",
-      "url": "https://www.ft.com/content/55fe2a70-4cf1-4749-a2c2-f0a5985dd281",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“SpaceX shares gain for second day after blockbuster debut”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 97
-    },
-    {
-      "id": "e53d9c0adfdaac4e1da2522ba59b3778",
-      "title": "Legal AI start-up Legora to double headcount",
-      "url": "https://www.ft.com/content/51b43d91-ae82-4142-9ff6-3252720e2906",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Legal AI start-up Legora to double headcount”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
+      "hotnessScore": 93
     }
   ]
 }
