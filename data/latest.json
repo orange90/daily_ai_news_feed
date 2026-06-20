@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-19T06:18:51.291Z",
+  "generatedAt": "2026-06-20T05:13:25.875Z",
   "items": [
     {
-      "id": "8c2184639bfd62a1cee997abe5e415db",
-      "title": "Ask HN: Multi-LLM orchestration frameworks that collaborate?",
-      "url": "https://news.ycombinator.com/item?id=48593979",
-      "source": "Hacker News · AI",
-      "question": "围绕“Ask HN: Multi-LLM orchestration frameworks that collaborate?”需要重点关注哪些问题？",
+      "id": "d4bcca9c027bac4ff5e33ae5b5bf6478",
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "source": "MIT Technology Review",
+      "question": "围绕“A startup claims it broke through a bottleneck that’s holding back LLMs”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 446
+      "hotnessScore": 175
     },
     {
       "id": "2f91a8af25bf688ee05cab4474abca26",
@@ -17,7 +17,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“‘We created a monster’: companies rein in AI usage as costs strain budgets”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 207
+      "hotnessScore": 162
     },
     {
       "id": "e527a72b14352423d08717fb85776e25",
@@ -26,7 +26,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“SpaceX plots $20bn bond deal after record IPO”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 203
+      "hotnessScore": 158
     },
     {
       "id": "ad4c576b878f78a63aefbe5fdfcd155c",
@@ -35,25 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“To avoid backlash, tech giants must share their AI wealth before it’s too late”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 141
-    },
-    {
-      "id": "3a9b9fa0c9620992ad3a2efb8d5d0951",
-      "title": "Amazon backs AI start-up developing models to simulate physical world",
-      "url": "https://www.ft.com/content/1e0365db-a363-4d73-9960-23d25420e9f5",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Amazon backs AI start-up developing models to simulate physical world”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 111
-    },
-    {
-      "id": "047ced80087e20599eaf2e10c92fffcb",
-      "title": "Jeff Bezos backs UK start-up CuspAI in $400mn funding round",
-      "url": "https://www.ft.com/content/4c479227-567c-435e-a4d3-795dd957b347",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Jeff Bezos backs UK start-up CuspAI in $400mn funding round”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 111
+      "hotnessScore": 95
     },
     {
       "id": "54aadb0ebcee3d55ba4d5794ea884597",
@@ -62,16 +44,25 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“The White House’s capricious controls on Anthropic”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 95
+      "hotnessScore": 72
     },
     {
-      "id": "432f54282d3ced10d248345f349c290d",
-      "title": "Exclusive eBook: How AI is becoming the next military advisor",
-      "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Exclusive eBook: How AI is becoming the next military advisor”需要重点关注哪些问题？",
+      "id": "3a9b9fa0c9620992ad3a2efb8d5d0951",
+      "title": "Amazon backs AI start-up developing models to simulate physical world",
+      "url": "https://www.ft.com/content/1e0365db-a363-4d73-9960-23d25420e9f5",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Amazon backs AI start-up developing models to simulate physical world”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 93
+      "hotnessScore": 68
+    },
+    {
+      "id": "047ced80087e20599eaf2e10c92fffcb",
+      "title": "Jeff Bezos backs UK start-up CuspAI in $400mn funding round",
+      "url": "https://www.ft.com/content/4c479227-567c-435e-a4d3-795dd957b347",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Jeff Bezos backs UK start-up CuspAI in $400mn funding round”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 68
     }
   ]
 }
