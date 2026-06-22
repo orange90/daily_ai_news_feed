@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-06-21T06:00:20.215Z",
+  "generatedAt": "2026-06-22T06:29:45.576Z",
   "items": [
     {
-      "id": "b3653bced81fefec3e334aa4c33fda07",
-      "title": "Plotting AI model release cadence: two labs are accelerating, three aren't",
-      "url": "https://swiftalerts.trade/the-cadence-trade-hn",
+      "id": "cd4329e38f9df9364c588fee41f11c6e",
+      "title": "Bill that would mandate AI chip location tracking gains industry support",
+      "url": "https://www.nbcnews.com/tech/tech-news/chips-security-act-gains-industry-support-letter-rcna350500",
       "source": "Hacker News · AI",
-      "question": "围绕“Plotting AI model release cadence: two labs are accelerating, three aren't”需要重点关注哪些问题？",
+      "question": "围绕“Bill that would mandate AI chip location tracking gains industry support”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 452
+      "hotnessScore": 471
     },
     {
-      "id": "8934bebd758399c660c17fa605b06c71",
-      "title": "Beyond the $7.4B Headline: DeepSeek's Series A signals Chinese AI alliance shift",
-      "url": "https://asiaai.fyi/east-asias-ai-capital-surge-homegrown-models-challenge-west-amid-mineral-tensions/",
+      "id": "42f1a08259949989d58f378c706615ad",
+      "title": "Ask HN: What will AI coding look like when today's CS freshmen graduate?",
+      "url": "https://news.ycombinator.com/item?id=48624855",
       "source": "Hacker News · AI",
-      "question": "围绕“Beyond the $7.4B Headline: DeepSeek's Series A signals Chinese AI alliance shift”需要重点关注哪些问题？",
+      "question": "围绕“Ask HN: What will AI coding look like when today's CS freshmen graduate?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 449
+      "hotnessScore": 451
     },
     {
       "id": "d4bcca9c027bac4ff5e33ae5b5bf6478",
@@ -26,16 +26,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“A startup claims it broke through a bottleneck that’s holding back LLMs”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 125
-    },
-    {
-      "id": "2f91a8af25bf688ee05cab4474abca26",
-      "title": "‘We created a monster’: companies rein in AI usage as costs strain budgets",
-      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“‘We created a monster’: companies rein in AI usage as costs strain budgets”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 112
+      "hotnessScore": 76
     },
     {
       "id": "e527a72b14352423d08717fb85776e25",
@@ -44,7 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“SpaceX plots $20bn bond deal after record IPO”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 108
+      "hotnessScore": 76
     },
     {
       "id": "ad4c576b878f78a63aefbe5fdfcd155c",
@@ -54,6 +45,15 @@
       "question": "围绕“To avoid backlash, tech giants must share their AI wealth before it’s too late”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 72
+    },
+    {
+      "id": "2f91a8af25bf688ee05cab4474abca26",
+      "title": "‘We created a monster’: companies rein in AI usage as costs strain budgets",
+      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“‘We created a monster’: companies rein in AI usage as costs strain budgets”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 68
     },
     {
       "id": "3a9b9fa0c9620992ad3a2efb8d5d0951",
