@@ -1,32 +1,41 @@
 {
-  "generatedAt": "2026-06-22T06:29:45.576Z",
+  "generatedAt": "2026-06-23T04:59:52.214Z",
   "items": [
     {
-      "id": "cd4329e38f9df9364c588fee41f11c6e",
-      "title": "Bill that would mandate AI chip location tracking gains industry support",
-      "url": "https://www.nbcnews.com/tech/tech-news/chips-security-act-gains-industry-support-letter-rcna350500",
-      "source": "Hacker News · AI",
-      "question": "围绕“Bill that would mandate AI chip location tracking gains industry support”需要重点关注哪些问题？",
+      "id": "a2c448e8e0dca0595e29c18c5589d590",
+      "title": "Why AI tokens will send your enterprise cloud bill sky-high again",
+      "url": "https://www.zdnet.com/article/why-ai-tokens-will-send-enterprise-cloud-bill-sky-high/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Why AI tokens will send your enterprise cloud bill sky-high again”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 471
+      "hotnessScore": 234
     },
     {
-      "id": "42f1a08259949989d58f378c706615ad",
-      "title": "Ask HN: What will AI coding look like when today's CS freshmen graduate?",
-      "url": "https://news.ycombinator.com/item?id=48624855",
-      "source": "Hacker News · AI",
-      "question": "围绕“Ask HN: What will AI coding look like when today's CS freshmen graduate?”需要重点关注哪些问题？",
+      "id": "68044c9d8315af6f13217f695b310ece",
+      "title": "SpaceX sheds $400bn in market value as debut rally hits reverse",
+      "url": "https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“SpaceX sheds $400bn in market value as debut rally hits reverse”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 451
+      "hotnessScore": 197
     },
     {
-      "id": "d4bcca9c027bac4ff5e33ae5b5bf6478",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "source": "MIT Technology Review",
-      "question": "围绕“A startup claims it broke through a bottleneck that’s holding back LLMs”需要重点关注哪些问题？",
+      "id": "553517454ba576f9f3f5951734bf6162",
+      "title": "Chevron moves into power production with Microsoft AI deal",
+      "url": "https://www.ft.com/content/57cc533b-08c3-419b-919c-23bec3f248f4",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Chevron moves into power production with Microsoft AI deal”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 76
+      "hotnessScore": 188
+    },
+    {
+      "id": "04a249f4e180e48117d517a4afd7ebf6",
+      "title": "AI law firm wins UK court case for first time",
+      "url": "https://www.ft.com/content/b4f8f589-6771-4df5-ac4d-cb15d94991fb",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“AI law firm wins UK court case for first time”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 181
     },
     {
       "id": "e527a72b14352423d08717fb85776e25",
@@ -38,15 +47,6 @@
       "hotnessScore": 76
     },
     {
-      "id": "ad4c576b878f78a63aefbe5fdfcd155c",
-      "title": "To avoid backlash, tech giants must share their AI wealth before it’s too late",
-      "url": "https://www.ft.com/content/588ad229-1874-46dc-ad60-87f62b259fd3",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“To avoid backlash, tech giants must share their AI wealth before it’s too late”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
-    },
-    {
       "id": "2f91a8af25bf688ee05cab4474abca26",
       "title": "‘We created a monster’: companies rein in AI usage as costs strain budgets",
       "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
@@ -56,20 +56,11 @@
       "hotnessScore": 68
     },
     {
-      "id": "3a9b9fa0c9620992ad3a2efb8d5d0951",
-      "title": "Amazon backs AI start-up developing models to simulate physical world",
-      "url": "https://www.ft.com/content/1e0365db-a363-4d73-9960-23d25420e9f5",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Amazon backs AI start-up developing models to simulate physical world”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
-      "id": "047ced80087e20599eaf2e10c92fffcb",
-      "title": "Jeff Bezos backs UK start-up CuspAI in $400mn funding round",
-      "url": "https://www.ft.com/content/4c479227-567c-435e-a4d3-795dd957b347",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Jeff Bezos backs UK start-up CuspAI in $400mn funding round”需要重点关注哪些问题？",
+      "id": "d4bcca9c027bac4ff5e33ae5b5bf6478",
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "source": "MIT Technology Review",
+      "question": "围绕“A startup claims it broke through a bottleneck that’s holding back LLMs”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
     }
