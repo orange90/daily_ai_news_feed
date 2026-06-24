@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-23T04:59:52.214Z",
+  "generatedAt": "2026-06-24T05:02:02.356Z",
   "items": [
     {
-      "id": "a2c448e8e0dca0595e29c18c5589d590",
-      "title": "Why AI tokens will send your enterprise cloud bill sky-high again",
-      "url": "https://www.zdnet.com/article/why-ai-tokens-will-send-enterprise-cloud-bill-sky-high/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Why AI tokens will send your enterprise cloud bill sky-high again”需要重点关注哪些问题？",
+      "id": "c307fb57ea6af3f09b60297ba08df7ce",
+      "title": "Big Tech critic loses House race as AI lobby flexes political power",
+      "url": "https://www.ft.com/content/e2ceff59-5afe-4cf2-9693-4c167a7fee2f",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Big Tech critic loses House race as AI lobby flexes political power”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 234
+      "hotnessScore": 200
     },
     {
       "id": "68044c9d8315af6f13217f695b310ece",
@@ -17,7 +17,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“SpaceX sheds $400bn in market value as debut rally hits reverse”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 197
+      "hotnessScore": 166
     },
     {
       "id": "553517454ba576f9f3f5951734bf6162",
@@ -26,7 +26,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Chevron moves into power production with Microsoft AI deal”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 188
+      "hotnessScore": 140
     },
     {
       "id": "04a249f4e180e48117d517a4afd7ebf6",
@@ -35,34 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“AI law firm wins UK court case for first time”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 181
-    },
-    {
-      "id": "e527a72b14352423d08717fb85776e25",
-      "title": "SpaceX plots $20bn bond deal after record IPO",
-      "url": "https://www.ft.com/content/8b73b4ce-3855-4b89-9110-3d892567f28a",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“SpaceX plots $20bn bond deal after record IPO”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 76
-    },
-    {
-      "id": "2f91a8af25bf688ee05cab4474abca26",
-      "title": "‘We created a monster’: companies rein in AI usage as costs strain budgets",
-      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“‘We created a monster’: companies rein in AI usage as costs strain budgets”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
-      "id": "d4bcca9c027bac4ff5e33ae5b5bf6478",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "source": "MIT Technology Review",
-      "question": "围绕“A startup claims it broke through a bottleneck that’s holding back LLMs”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
+      "hotnessScore": 133
     }
   ]
 }
