@@ -1,15 +1,6 @@
 {
-  "generatedAt": "2026-07-05T04:56:13.680Z",
+  "generatedAt": "2026-07-06T05:10:47.203Z",
   "items": [
-    {
-      "id": "92deef7d0892d555fe83050156d48512",
-      "title": "Trump will oppose heavy US AI regulation, says outgoing tech adviser",
-      "url": "https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Trump will oppose heavy US AI regulation, says outgoing tech adviser”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 139
-    },
     {
       "id": "1eeea267c786b0b94e707a3990c80a20",
       "title": "Learning Structured Reasoning via Tractable Trajectory Control",
@@ -36,6 +27,15 @@
       "question": "围绕“ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 92
+    },
+    {
+      "id": "92deef7d0892d555fe83050156d48512",
+      "title": "Trump will oppose heavy US AI regulation, says outgoing tech adviser",
+      "url": "https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Trump will oppose heavy US AI regulation, says outgoing tech adviser”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 91
     },
     {
       "id": "352b005bda5b17ccb1943989007f664d",
