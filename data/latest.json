@@ -1,23 +1,50 @@
 {
-  "generatedAt": "2026-07-06T05:10:47.203Z",
+  "generatedAt": "2026-07-07T04:52:12.708Z",
   "items": [
     {
-      "id": "1eeea267c786b0b94e707a3990c80a20",
-      "title": "Learning Structured Reasoning via Tractable Trajectory Control",
-      "url": "https://machinelearning.apple.com/research/learning-structured-reasoning",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“Learning Structured Reasoning via Tractable Trajectory Control”需要重点关注哪些问题？",
+      "id": "12ef11a15208f2dd1f214c7e06f13eb0",
+      "title": "Show HN: InstantVideos.org – short documentaries in ~30 seconds",
+      "url": "https://instantvideos.org/",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: InstantVideos.org – short documentaries in ~30 seconds”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 100
+      "hotnessScore": 467
     },
     {
-      "id": "b1d5c3de863abd4632a2aa62df0b6c27",
-      "title": "Conformal Thinking: Risk Control for Reasoning on a Compute Budget",
-      "url": "https://machinelearning.apple.com/research/conformal-thinking-risk-control",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“Conformal Thinking: Risk Control for Reasoning on a Compute Budget”需要重点关注哪些问题？",
+      "id": "c1b5c897c19948a7d465edff81215fdb",
+      "title": "Samsung shares fall despite third straight quarter of record profit",
+      "url": "https://www.ft.com/content/db4f9501-046c-4683-b59c-03b5a5ebfafb",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Samsung shares fall despite third straight quarter of record profit”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 92
+      "hotnessScore": 206
+    },
+    {
+      "id": "973d3c839525b1062959b020ee0a78ce",
+      "title": "Honeywell spin-off targets AI supply chain with $14.5bn deal for Element",
+      "url": "https://www.ft.com/content/2d0945c1-570d-4684-b5bd-78392c547c79",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Honeywell spin-off targets AI supply chain with $14.5bn deal for Element”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 195
+    },
+    {
+      "id": "4f5d1b51716288cdf3c52c513b9cfe63",
+      "title": "Understanding Annotator Safety Policy with Interpretability",
+      "url": "https://machinelearning.apple.com/research/annotator-safety-policy-interpretability",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“Understanding Annotator Safety Policy with Interpretability”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 178
+    },
+    {
+      "id": "0374be59431ce9076eb940a498fec2d7",
+      "title": "Revisiting ASR Error Correction with Specialized Models",
+      "url": "https://machinelearning.apple.com/research/asr-error-correction",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“Revisiting ASR Error Correction with Specialized Models”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 174
     },
     {
       "id": "efdc0b304858d1dc38f5b494aa0dd633",
@@ -35,15 +62,6 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Trump will oppose heavy US AI regulation, says outgoing tech adviser”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 91
-    },
-    {
-      "id": "352b005bda5b17ccb1943989007f664d",
-      "title": "White House lifts ban on Anthropic models",
-      "url": "https://www.ft.com/content/137ddb71-852f-438c-ad76-25e2dc43486b",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“White House lifts ban on Anthropic models”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 72
     },
     {
@@ -52,24 +70,6 @@
       "url": "https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b",
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“OpenAI proposes handing Trump administration 5% stake”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
-      "id": "a7dcc2f78b13cfe2eb29bc421cf4023e",
-      "title": "White House accelerates plans for AI model standards",
-      "url": "https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“White House accelerates plans for AI model standards”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
-      "id": "89ace065903f75dc1321bcddbb164117",
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Claude Science is Anthropic’s newest flagship product”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
     }
