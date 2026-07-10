@@ -1,32 +1,59 @@
 {
-  "generatedAt": "2026-07-09T04:52:20.495Z",
+  "generatedAt": "2026-07-10T04:51:33.085Z",
   "items": [
     {
-      "id": "d988ad68b6d0f153ead8ae164422c292",
-      "title": "The AI Policy That Never Shipped",
-      "url": "https://mendelevium.github.io/the-policy-never-shipped/",
+      "id": "04c644e4f2d567aca55c176cd44a6146",
+      "title": "Show HN: I made the Chrome Dino Game editable by your AI prompts",
+      "url": "https://vibedino.com",
       "source": "Hacker News · AI",
-      "question": "围绕“The AI Policy That Never Shipped”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: I made the Chrome Dino Game editable by your AI prompts”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 459
+      "hotnessScore": 457
     },
     {
       "id": "4528ca006037be0d78b531473aaa91a6",
-      "title": "OpenAI's new GPT-Live-1 voice model won't interrupt you - why that's a big deal",
+      "title": "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence'",
       "url": "https://www.zdnet.com/article/ai-model-release-tracker/",
       "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“OpenAI's new GPT-Live-1 voice model won't interrupt you - why that's a big deal”需要重点关注哪些问题？",
+      "question": "围绕“AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence'”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 239
     },
     {
-      "id": "1dcb9fc868fab1440c4238d4d2abc398",
-      "title": "IBM and Red Hat launch Lightwell to defend open-source code from AI attacks",
-      "url": "https://www.zdnet.com/article/ibm-and-red-hat-have-moved-project-lightwell-from-vision-to-product/",
+      "id": "372df2f41005ad37898e379781e1bdc1",
+      "title": "OpenAI's GPT-5.6 and ChatGPT Work aim to beat Anthropic on price, speed, and productivity",
+      "url": "https://www.zdnet.com/article/openais-gpt-5-6-chatgpt-work-beat-anthropic-on-price-speed-and-productivity/",
       "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“IBM and Red Hat launch Lightwell to defend open-source code from AI attacks”需要重点关注哪些问题？",
+      "question": "围绕“OpenAI's GPT-5.6 and ChatGPT Work aim to beat Anthropic on price, speed, and productivity”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 233
+      "hotnessScore": 231
+    },
+    {
+      "id": "e10c9b6a52020b7effe15d094a6d1efe",
+      "title": "Tencent leads deal to unwind Meta’s $2bn Manus acquisition",
+      "url": "https://www.ft.com/content/0d04378d-d71b-4225-b31a-70504e358480",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Tencent leads deal to unwind Meta’s $2bn Manus acquisition”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 208
+    },
+    {
+      "id": "05b99676c0b2528d370bc9c3acacd36d",
+      "title": "Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return",
+      "url": "https://www.ft.com/content/a66c1d90-682b-480a-8fc3-fb7b7e2f1873",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 192
+    },
+    {
+      "id": "c60d6df66943447c2c8f24e082781e62",
+      "title": "Incentivizing Temporal-Awareness in Egocentric Video Understanding Models",
+      "url": "https://machinelearning.apple.com/research/incentivizing-temporal-awareness-egocentric",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“Incentivizing Temporal-Awareness in Egocentric Video Understanding Models”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 178
     },
     {
       "id": "f3b9e53eed84d37617039e892b3ec4d9",
@@ -35,7 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“How AI is changing the world of retail investment”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 153
+      "hotnessScore": 105
     },
     {
       "id": "39f8401692c0a0d92a20447c8f1373e7",
@@ -44,7 +71,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Meta releases first image model since Zuckerberg’s AI overhaul”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 147
+      "hotnessScore": 99
     },
     {
       "id": "d77299eaed1ed27b5af325d1e8005d86",
@@ -53,7 +80,7 @@
       "source": "Apple Machine Learning Research",
       "question": "围绕“Weblica: Scalable and Reproducible Training Environments for Visual Web Agents”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 130
+      "hotnessScore": 92
     },
     {
       "id": "8b0193ea408aaf2e5c1c7c68f70b6adc",
@@ -62,7 +89,7 @@
       "source": "Apple Machine Learning Research",
       "question": "围绕“FlowEval: Reference-Based Evaluation of Generated User Interfaces”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 130
+      "hotnessScore": 92
     },
     {
       "id": "648524e981fb88ab1d28eff7f6b121eb",
@@ -71,7 +98,7 @@
       "source": "Apple Machine Learning Research",
       "question": "围绕“DynaMiCS: Fine-Tuning LLMs with Performance Constraints Using Dynamic Mixtures”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 122
+      "hotnessScore": 84
     },
     {
       "id": "973d3c839525b1062959b020ee0a78ce",
@@ -80,25 +107,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Honeywell spin-off targets AI supply chain with $14.5bn deal for Element”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 99
-    },
-    {
-      "id": "0374be59431ce9076eb940a498fec2d7",
-      "title": "Revisiting ASR Error Correction with Specialized Models",
-      "url": "https://machinelearning.apple.com/research/asr-error-correction",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“Revisiting ASR Error Correction with Specialized Models”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 88
-    },
-    {
-      "id": "92deef7d0892d555fe83050156d48512",
-      "title": "Trump will oppose heavy US AI regulation, says outgoing tech adviser",
-      "url": "https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Trump will oppose heavy US AI regulation, says outgoing tech adviser”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
+      "hotnessScore": 68
     }
   ]
 }
