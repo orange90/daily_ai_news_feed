@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-07-11T04:12:21.366Z",
+  "generatedAt": "2026-07-12T04:24:47.475Z",
   "items": [
+    {
+      "id": "a100c2932a7c75de2437f5ef74b43754",
+      "title": "AI companies are throwing museums a lifeline. What do they want in return?",
+      "url": "https://www.ft.com/content/998152e8-90cd-4d95-ae43-e07b773ab943",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“AI companies are throwing museums a lifeline. What do they want in return?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 163
+    },
     {
       "id": "4528ca006037be0d78b531473aaa91a6",
       "title": "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence'",
@@ -8,7 +17,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence'”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 192
+      "hotnessScore": 144
     },
     {
       "id": "372df2f41005ad37898e379781e1bdc1",
@@ -17,7 +26,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“OpenAI's GPT-5.6 and ChatGPT Work aim to beat Anthropic on price, speed, and productivity”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 184
+      "hotnessScore": 136
     },
     {
       "id": "e10c9b6a52020b7effe15d094a6d1efe",
@@ -26,7 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Tencent leads deal to unwind Meta’s $2bn Manus acquisition”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 162
+      "hotnessScore": 113
     },
     {
       "id": "05b99676c0b2528d370bc9c3acacd36d",
@@ -35,7 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 146
+      "hotnessScore": 97
     },
     {
       "id": "c60d6df66943447c2c8f24e082781e62",
@@ -44,7 +53,7 @@
       "source": "Apple Machine Learning Research",
       "question": "围绕“Incentivizing Temporal-Awareness in Egocentric Video Understanding Models”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 132
+      "hotnessScore": 92
     },
     {
       "id": "d77299eaed1ed27b5af325d1e8005d86",
