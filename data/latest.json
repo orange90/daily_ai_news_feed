@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-07-12T04:24:47.475Z",
+  "generatedAt": "2026-07-13T04:29:27.720Z",
   "items": [
+    {
+      "id": "cab977082c4d8b29333c3f83d59de5fe",
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "url": "https://news.ycombinator.com/item?id=48886741",
+      "source": "Hacker News · AI",
+      "question": "围绕“Ask HN: Add flag for AI-generated articles”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 1092
+    },
+    {
+      "id": "cde68e764376cc4dd1c9fd4007b76cf0",
+      "title": "AI agent startup uses agent to lead 100M round",
+      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "source": "Hacker News · AI",
+      "question": "围绕“AI agent startup uses agent to lead 100M round”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 463
+    },
+    {
+      "id": "5eb06e3e026deccba1db89a82d21e0da",
+      "title": "Show HN: Clark – AI assistant with own computer",
+      "url": "https://www.clarkchat.com/",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Clark – AI assistant with own computer”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 451
+    },
     {
       "id": "a100c2932a7c75de2437f5ef74b43754",
       "title": "AI companies are throwing museums a lifeline. What do they want in return?",
@@ -8,7 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“AI companies are throwing museums a lifeline. What do they want in return?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 163
+      "hotnessScore": 115
     },
     {
       "id": "4528ca006037be0d78b531473aaa91a6",
@@ -17,7 +44,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence'”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 144
+      "hotnessScore": 112
     },
     {
       "id": "372df2f41005ad37898e379781e1bdc1",
@@ -26,25 +53,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“OpenAI's GPT-5.6 and ChatGPT Work aim to beat Anthropic on price, speed, and productivity”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 136
-    },
-    {
-      "id": "e10c9b6a52020b7effe15d094a6d1efe",
-      "title": "Tencent leads deal to unwind Meta’s $2bn Manus acquisition",
-      "url": "https://www.ft.com/content/0d04378d-d71b-4225-b31a-70504e358480",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Tencent leads deal to unwind Meta’s $2bn Manus acquisition”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 113
-    },
-    {
-      "id": "05b99676c0b2528d370bc9c3acacd36d",
-      "title": "Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return",
-      "url": "https://www.ft.com/content/a66c1d90-682b-480a-8fc3-fb7b7e2f1873",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 97
+      "hotnessScore": 104
     },
     {
       "id": "c60d6df66943447c2c8f24e082781e62",
@@ -99,6 +108,24 @@
       "question": "围绕“Meta releases first image model since Zuckerberg’s AI overhaul”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 72
+    },
+    {
+      "id": "e10c9b6a52020b7effe15d094a6d1efe",
+      "title": "Tencent leads deal to unwind Meta’s $2bn Manus acquisition",
+      "url": "https://www.ft.com/content/0d04378d-d71b-4225-b31a-70504e358480",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Tencent leads deal to unwind Meta’s $2bn Manus acquisition”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 68
+    },
+    {
+      "id": "05b99676c0b2528d370bc9c3acacd36d",
+      "title": "Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return",
+      "url": "https://www.ft.com/content/a66c1d90-682b-480a-8fc3-fb7b7e2f1873",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 68
     }
   ]
 }
