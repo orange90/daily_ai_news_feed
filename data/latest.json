@@ -1,59 +1,23 @@
 {
-  "generatedAt": "2026-07-13T04:29:27.720Z",
+  "generatedAt": "2026-07-14T03:56:28.270Z",
   "items": [
     {
-      "id": "cab977082c4d8b29333c3f83d59de5fe",
-      "title": "Ask HN: Add flag for AI-generated articles",
-      "url": "https://news.ycombinator.com/item?id=48886741",
+      "id": "b5f118a26e7d0e309216d07801880f02",
+      "title": "One Contract, Every Model: An Operating Standard for AI Coding Agents",
+      "url": "https://manazir.dev/blog/operating-standard-harness",
       "source": "Hacker News · AI",
-      "question": "围绕“Ask HN: Add flag for AI-generated articles”需要重点关注哪些问题？",
+      "question": "围绕“One Contract, Every Model: An Operating Standard for AI Coding Agents”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 1092
+      "hotnessScore": 462
     },
     {
-      "id": "cde68e764376cc4dd1c9fd4007b76cf0",
-      "title": "AI agent startup uses agent to lead 100M round",
-      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "id": "16a01a588eea0e651e13f843ac0ec52b",
+      "title": "SFU prof launches legal-AI collaboration with Caseway to improve justice",
+      "url": "https://www.sfu.ca/fas/computing/news-events/news/2026/january/sfu-launches-legal-ai-collaboration-with-caseway-to-improve-acce.html",
       "source": "Hacker News · AI",
-      "question": "围绕“AI agent startup uses agent to lead 100M round”需要重点关注哪些问题？",
+      "question": "围绕“SFU prof launches legal-AI collaboration with Caseway to improve justice”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 463
-    },
-    {
-      "id": "5eb06e3e026deccba1db89a82d21e0da",
-      "title": "Show HN: Clark – AI assistant with own computer",
-      "url": "https://www.clarkchat.com/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Clark – AI assistant with own computer”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 451
-    },
-    {
-      "id": "a100c2932a7c75de2437f5ef74b43754",
-      "title": "AI companies are throwing museums a lifeline. What do they want in return?",
-      "url": "https://www.ft.com/content/998152e8-90cd-4d95-ae43-e07b773ab943",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“AI companies are throwing museums a lifeline. What do they want in return?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 115
-    },
-    {
-      "id": "4528ca006037be0d78b531473aaa91a6",
-      "title": "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence'",
-      "url": "https://www.zdnet.com/article/ai-model-release-tracker/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence'”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 112
-    },
-    {
-      "id": "372df2f41005ad37898e379781e1bdc1",
-      "title": "OpenAI's GPT-5.6 and ChatGPT Work aim to beat Anthropic on price, speed, and productivity",
-      "url": "https://www.zdnet.com/article/openais-gpt-5-6-chatgpt-work-beat-anthropic-on-price-speed-and-productivity/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“OpenAI's GPT-5.6 and ChatGPT Work aim to beat Anthropic on price, speed, and productivity”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 104
+      "hotnessScore": 454
     },
     {
       "id": "c60d6df66943447c2c8f24e082781e62",
@@ -65,49 +29,13 @@
       "hotnessScore": 92
     },
     {
-      "id": "d77299eaed1ed27b5af325d1e8005d86",
-      "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
-      "url": "https://machinelearning.apple.com/research/weblica-visual-web-agents",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“Weblica: Scalable and Reproducible Training Environments for Visual Web Agents”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 92
-    },
-    {
-      "id": "8b0193ea408aaf2e5c1c7c68f70b6adc",
-      "title": "FlowEval: Reference-Based Evaluation of Generated User Interfaces",
-      "url": "https://machinelearning.apple.com/research/floweval-ui-evaluation",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“FlowEval: Reference-Based Evaluation of Generated User Interfaces”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 92
-    },
-    {
-      "id": "648524e981fb88ab1d28eff7f6b121eb",
-      "title": "DynaMiCS: Fine-Tuning LLMs with Performance Constraints Using Dynamic Mixtures",
-      "url": "https://machinelearning.apple.com/research/dynamics-fine-tuning-llms",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“DynaMiCS: Fine-Tuning LLMs with Performance Constraints Using Dynamic Mixtures”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 84
-    },
-    {
-      "id": "f3b9e53eed84d37617039e892b3ec4d9",
-      "title": "How AI is changing the world of retail investment",
-      "url": "https://www.ft.com/content/e6a5f9f2-e8b4-486b-b601-77f6f2ff6554",
+      "id": "a100c2932a7c75de2437f5ef74b43754",
+      "title": "AI companies are throwing museums a lifeline. What do they want in return?",
+      "url": "https://www.ft.com/content/998152e8-90cd-4d95-ae43-e07b773ab943",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“How AI is changing the world of retail investment”需要重点关注哪些问题？",
+      "question": "围绕“AI companies are throwing museums a lifeline. What do they want in return?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 80
-    },
-    {
-      "id": "39f8401692c0a0d92a20447c8f1373e7",
-      "title": "Meta releases first image model since Zuckerberg’s AI overhaul",
-      "url": "https://www.ft.com/content/389f9102-fb5d-471a-bc50-9c591b7f7994",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Meta releases first image model since Zuckerberg’s AI overhaul”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
+      "hotnessScore": 68
     },
     {
       "id": "e10c9b6a52020b7effe15d094a6d1efe",
