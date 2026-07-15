@@ -1,23 +1,77 @@
 {
-  "generatedAt": "2026-07-14T03:56:28.270Z",
+  "generatedAt": "2026-07-15T03:57:33.578Z",
   "items": [
     {
-      "id": "b5f118a26e7d0e309216d07801880f02",
-      "title": "One Contract, Every Model: An Operating Standard for AI Coding Agents",
-      "url": "https://manazir.dev/blog/operating-standard-harness",
+      "id": "35ffe44f8f041c3e552409c2f8360f52",
+      "title": "A Framework for Frontier AI and the Dawning of a New Age",
+      "url": "https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age",
       "source": "Hacker News · AI",
-      "question": "围绕“One Contract, Every Model: An Operating Standard for AI Coding Agents”需要重点关注哪些问题？",
+      "question": "围绕“A Framework for Frontier AI and the Dawning of a New Age”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 462
+      "hotnessScore": 456
     },
     {
-      "id": "16a01a588eea0e651e13f843ac0ec52b",
-      "title": "SFU prof launches legal-AI collaboration with Caseway to improve justice",
-      "url": "https://www.sfu.ca/fas/computing/news-events/news/2026/january/sfu-launches-legal-ai-collaboration-with-caseway-to-improve-acce.html",
+      "id": "ffeaeb82b67d73f5029200b666a18e8e",
+      "title": "Show HN: Digital De-Centralized Internship",
+      "url": "https://lab.cedarridge.capital/",
       "source": "Hacker News · AI",
-      "question": "围绕“SFU prof launches legal-AI collaboration with Caseway to improve justice”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: Digital De-Centralized Internship”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 454
+      "hotnessScore": 450
+    },
+    {
+      "id": "32d36ec3b7426a289ea9fafd15cc8646",
+      "title": "Google Search will let you instantly generate AI images for free - here's how",
+      "url": "https://www.zdnet.com/article/google-search-generate-ai-images-free/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Google Search will let you instantly generate AI images for free - here's how”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 224
+    },
+    {
+      "id": "c04cec096dd660f1db77c02ec65154dd",
+      "title": "Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants",
+      "url": "https://machinelearning.apple.com/research/proactive-agent-research-environment",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 188
+    },
+    {
+      "id": "624ad726c1f4583e7e82106587a8c2a5",
+      "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
+      "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 186
+    },
+    {
+      "id": "4684623e1043c4332497d1be142de994",
+      "title": "AI to speed up justice under major disclosure reforms",
+      "url": "https://www.gov.uk/government/news/ai-to-speed-up-justice-under-major-disclosure-reforms",
+      "source": "UK Government · AI Regulation Updates",
+      "question": "围绕“AI to speed up justice under major disclosure reforms”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 184
+    },
+    {
+      "id": "3b1117aed80d0f1644ad6515717e441c",
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The Download: Claude’s inner workings, and the future of world models”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 180
+    },
+    {
+      "id": "7ad2515f48e1d941cf4bd348ccedc597",
+      "title": "DeepSeek weighs new fundraising a month after closing first round",
+      "url": "https://www.ft.com/content/6deb470e-d152-43a2-be0d-cc1fde4f3db8",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“DeepSeek weighs new fundraising a month after closing first round”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 176
     },
     {
       "id": "c60d6df66943447c2c8f24e082781e62",
@@ -43,15 +97,6 @@
       "url": "https://www.ft.com/content/0d04378d-d71b-4225-b31a-70504e358480",
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Tencent leads deal to unwind Meta’s $2bn Manus acquisition”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
-      "id": "05b99676c0b2528d370bc9c3acacd36d",
-      "title": "Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return",
-      "url": "https://www.ft.com/content/a66c1d90-682b-480a-8fc3-fb7b7e2f1873",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
     }
