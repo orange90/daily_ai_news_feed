@@ -1,39 +1,66 @@
 {
-  "generatedAt": "2026-07-15T03:57:33.578Z",
+  "generatedAt": "2026-07-16T04:08:31.939Z",
   "items": [
     {
-      "id": "35ffe44f8f041c3e552409c2f8360f52",
-      "title": "A Framework for Frontier AI and the Dawning of a New Age",
-      "url": "https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age",
+      "id": "2f2724c1f54a5374712b3a7d9c84f49e",
+      "title": "Launching cdbx.ai with 50% off Pro Plans",
+      "url": "https://cdbx.ai/",
       "source": "Hacker News · AI",
-      "question": "围绕“A Framework for Frontier AI and the Dawning of a New Age”需要重点关注哪些问题？",
+      "question": "围绕“Launching cdbx.ai with 50% off Pro Plans”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 456
+      "hotnessScore": 454
     },
     {
-      "id": "ffeaeb82b67d73f5029200b666a18e8e",
-      "title": "Show HN: Digital De-Centralized Internship",
-      "url": "https://lab.cedarridge.capital/",
+      "id": "8518ea91ff31b28e4c2187cdc124dcf6",
+      "title": "Lhv.ai – Estonian bank AI integration via MCP",
+      "url": "https://lhv.ai/",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Digital De-Centralized Internship”需要重点关注哪些问题？",
+      "question": "围绕“Lhv.ai – Estonian bank AI integration via MCP”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 450
+      "hotnessScore": 449
     },
     {
-      "id": "32d36ec3b7426a289ea9fafd15cc8646",
-      "title": "Google Search will let you instantly generate AI images for free - here's how",
-      "url": "https://www.zdnet.com/article/google-search-generate-ai-images-free/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Google Search will let you instantly generate AI images for free - here's how”需要重点关注哪些问题？",
+      "id": "3179b9e293a68e1073d01ccd92f22abb",
+      "title": "Dan Ives and Trump family-linked securities group launch AI bank, because why not?",
+      "url": "https://www.ft.com/content/85576fd2-7c99-4bf2-b8f0-6c847da77bbc",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Dan Ives and Trump family-linked securities group launch AI bank, because why not?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 224
+      "hotnessScore": 199
     },
     {
-      "id": "c04cec096dd660f1db77c02ec65154dd",
-      "title": "Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants",
-      "url": "https://machinelearning.apple.com/research/proactive-agent-research-environment",
+      "id": "3034d8c22a203a123ff5459002fbff2c",
+      "title": "SpaceX sell-off wipes $1tn from Musk’s rocket group",
+      "url": "https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“SpaceX sell-off wipes $1tn from Musk’s rocket group”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 196
+    },
+    {
+      "id": "e34d84f744735c1522d366acf274eecd",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 194
+    },
+    {
+      "id": "d2920e27d0797c2b76fb50b7679a2565",
+      "title": "Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model",
+      "url": "https://www.ft.com/content/ef486929-d2c2-480b-8b00-9cb98bda6acf",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 194
+    },
+    {
+      "id": "6181cca3e5352770e82cc33725ac3d5f",
+      "title": "CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning",
+      "url": "https://machinelearning.apple.com/research/clara-latent-reasoning",
       "source": "Apple Machine Learning Research",
-      "question": "围绕“Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants”需要重点关注哪些问题？",
+      "question": "围绕“CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 188
     },
@@ -44,16 +71,25 @@
       "source": "CNBC · Technology",
       "question": "围绕“The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 186
+      "hotnessScore": 183
     },
     {
-      "id": "4684623e1043c4332497d1be142de994",
-      "title": "AI to speed up justice under major disclosure reforms",
-      "url": "https://www.gov.uk/government/news/ai-to-speed-up-justice-under-major-disclosure-reforms",
-      "source": "UK Government · AI Regulation Updates",
-      "question": "围绕“AI to speed up justice under major disclosure reforms”需要重点关注哪些问题？",
+      "id": "1f57f64ef2a9b61b8585908fcd6416bf",
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "source": "Hugging Face Blog",
+      "question": "围绕“Introducing Real World VoiceEQ: Measuring the human quality of voice AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 184
+      "hotnessScore": 176
+    },
+    {
+      "id": "c04cec096dd660f1db77c02ec65154dd",
+      "title": "Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants",
+      "url": "https://machinelearning.apple.com/research/proactive-agent-research-environment",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 140
     },
     {
       "id": "3b1117aed80d0f1644ad6515717e441c",
@@ -62,7 +98,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“The Download: Claude’s inner workings, and the future of world models”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 180
+      "hotnessScore": 132
     },
     {
       "id": "7ad2515f48e1d941cf4bd348ccedc597",
@@ -71,16 +107,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“DeepSeek weighs new fundraising a month after closing first round”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 176
-    },
-    {
-      "id": "c60d6df66943447c2c8f24e082781e62",
-      "title": "Incentivizing Temporal-Awareness in Egocentric Video Understanding Models",
-      "url": "https://machinelearning.apple.com/research/incentivizing-temporal-awareness-egocentric",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“Incentivizing Temporal-Awareness in Egocentric Video Understanding Models”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 92
+      "hotnessScore": 128
     },
     {
       "id": "a100c2932a7c75de2437f5ef74b43754",
@@ -88,15 +115,6 @@
       "url": "https://www.ft.com/content/998152e8-90cd-4d95-ae43-e07b773ab943",
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“AI companies are throwing museums a lifeline. What do they want in return?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
-      "id": "e10c9b6a52020b7effe15d094a6d1efe",
-      "title": "Tencent leads deal to unwind Meta’s $2bn Manus acquisition",
-      "url": "https://www.ft.com/content/0d04378d-d71b-4225-b31a-70504e358480",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Tencent leads deal to unwind Meta’s $2bn Manus acquisition”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
     }
