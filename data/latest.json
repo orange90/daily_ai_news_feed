@@ -1,23 +1,50 @@
 {
-  "generatedAt": "2026-07-16T04:08:31.939Z",
+  "generatedAt": "2026-07-17T03:59:23.073Z",
   "items": [
     {
-      "id": "2f2724c1f54a5374712b3a7d9c84f49e",
-      "title": "Launching cdbx.ai with 50% off Pro Plans",
-      "url": "https://cdbx.ai/",
+      "id": "cf2ea46eaec66ccde4ed731f2872c259",
+      "title": "Ask HN: I built it and nobody came. What got you your first users?",
+      "url": "https://news.ycombinator.com/item?id=48942096",
       "source": "Hacker News · AI",
-      "question": "围绕“Launching cdbx.ai with 50% off Pro Plans”需要重点关注哪些问题？",
+      "question": "围绕“Ask HN: I built it and nobody came. What got you your first users?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 454
+      "hotnessScore": 458
     },
     {
-      "id": "8518ea91ff31b28e4c2187cdc124dcf6",
-      "title": "Lhv.ai – Estonian bank AI integration via MCP",
-      "url": "https://lhv.ai/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Lhv.ai – Estonian bank AI integration via MCP”需要重点关注哪些问题？",
+      "id": "b4894e4d6230b04f264bd18fdc55c458",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "source": "VentureBeat · AI",
+      "question": "围绕“The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 449
+      "hotnessScore": 255
+    },
+    {
+      "id": "b8cba87f7f339ec4f75f3f475b4f4bdf",
+      "title": "1Password's new Agentic Mode lets Claude log into your accounts without seeing your credentials",
+      "url": "https://www.zdnet.com/article/1password-claude-agentic-mode/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“1Password's new Agentic Mode lets Claude log into your accounts without seeing your credentials”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 222
+    },
+    {
+      "id": "6925639f222496f2ef44a0616d532710",
+      "title": "Xi Jinping spearheads China’s AI push",
+      "url": "https://www.ft.com/content/ddb316b4-c6ae-4b9b-9d4a-63d63201d4fc?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Xi Jinping spearheads China’s AI push”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 212
+    },
+    {
+      "id": "73d284483e948d1132cfd8d0be933b05",
+      "title": "Embarrassingly Simple Self-Distillation Improves Code Generation",
+      "url": "https://machinelearning.apple.com/research/simple-self-distillation",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“Embarrassingly Simple Self-Distillation Improves Code Generation”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 180
     },
     {
       "id": "3179b9e293a68e1073d01ccd92f22abb",
@@ -26,7 +53,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Dan Ives and Trump family-linked securities group launch AI bank, because why not?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 199
+      "hotnessScore": 151
     },
     {
       "id": "3034d8c22a203a123ff5459002fbff2c",
@@ -35,7 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“SpaceX sell-off wipes $1tn from Musk’s rocket group”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 196
+      "hotnessScore": 148
     },
     {
       "id": "e34d84f744735c1522d366acf274eecd",
@@ -44,7 +71,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 194
+      "hotnessScore": 146
     },
     {
       "id": "d2920e27d0797c2b76fb50b7679a2565",
@@ -53,7 +80,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 194
+      "hotnessScore": 146
     },
     {
       "id": "6181cca3e5352770e82cc33725ac3d5f",
@@ -62,7 +89,7 @@
       "source": "Apple Machine Learning Research",
       "question": "围绕“CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 188
+      "hotnessScore": 140
     },
     {
       "id": "624ad726c1f4583e7e82106587a8c2a5",
@@ -71,7 +98,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 183
+      "hotnessScore": 136
     },
     {
       "id": "1f57f64ef2a9b61b8585908fcd6416bf",
@@ -80,7 +107,7 @@
       "source": "Hugging Face Blog",
       "question": "围绕“Introducing Real World VoiceEQ: Measuring the human quality of voice AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 176
+      "hotnessScore": 128
     },
     {
       "id": "c04cec096dd660f1db77c02ec65154dd",
@@ -89,7 +116,7 @@
       "source": "Apple Machine Learning Research",
       "question": "围绕“Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 140
+      "hotnessScore": 100
     },
     {
       "id": "3b1117aed80d0f1644ad6515717e441c",
@@ -98,7 +125,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“The Download: Claude’s inner workings, and the future of world models”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 132
+      "hotnessScore": 84
     },
     {
       "id": "7ad2515f48e1d941cf4bd348ccedc597",
@@ -107,16 +134,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“DeepSeek weighs new fundraising a month after closing first round”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 128
-    },
-    {
-      "id": "a100c2932a7c75de2437f5ef74b43754",
-      "title": "AI companies are throwing museums a lifeline. What do they want in return?",
-      "url": "https://www.ft.com/content/998152e8-90cd-4d95-ae43-e07b773ab943",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“AI companies are throwing museums a lifeline. What do they want in return?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
+      "hotnessScore": 80
     }
   ]
 }
