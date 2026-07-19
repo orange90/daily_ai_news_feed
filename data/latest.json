@@ -1,15 +1,6 @@
 {
-  "generatedAt": "2026-07-18T03:54:23.339Z",
+  "generatedAt": "2026-07-19T04:21:08.626Z",
   "items": [
-    {
-      "id": "0e0bbcee0b6ff75462dd34c59305c3e5",
-      "title": "Nadella Blasts AI Industry's Double Standard",
-      "url": "https://finance.biggo.com/news/438f299b-ca23-468d-b37d-0ffe09a4ca55",
-      "source": "Hacker News · AI",
-      "question": "围绕“Nadella Blasts AI Industry's Double Standard”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 497
-    },
     {
       "id": "4528ca006037be0d78b531473aaa91a6",
       "title": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark",
@@ -17,7 +8,16 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 235
+      "hotnessScore": 186
+    },
+    {
+      "id": "5ba04b1d3b94679e8b7ef08a7dc7320f",
+      "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+      "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“'WarshGPT': How Wall Street is adapting to the Fed's new era of communication”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 182
     },
     {
       "id": "b4894e4d6230b04f264bd18fdc55c458",
@@ -26,43 +26,7 @@
       "source": "VentureBeat · AI",
       "question": "围绕“The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 207
-    },
-    {
-      "id": "b8cba87f7f339ec4f75f3f475b4f4bdf",
-      "title": "1Password's new Agentic Mode lets Claude log into your accounts without seeing your credentials",
-      "url": "https://www.zdnet.com/article/1password-claude-agentic-mode/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“1Password's new Agentic Mode lets Claude log into your accounts without seeing your credentials”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 174
-    },
-    {
-      "id": "73d284483e948d1132cfd8d0be933b05",
-      "title": "Embarrassingly Simple Self-Distillation Improves Code Generation",
-      "url": "https://machinelearning.apple.com/research/simple-self-distillation",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“Embarrassingly Simple Self-Distillation Improves Code Generation”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 132
-    },
-    {
-      "id": "3179b9e293a68e1073d01ccd92f22abb",
-      "title": "Dan Ives and Trump family-linked securities group launch AI bank, because why not?",
-      "url": "https://www.ft.com/content/85576fd2-7c99-4bf2-b8f0-6c847da77bbc",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Dan Ives and Trump family-linked securities group launch AI bank, because why not?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 104
-    },
-    {
-      "id": "3034d8c22a203a123ff5459002fbff2c",
-      "title": "SpaceX sell-off wipes $1tn from Musk’s rocket group",
-      "url": "https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“SpaceX sell-off wipes $1tn from Musk’s rocket group”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 100
+      "hotnessScore": 158
     },
     {
       "id": "6181cca3e5352770e82cc33725ac3d5f",
@@ -74,22 +38,13 @@
       "hotnessScore": 100
     },
     {
-      "id": "e34d84f744735c1522d366acf274eecd",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer”需要重点关注哪些问题？",
+      "id": "73d284483e948d1132cfd8d0be933b05",
+      "title": "Embarrassingly Simple Self-Distillation Improves Code Generation",
+      "url": "https://machinelearning.apple.com/research/simple-self-distillation",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“Embarrassingly Simple Self-Distillation Improves Code Generation”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 99
-    },
-    {
-      "id": "d2920e27d0797c2b76fb50b7679a2565",
-      "title": "Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model",
-      "url": "https://www.ft.com/content/ef486929-d2c2-480b-8b00-9cb98bda6acf",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 98
+      "hotnessScore": 92
     },
     {
       "id": "1f57f64ef2a9b61b8585908fcd6416bf",
@@ -101,13 +56,40 @@
       "hotnessScore": 88
     },
     {
-      "id": "624ad726c1f4583e7e82106587a8c2a5",
-      "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-      "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase”需要重点关注哪些问题？",
+      "id": "3179b9e293a68e1073d01ccd92f22abb",
+      "title": "Dan Ives and Trump family-linked securities group launch AI bank, because why not?",
+      "url": "https://www.ft.com/content/85576fd2-7c99-4bf2-b8f0-6c847da77bbc",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Dan Ives and Trump family-linked securities group launch AI bank, because why not?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 88
+      "hotnessScore": 72
+    },
+    {
+      "id": "e34d84f744735c1522d366acf274eecd",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 72
+    },
+    {
+      "id": "3034d8c22a203a123ff5459002fbff2c",
+      "title": "SpaceX sell-off wipes $1tn from Musk’s rocket group",
+      "url": "https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“SpaceX sell-off wipes $1tn from Musk’s rocket group”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 68
+    },
+    {
+      "id": "d2920e27d0797c2b76fb50b7679a2565",
+      "title": "Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model",
+      "url": "https://www.ft.com/content/ef486929-d2c2-480b-8b00-9cb98bda6acf",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 68
     },
     {
       "id": "3b1117aed80d0f1644ad6515717e441c",
@@ -117,6 +99,15 @@
       "question": "围绕“The Download: Claude’s inner workings, and the future of world models”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
+    },
+    {
+      "id": "624ad726c1f4583e7e82106587a8c2a5",
+      "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
+      "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 58
     }
   ]
 }
