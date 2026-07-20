@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-07-19T04:21:08.626Z",
+  "generatedAt": "2026-07-20T04:35:14.018Z",
   "items": [
+    {
+      "id": "8c33fee3bf05baa95720e5f84476f2f4",
+      "title": "Dart Framework – Systems Thinking Skill for AI Agents",
+      "url": "https://github.com/asofyan/dart-framework",
+      "source": "Hacker News · AI",
+      "question": "围绕“Dart Framework – Systems Thinking Skill for AI Agents”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 455
+    },
+    {
+      "id": "e5c557212f9b12701fc2b81625aa4e31",
+      "title": "Morgan Stanley becomes Wall Street’s top bank for AI debt deals",
+      "url": "https://www.ft.com/content/e2a3ea85-e4f2-4344-ac70-8410333e8749?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Morgan Stanley becomes Wall Street’s top bank for AI debt deals”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 211
+    },
     {
       "id": "4528ca006037be0d78b531473aaa91a6",
       "title": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark",
@@ -8,7 +26,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 186
+      "hotnessScore": 138
     },
     {
       "id": "5ba04b1d3b94679e8b7ef08a7dc7320f",
@@ -17,7 +35,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“'WarshGPT': How Wall Street is adapting to the Fed's new era of communication”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 182
+      "hotnessScore": 133
     },
     {
       "id": "b4894e4d6230b04f264bd18fdc55c458",
@@ -26,7 +44,7 @@
       "source": "VentureBeat · AI",
       "question": "围绕“The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 158
+      "hotnessScore": 128
     },
     {
       "id": "6181cca3e5352770e82cc33725ac3d5f",
@@ -56,15 +74,6 @@
       "hotnessScore": 88
     },
     {
-      "id": "3179b9e293a68e1073d01ccd92f22abb",
-      "title": "Dan Ives and Trump family-linked securities group launch AI bank, because why not?",
-      "url": "https://www.ft.com/content/85576fd2-7c99-4bf2-b8f0-6c847da77bbc",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Dan Ives and Trump family-linked securities group launch AI bank, because why not?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
-    },
-    {
       "id": "e34d84f744735c1522d366acf274eecd",
       "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
       "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
@@ -72,24 +81,6 @@
       "question": "围绕“Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 72
-    },
-    {
-      "id": "3034d8c22a203a123ff5459002fbff2c",
-      "title": "SpaceX sell-off wipes $1tn from Musk’s rocket group",
-      "url": "https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“SpaceX sell-off wipes $1tn from Musk’s rocket group”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
-      "id": "d2920e27d0797c2b76fb50b7679a2565",
-      "title": "Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model",
-      "url": "https://www.ft.com/content/ef486929-d2c2-480b-8b00-9cb98bda6acf",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
     },
     {
       "id": "3b1117aed80d0f1644ad6515717e441c",
