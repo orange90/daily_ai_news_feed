@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-07-20T04:35:14.018Z",
+  "generatedAt": "2026-07-21T04:15:07.307Z",
   "items": [
     {
-      "id": "8c33fee3bf05baa95720e5f84476f2f4",
-      "title": "Dart Framework – Systems Thinking Skill for AI Agents",
-      "url": "https://github.com/asofyan/dart-framework",
+      "id": "2c2ae27ccbe3fea102504bd1a32efe95",
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
       "source": "Hacker News · AI",
-      "question": "围绕“Dart Framework – Systems Thinking Skill for AI Agents”需要重点关注哪些问题？",
+      "question": "围绕“Five US tech giants' hidden debts soar to $1.65T on opaque AI funding”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 455
+      "hotnessScore": 478
+    },
+    {
+      "id": "57b418a971f37fa2ce86395c64125ddb",
+      "title": "Oracle could face $7bn collateral bill for Wisconsin data centre",
+      "url": "https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Oracle could face $7bn collateral bill for Wisconsin data centre”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 207
+    },
+    {
+      "id": "82f9902dc4aaba0d6cc897d8e109b198",
+      "title": "LVSum: A Benchmark for Timestamp-Aware Long Video Summarization",
+      "url": "https://machinelearning.apple.com/research/lvsum-video-summarization",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“LVSum: A Benchmark for Timestamp-Aware Long Video Summarization”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 175
     },
     {
       "id": "e5c557212f9b12701fc2b81625aa4e31",
-      "title": "Morgan Stanley becomes Wall Street’s top bank for AI debt deals",
+      "title": "Morgan Stanley cashes in on AI boom with debt deals",
       "url": "https://www.ft.com/content/e2a3ea85-e4f2-4344-ac70-8410333e8749?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Morgan Stanley becomes Wall Street’s top bank for AI debt deals”需要重点关注哪些问题？",
+      "question": "围绕“Morgan Stanley cashes in on AI boom with debt deals”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 211
-    },
-    {
-      "id": "4528ca006037be0d78b531473aaa91a6",
-      "title": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark",
-      "url": "https://www.zdnet.com/article/ai-model-release-tracker/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 138
-    },
-    {
-      "id": "5ba04b1d3b94679e8b7ef08a7dc7320f",
-      "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
-      "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“'WarshGPT': How Wall Street is adapting to the Fed's new era of communication”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 133
+      "hotnessScore": 164
     },
     {
       "id": "b4894e4d6230b04f264bd18fdc55c458",
@@ -47,13 +47,13 @@
       "hotnessScore": 128
     },
     {
-      "id": "6181cca3e5352770e82cc33725ac3d5f",
-      "title": "CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning",
-      "url": "https://machinelearning.apple.com/research/clara-latent-reasoning",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning”需要重点关注哪些问题？",
+      "id": "4528ca006037be0d78b531473aaa91a6",
+      "title": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark",
+      "url": "https://www.zdnet.com/article/ai-model-release-tracker/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 100
+      "hotnessScore": 112
     },
     {
       "id": "73d284483e948d1132cfd8d0be933b05",
@@ -74,6 +74,15 @@
       "hotnessScore": 88
     },
     {
+      "id": "5ba04b1d3b94679e8b7ef08a7dc7320f",
+      "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+      "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“'WarshGPT': How Wall Street is adapting to the Fed's new era of communication”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 86
+    },
+    {
       "id": "e34d84f744735c1522d366acf274eecd",
       "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
       "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
@@ -81,15 +90,6 @@
       "question": "围绕“Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 72
-    },
-    {
-      "id": "3b1117aed80d0f1644ad6515717e441c",
-      "title": "The Download: Claude’s inner workings, and the future of world models",
-      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-      "source": "MIT Technology Review",
-      "question": "围绕“The Download: Claude’s inner workings, and the future of world models”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
     },
     {
       "id": "624ad726c1f4583e7e82106587a8c2a5",
