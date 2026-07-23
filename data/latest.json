@@ -1,23 +1,50 @@
 {
-  "generatedAt": "2026-07-22T04:16:14.228Z",
+  "generatedAt": "2026-07-23T04:15:22.188Z",
   "items": [
     {
-      "id": "9a0882984139721619c1c25545e718cc",
-      "title": "We're Hiring at Modular",
-      "url": "https://news.ycombinator.com/item?id=49000803",
+      "id": "83bdf0cb288f21adf87f0f1a6a0400e3",
+      "title": "DamNesia – A 16D state-space AI character framework (.NET 10, 0-GC)",
+      "url": "https://github.com/shrineofus/damnesia-community",
       "source": "Hacker News · AI",
-      "question": "围绕“We're Hiring at Modular”需要重点关注哪些问题？",
+      "question": "围绕“DamNesia – A 16D state-space AI character framework (.NET 10, 0-GC)”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 450
+      "hotnessScore": 458
     },
     {
-      "id": "57b418a971f37fa2ce86395c64125ddb",
-      "title": "Oracle could face $7bn collateral bill for Wisconsin data centre",
-      "url": "https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Oracle could face $7bn collateral bill for Wisconsin data centre”需要重点关注哪些问题？",
+      "id": "c703bffb7f7707691714f76907c28801",
+      "title": "Wall Street Banks Trading Parts of $35B AI Chip Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/wall-street-banks-trading-parts-of-35-billion-ai-chip-deal",
+      "source": "Hacker News · AI",
+      "question": "围绕“Wall Street Banks Trading Parts of $35B AI Chip Deal”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 159
+      "hotnessScore": 451
+    },
+    {
+      "id": "e9e17eddd62bf386346cf2f641270723",
+      "title": "US Department of Energy: AI funding opportunities for small businesses",
+      "url": "https://www.energy.gov/technologycommercialization/articles/doe-announces-10m-sbirsttr-funding-opportunity-supporting",
+      "source": "Hacker News · AI",
+      "question": "围绕“US Department of Energy: AI funding opportunities for small businesses”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 449
+    },
+    {
+      "id": "6bdbc7d6efca92d65d05604193f6e325",
+      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The Download: NASA’s new space telescope and OpenAI’s autonomous hacker”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 184
+    },
+    {
+      "id": "a43168dd64ebc814ed29eccb1d761e90",
+      "title": "AMD to invest up to $5bn in Anthropic in chip deal",
+      "url": "https://www.ft.com/content/9c74bb34-0705-4be1-b622-a334ce79db1d?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“AMD to invest up to $5bn in Anthropic in chip deal”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 182
     },
     {
       "id": "b4894e4d6230b04f264bd18fdc55c458",
@@ -29,13 +56,22 @@
       "hotnessScore": 128
     },
     {
+      "id": "57b418a971f37fa2ce86395c64125ddb",
+      "title": "Oracle could face $7bn collateral bill for Wisconsin data centre",
+      "url": "https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Oracle could face $7bn collateral bill for Wisconsin data centre”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 111
+    },
+    {
       "id": "82f9902dc4aaba0d6cc897d8e109b198",
       "title": "LVSum: A Benchmark for Timestamp-Aware Long Video Summarization",
       "url": "https://machinelearning.apple.com/research/lvsum-video-summarization",
       "source": "Apple Machine Learning Research",
       "question": "围绕“LVSum: A Benchmark for Timestamp-Aware Long Video Summarization”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 127
+      "hotnessScore": 88
     },
     {
       "id": "e5c557212f9b12701fc2b81625aa4e31",
@@ -44,7 +80,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Morgan Stanley cashes in on AI boom with debt deals”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 115
+      "hotnessScore": 68
     },
     {
       "id": "5ba04b1d3b94679e8b7ef08a7dc7320f",
@@ -52,15 +88,6 @@
       "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
       "source": "CNBC · Technology",
       "question": "围绕“'WarshGPT': How Wall Street is adapting to the Fed's new era of communication”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 58
-    },
-    {
-      "id": "624ad726c1f4583e7e82106587a8c2a5",
-      "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-      "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 58
     }
