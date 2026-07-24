@@ -1,32 +1,50 @@
 {
-  "generatedAt": "2026-07-23T04:15:22.188Z",
+  "generatedAt": "2026-07-24T04:13:25.777Z",
   "items": [
     {
-      "id": "83bdf0cb288f21adf87f0f1a6a0400e3",
-      "title": "DamNesia – A 16D state-space AI character framework (.NET 10, 0-GC)",
-      "url": "https://github.com/shrineofus/damnesia-community",
+      "id": "44d6c61b92af9753e155bfbc6fec1ce4",
+      "title": "OpenAI's Hugging Face Hack Triggers 'AI Kill Switch' Bill in Congress",
+      "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
       "source": "Hacker News · AI",
-      "question": "围绕“DamNesia – A 16D state-space AI character framework (.NET 10, 0-GC)”需要重点关注哪些问题？",
+      "question": "围绕“OpenAI's Hugging Face Hack Triggers 'AI Kill Switch' Bill in Congress”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 458
+      "hotnessScore": 455
     },
     {
-      "id": "c703bffb7f7707691714f76907c28801",
-      "title": "Wall Street Banks Trading Parts of $35B AI Chip Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/wall-street-banks-trading-parts-of-35-billion-ai-chip-deal",
-      "source": "Hacker News · AI",
-      "question": "围绕“Wall Street Banks Trading Parts of $35B AI Chip Deal”需要重点关注哪些问题？",
+      "id": "5278995b98a9da7c664bfb6b5fb8b41c",
+      "title": "AI image fraud will cost $40 billion next year - can these international standards help?",
+      "url": "https://www.zdnet.com/article/ai-image-fraud-new-global-standards/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“AI image fraud will cost $40 billion next year - can these international standards help?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 451
+      "hotnessScore": 229
     },
     {
-      "id": "e9e17eddd62bf386346cf2f641270723",
-      "title": "US Department of Energy: AI funding opportunities for small businesses",
-      "url": "https://www.energy.gov/technologycommercialization/articles/doe-announces-10m-sbirsttr-funding-opportunity-supporting",
-      "source": "Hacker News · AI",
-      "question": "围绕“US Department of Energy: AI funding opportunities for small businesses”需要重点关注哪些问题？",
+      "id": "304b03aab2d0e93b99e2a2fc6cbe0266",
+      "title": "Universities face difficult choices over how to integrate AI",
+      "url": "https://www.ft.com/content/ce4f61bd-582f-4259-b259-eb5eb7dfeb10?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Universities face difficult choices over how to integrate AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 449
+      "hotnessScore": 210
+    },
+    {
+      "id": "b19c6c4b6ef1bac744e7eea224c97033",
+      "title": "Meta faces higher borrowing costs in latest $12bn data centre financing",
+      "url": "https://www.ft.com/content/822628c5-4f9c-47db-bd27-f3ad7f841700?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Meta faces higher borrowing costs in latest $12bn data centre financing”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 204
+    },
+    {
+      "id": "8fd5c6148ecd3f8787e567cc1cc7c040",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "MIT Technology Review",
+      "question": "围绕“How AI helps scientists design the next generation of medicines”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 180
     },
     {
       "id": "6bdbc7d6efca92d65d05604193f6e325",
@@ -35,7 +53,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“The Download: NASA’s new space telescope and OpenAI’s autonomous hacker”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 184
+      "hotnessScore": 136
     },
     {
       "id": "a43168dd64ebc814ed29eccb1d761e90",
@@ -44,25 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“AMD to invest up to $5bn in Anthropic in chip deal”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 182
-    },
-    {
-      "id": "b4894e4d6230b04f264bd18fdc55c458",
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "source": "VentureBeat · AI",
-      "question": "围绕“The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 128
-    },
-    {
-      "id": "57b418a971f37fa2ce86395c64125ddb",
-      "title": "Oracle could face $7bn collateral bill for Wisconsin data centre",
-      "url": "https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Oracle could face $7bn collateral bill for Wisconsin data centre”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 111
+      "hotnessScore": 134
     },
     {
       "id": "82f9902dc4aaba0d6cc897d8e109b198",
@@ -72,15 +72,6 @@
       "question": "围绕“LVSum: A Benchmark for Timestamp-Aware Long Video Summarization”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 88
-    },
-    {
-      "id": "e5c557212f9b12701fc2b81625aa4e31",
-      "title": "Morgan Stanley cashes in on AI boom with debt deals",
-      "url": "https://www.ft.com/content/e2a3ea85-e4f2-4344-ac70-8410333e8749?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Morgan Stanley cashes in on AI boom with debt deals”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
     },
     {
       "id": "5ba04b1d3b94679e8b7ef08a7dc7320f",
