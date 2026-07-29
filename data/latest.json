@@ -1,14 +1,59 @@
 {
-  "generatedAt": "2026-07-28T04:07:57.257Z",
+  "generatedAt": "2026-07-29T04:11:07.223Z",
   "items": [
     {
-      "id": "b5f3348c4cfed72dc82e65a0f4083022",
-      "title": "OpenAI, Google, and Anthropic Absent from Nvidia-Led Open Secure AI Alliance",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach",
+      "id": "b7be6265387383936dd7d4c008ca4e36",
+      "title": "GCC AI Policy",
+      "url": "https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html",
       "source": "Hacker News · AI",
-      "question": "围绕“OpenAI, Google, and Anthropic Absent from Nvidia-Led Open Secure AI Alliance”需要重点关注哪些问题？",
+      "question": "围绕“GCC AI Policy”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 468
+    },
+    {
+      "id": "f00b08b5c32ab202ee531373c01d8c06",
+      "title": "Show HN: Magpie, a CLI to Turn Your AI Agent into a Bookkeeper",
+      "url": "https://github.com/kyle-visner/magpie",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Magpie, a CLI to Turn Your AI Agent into a Bookkeeper”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 461
+    },
+    {
+      "id": "d56d3f4c49db3e5e103d767c76bfc299",
+      "title": "Open AI announces two new models- GPT-transcribe and GPT-live-transcribe",
+      "url": "https://developers.openai.com/api/docs/models/gpt-transcribe",
+      "source": "Hacker News · AI",
+      "question": "围绕“Open AI announces two new models- GPT-transcribe and GPT-live-transcribe”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 453
+    },
+    {
+      "id": "2d89bc7bbb74c5b88244a277320bf87e",
+      "title": "Agenthound – Offensive security framework for AI agent infrastructure",
+      "url": "https://github.com/adithyan-ak/agenthound",
+      "source": "Hacker News · AI",
+      "question": "围绕“Agenthound – Offensive security framework for AI agent infrastructure”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 452
+    },
+    {
+      "id": "4528ca006037be0d78b531473aaa91a6",
+      "title": "Microsoft's new AI model beats Mythos on security benchmark",
+      "url": "https://www.zdnet.com/article/ai-model-release-tracker/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Microsoft's new AI model beats Mythos on security benchmark”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 234
+    },
+    {
+      "id": "3c96462b783ed3b07d2eacc9f404fec1",
+      "title": "Why Apple's iOS 26.6 is worth installing (it's not just for the 91 security fixes)",
+      "url": "https://www.zdnet.com/article/apples-ios-26-6-siri-ai/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Why Apple's iOS 26.6 is worth installing (it's not just for the 91 security fixes)”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 228
     },
     {
       "id": "565e6de6bc187e84cf3305158f7342a2",
@@ -17,7 +62,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Is open source the answer to rogue AI agents? Nvidia's new alliance says yes”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 227
+      "hotnessScore": 179
     },
     {
       "id": "559698d4df76b8f76083c2187f2d1cff",
@@ -26,7 +71,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“Closing the data loop in AI-driven drug discovery”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 183
+      "hotnessScore": 135
     },
     {
       "id": "8156fd21e4f5d659267c8f83e161a760",
@@ -35,7 +80,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“Building the enterprise environment for agentic AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 183
+      "hotnessScore": 135
     },
     {
       "id": "f4270164adc0c69fbd454276fa46cbe6",
@@ -44,7 +89,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“AI companies spend record sums on Washington lobbying”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 168
+      "hotnessScore": 120
     },
     {
       "id": "6e9835393143e301f067056dcb88e416",
@@ -52,24 +97,6 @@
       "url": "https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“US tech groups cut 140,000 jobs despite AI spending boom”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
-      "id": "b19c6c4b6ef1bac744e7eea224c97033",
-      "title": "Meta faces higher borrowing costs in latest $12bn data centre financing",
-      "url": "https://www.ft.com/content/822628c5-4f9c-47db-bd27-f3ad7f841700?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Meta faces higher borrowing costs in latest $12bn data centre financing”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
-      "id": "304b03aab2d0e93b99e2a2fc6cbe0266",
-      "title": "Universities face difficult choices over how to integrate AI",
-      "url": "https://www.ft.com/content/ce4f61bd-582f-4259-b259-eb5eb7dfeb10?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Universities face difficult choices over how to integrate AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
     }
