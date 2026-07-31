@@ -1,23 +1,41 @@
 {
-  "generatedAt": "2026-07-30T03:56:13.604Z",
+  "generatedAt": "2026-07-31T04:21:41.783Z",
   "items": [
     {
-      "id": "4049c9a7369efec4bd8abd8ef9996b15",
-      "title": "Winner of US-China AI rivalry falls 9% in Hong Kong debut",
-      "url": "https://www.ft.com/content/cc7d24ec-abfe-440b-9e85-4d725567f278?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Winner of US-China AI rivalry falls 9% in Hong Kong debut”需要重点关注哪些问题？",
+      "id": "7962052ba9a97e1b778e00ee5d5d63ae",
+      "title": "LLVM AI Tool Use Policy",
+      "url": "https://llvm.org/docs/AIToolPolicy.html",
+      "source": "Hacker News · AI",
+      "question": "围绕“LLVM AI Tool Use Policy”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 211
+      "hotnessScore": 449
     },
     {
-      "id": "4528ca006037be0d78b531473aaa91a6",
-      "title": "Microsoft's new AI model beats Mythos on security benchmark",
-      "url": "https://www.zdnet.com/article/ai-model-release-tracker/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Microsoft's new AI model beats Mythos on security benchmark”需要重点关注哪些问题？",
+      "id": "fa1a696550beda854b71c4b697333b6a",
+      "title": "How controllers from industrial machinery can coordinate multitask machine learning",
+      "url": "https://www.amazon.science/blog/how-controllers-from-industrial-machinery-can-coordinate-multitask-machine-learning",
+      "source": "Amazon Science",
+      "question": "围绕“How controllers from industrial machinery can coordinate multitask machine learning”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 186
+      "hotnessScore": 196
+    },
+    {
+      "id": "4049c9a7369efec4bd8abd8ef9996b15",
+      "title": "Winner of US-China AI rivalry falls 2% in Hong Kong debut",
+      "url": "https://www.ft.com/content/cc7d24ec-abfe-440b-9e85-4d725567f278?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Winner of US-China AI rivalry falls 2% in Hong Kong debut”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 172
+    },
+    {
+      "id": "397433fd4208ff14a5f644dd965d7861",
+      "title": "AI investment concentration risk is not just in equities",
+      "url": "https://www.ft.com/content/5ac77b70-d057-44d4-b2b3-5eccb0e73484?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“AI investment concentration risk is not just in equities”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 163
     },
     {
       "id": "a23d9d8dbf3d79397595d1355a7d8f5f",
@@ -26,25 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Brookfield to turn former nuclear weapons site into AI campus”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 184
-    },
-    {
-      "id": "559698d4df76b8f76083c2187f2d1cff",
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Closing the data loop in AI-driven drug discovery”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 87
-    },
-    {
-      "id": "f4270164adc0c69fbd454276fa46cbe6",
-      "title": "AI companies spend record sums on Washington lobbying",
-      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“AI companies spend record sums on Washington lobbying”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
+      "hotnessScore": 135
     }
   ]
 }
