@@ -1,14 +1,68 @@
 {
-  "generatedAt": "2026-07-31T04:21:41.783Z",
+  "generatedAt": "2026-08-01T04:20:00.871Z",
   "items": [
     {
-      "id": "7962052ba9a97e1b778e00ee5d5d63ae",
-      "title": "LLVM AI Tool Use Policy",
-      "url": "https://llvm.org/docs/AIToolPolicy.html",
+      "id": "bd0e7c15e4f79c07429523b4f2a5b1af",
+      "title": "$2M crime novel deal collapses amid questions over AI use",
+      "url": "https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body",
       "source": "Hacker News · AI",
-      "question": "围绕“LLVM AI Tool Use Policy”需要重点关注哪些问题？",
+      "question": "围绕“$2M crime novel deal collapses amid questions over AI use”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 460
+    },
+    {
+      "id": "9f5d67aa671f04d2f5d85d2dcb77db58",
+      "title": "Framework choice explains ~0.06% of agentic AI security outcome (7,020 trials)",
+      "url": "https://figshare.com/articles/preprint/Cross-Framework_Portability_of_Agentic_AI_Security_A_Controlled_Payload-Verified_Evaluation/33110642",
+      "source": "Hacker News · AI",
+      "question": "围绕“Framework choice explains ~0.06% of agentic AI security outcome (7,020 trials)”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 455
+    },
+    {
+      "id": "e1bd6b30b66dfcd331d2144e0fff0f5c",
+      "title": "Upgraded melly, our agent on sleek",
+      "url": "https://news.ycombinator.com/item?id=49130415",
+      "source": "Hacker News · AI",
+      "question": "围绕“Upgraded melly, our agent on sleek”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 449
+    },
+    {
+      "id": "e9f7f2256cf2ea4b20fe892289e6f935",
+      "title": "Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout",
+      "url": "https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 199
+    },
+    {
+      "id": "aaa40e8f699a1e811ff1d28bd801c0f4",
+      "title": "Amazon completes $50bn investment in OpenAI",
+      "url": "https://www.ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Amazon completes $50bn investment in OpenAI”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 198
+    },
+    {
+      "id": "4b06174de0fbbd946d7d5bbfd966152e",
+      "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+      "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 193
+    },
+    {
+      "id": "2748b434c47f11315be50026fbeff146",
+      "title": "NXP in talks to buy $3bn-plus designer of camera chips for self-driving cars",
+      "url": "https://www.ft.com/content/f02ce02b-fa33-49ad-b8c7-81ab5cec3de0?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“NXP in talks to buy $3bn-plus designer of camera chips for self-driving cars”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 190
     },
     {
       "id": "fa1a696550beda854b71c4b697333b6a",
@@ -17,7 +71,7 @@
       "source": "Amazon Science",
       "question": "围绕“How controllers from industrial machinery can coordinate multitask machine learning”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 196
+      "hotnessScore": 148
     },
     {
       "id": "4049c9a7369efec4bd8abd8ef9996b15",
@@ -26,7 +80,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Winner of US-China AI rivalry falls 2% in Hong Kong debut”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 172
+      "hotnessScore": 124
     },
     {
       "id": "397433fd4208ff14a5f644dd965d7861",
@@ -35,16 +89,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“AI investment concentration risk is not just in equities”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 163
-    },
-    {
-      "id": "a23d9d8dbf3d79397595d1355a7d8f5f",
-      "title": "Brookfield to turn former nuclear weapons site into AI campus",
-      "url": "https://www.ft.com/content/7a33e045-57c0-4cf7-bb1b-a7f4ecdc1e30?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Brookfield to turn former nuclear weapons site into AI campus”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 135
+      "hotnessScore": 115
     }
   ]
 }
