@@ -1,32 +1,23 @@
 {
-  "generatedAt": "2026-08-01T04:20:00.871Z",
+  "generatedAt": "2026-08-02T04:22:45.567Z",
   "items": [
     {
-      "id": "bd0e7c15e4f79c07429523b4f2a5b1af",
-      "title": "$2M crime novel deal collapses amid questions over AI use",
-      "url": "https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body",
+      "id": "c9c983db10f1524af60b0d69509e8ed4",
+      "title": "AMD's physical AI plans come into focus as company launch Ryzen embedded AI X100",
+      "url": "https://www.servethehome.com/amds-physical-ai-plans-come-into-focus-as-company-launches-ryzen-embedded-ai-x100/",
       "source": "Hacker News · AI",
-      "question": "围绕“$2M crime novel deal collapses amid questions over AI use”需要重点关注哪些问题？",
+      "question": "围绕“AMD's physical AI plans come into focus as company launch Ryzen embedded AI X100”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 460
+      "hotnessScore": 461
     },
     {
-      "id": "9f5d67aa671f04d2f5d85d2dcb77db58",
-      "title": "Framework choice explains ~0.06% of agentic AI security outcome (7,020 trials)",
-      "url": "https://figshare.com/articles/preprint/Cross-Framework_Portability_of_Agentic_AI_Security_A_Controlled_Payload-Verified_Evaluation/33110642",
-      "source": "Hacker News · AI",
-      "question": "围绕“Framework choice explains ~0.06% of agentic AI security outcome (7,020 trials)”需要重点关注哪些问题？",
+      "id": "79894bf3945f918c627ad71ee9b5273c",
+      "title": "Situational Awareness got the future right but misread the past",
+      "url": "https://www.ft.com/content/20af5836-51b0-4a37-a820-9de1583a18b4?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Situational Awareness got the future right but misread the past”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 455
-    },
-    {
-      "id": "e1bd6b30b66dfcd331d2144e0fff0f5c",
-      "title": "Upgraded melly, our agent on sleek",
-      "url": "https://news.ycombinator.com/item?id=49130415",
-      "source": "Hacker News · AI",
-      "question": "围绕“Upgraded melly, our agent on sleek”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 449
+      "hotnessScore": 163
     },
     {
       "id": "e9f7f2256cf2ea4b20fe892289e6f935",
@@ -35,7 +26,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 199
+      "hotnessScore": 151
     },
     {
       "id": "aaa40e8f699a1e811ff1d28bd801c0f4",
@@ -44,7 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Amazon completes $50bn investment in OpenAI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 198
+      "hotnessScore": 150
     },
     {
       "id": "4b06174de0fbbd946d7d5bbfd966152e",
@@ -53,7 +44,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 193
+      "hotnessScore": 145
     },
     {
       "id": "2748b434c47f11315be50026fbeff146",
@@ -62,7 +53,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“NXP in talks to buy $3bn-plus designer of camera chips for self-driving cars”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 190
+      "hotnessScore": 141
     },
     {
       "id": "fa1a696550beda854b71c4b697333b6a",
@@ -71,7 +62,7 @@
       "source": "Amazon Science",
       "question": "围绕“How controllers from industrial machinery can coordinate multitask machine learning”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 148
+      "hotnessScore": 100
     },
     {
       "id": "4049c9a7369efec4bd8abd8ef9996b15",
@@ -80,7 +71,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Winner of US-China AI rivalry falls 2% in Hong Kong debut”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 124
+      "hotnessScore": 76
     },
     {
       "id": "397433fd4208ff14a5f644dd965d7861",
@@ -89,7 +80,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“AI investment concentration risk is not just in equities”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 115
+      "hotnessScore": 68
     }
   ]
 }
