@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-02T04:22:45.567Z",
+  "generatedAt": "2026-08-03T04:28:40.714Z",
   "items": [
     {
-      "id": "c9c983db10f1524af60b0d69509e8ed4",
-      "title": "AMD's physical AI plans come into focus as company launch Ryzen embedded AI X100",
-      "url": "https://www.servethehome.com/amds-physical-ai-plans-come-into-focus-as-company-launches-ryzen-embedded-ai-x100/",
+      "id": "801598919a7152f4d5a6393434eb8d7f",
+      "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
       "source": "Hacker News · AI",
-      "question": "围绕“AMD's physical AI plans come into focus as company launch Ryzen embedded AI X100”需要重点关注哪些问题？",
+      "question": "围绕“OpenAI's super PAC is funding AI-generated news site attacking industry critics”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 461
+      "hotnessScore": 463
     },
     {
       "id": "79894bf3945f918c627ad71ee9b5273c",
@@ -17,7 +17,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Situational Awareness got the future right but misread the past”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 163
+      "hotnessScore": 115
     },
     {
       "id": "e9f7f2256cf2ea4b20fe892289e6f935",
@@ -26,7 +26,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 151
+      "hotnessScore": 103
     },
     {
       "id": "aaa40e8f699a1e811ff1d28bd801c0f4",
@@ -35,7 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Amazon completes $50bn investment in OpenAI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 150
+      "hotnessScore": 102
     },
     {
       "id": "4b06174de0fbbd946d7d5bbfd966152e",
@@ -44,7 +44,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 145
+      "hotnessScore": 97
     },
     {
       "id": "2748b434c47f11315be50026fbeff146",
@@ -53,7 +53,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“NXP in talks to buy $3bn-plus designer of camera chips for self-driving cars”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 141
+      "hotnessScore": 93
     },
     {
       "id": "fa1a696550beda854b71c4b697333b6a",
@@ -62,7 +62,7 @@
       "source": "Amazon Science",
       "question": "围绕“How controllers from industrial machinery can coordinate multitask machine learning”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 100
+      "hotnessScore": 74
     },
     {
       "id": "4049c9a7369efec4bd8abd8ef9996b15",
@@ -71,7 +71,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Winner of US-China AI rivalry falls 2% in Hong Kong debut”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 76
+      "hotnessScore": 68
     },
     {
       "id": "397433fd4208ff14a5f644dd965d7861",
