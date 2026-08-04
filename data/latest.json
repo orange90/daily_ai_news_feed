@@ -1,59 +1,14 @@
 {
-  "generatedAt": "2026-08-03T04:28:40.714Z",
+  "generatedAt": "2026-08-04T04:12:54.846Z",
   "items": [
     {
-      "id": "801598919a7152f4d5a6393434eb8d7f",
-      "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+      "id": "51c41d25c149c647833745d1af6b29d7",
+      "title": "The Youth AI Privacy Act's Privacy Paradox",
+      "url": "https://www.eff.org/deeplinks/2026/08/youth-ai-privacy-acts-privacy-paradox",
       "source": "Hacker News · AI",
-      "question": "围绕“OpenAI's super PAC is funding AI-generated news site attacking industry critics”需要重点关注哪些问题？",
+      "question": "围绕“The Youth AI Privacy Act's Privacy Paradox”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 463
-    },
-    {
-      "id": "79894bf3945f918c627ad71ee9b5273c",
-      "title": "Situational Awareness got the future right but misread the past",
-      "url": "https://www.ft.com/content/20af5836-51b0-4a37-a820-9de1583a18b4?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Situational Awareness got the future right but misread the past”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 115
-    },
-    {
-      "id": "e9f7f2256cf2ea4b20fe892289e6f935",
-      "title": "Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout",
-      "url": "https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 103
-    },
-    {
-      "id": "aaa40e8f699a1e811ff1d28bd801c0f4",
-      "title": "Amazon completes $50bn investment in OpenAI",
-      "url": "https://www.ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Amazon completes $50bn investment in OpenAI”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 102
-    },
-    {
-      "id": "4b06174de0fbbd946d7d5bbfd966152e",
-      "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-      "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 97
-    },
-    {
-      "id": "2748b434c47f11315be50026fbeff146",
-      "title": "NXP in talks to buy $3bn-plus designer of camera chips for self-driving cars",
-      "url": "https://www.ft.com/content/f02ce02b-fa33-49ad-b8c7-81ab5cec3de0?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“NXP in talks to buy $3bn-plus designer of camera chips for self-driving cars”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 93
+      "hotnessScore": 458
     },
     {
       "id": "fa1a696550beda854b71c4b697333b6a",
@@ -65,22 +20,49 @@
       "hotnessScore": 74
     },
     {
-      "id": "4049c9a7369efec4bd8abd8ef9996b15",
-      "title": "Winner of US-China AI rivalry falls 2% in Hong Kong debut",
-      "url": "https://www.ft.com/content/cc7d24ec-abfe-440b-9e85-4d725567f278?syn-25a6b1a6=1",
+      "id": "79894bf3945f918c627ad71ee9b5273c",
+      "title": "Situational Awareness got the future right but misread the past",
+      "url": "https://www.ft.com/content/20af5836-51b0-4a37-a820-9de1583a18b4?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Winner of US-China AI rivalry falls 2% in Hong Kong debut”需要重点关注哪些问题？",
+      "question": "围绕“Situational Awareness got the future right but misread the past”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
     },
     {
-      "id": "397433fd4208ff14a5f644dd965d7861",
-      "title": "AI investment concentration risk is not just in equities",
-      "url": "https://www.ft.com/content/5ac77b70-d057-44d4-b2b3-5eccb0e73484?syn-25a6b1a6=1",
+      "id": "e9f7f2256cf2ea4b20fe892289e6f935",
+      "title": "Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout",
+      "url": "https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“AI investment concentration risk is not just in equities”需要重点关注哪些问题？",
+      "question": "围绕“Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
+    },
+    {
+      "id": "aaa40e8f699a1e811ff1d28bd801c0f4",
+      "title": "Amazon completes $50bn investment in OpenAI",
+      "url": "https://www.ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Amazon completes $50bn investment in OpenAI”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 68
+    },
+    {
+      "id": "2748b434c47f11315be50026fbeff146",
+      "title": "NXP in talks to buy $3bn-plus designer of camera chips for self-driving cars",
+      "url": "https://www.ft.com/content/f02ce02b-fa33-49ad-b8c7-81ab5cec3de0?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“NXP in talks to buy $3bn-plus designer of camera chips for self-driving cars”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 68
+    },
+    {
+      "id": "4b06174de0fbbd946d7d5bbfd966152e",
+      "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+      "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 62
     }
   ]
 }
