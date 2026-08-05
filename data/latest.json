@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-08-04T04:12:54.846Z",
+  "generatedAt": "2026-08-05T04:07:30.473Z",
   "items": [
     {
-      "id": "51c41d25c149c647833745d1af6b29d7",
-      "title": "The Youth AI Privacy Act's Privacy Paradox",
-      "url": "https://www.eff.org/deeplinks/2026/08/youth-ai-privacy-acts-privacy-paradox",
+      "id": "65dd0d78e9d84c4895a658a5fca8c36a",
+      "title": "White House excludes open models from framework to test advanced AI capabilities",
+      "url": "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
       "source": "Hacker News · AI",
-      "question": "围绕“The Youth AI Privacy Act's Privacy Paradox”需要重点关注哪些问题？",
+      "question": "围绕“White House excludes open models from framework to test advanced AI capabilities”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 458
+      "hotnessScore": 492
+    },
+    {
+      "id": "e40142d20f88dc3e235f21affa05d933",
+      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+      "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+      "source": "Hacker News · AI",
+      "question": "围绕“The White House Is Keeping Its AI Cybersecurity Framework Secret”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 464
+    },
+    {
+      "id": "5c1fc712f47333135f5eb61ecf6c5062",
+      "title": "The best Hisense TVs of 2026: Expert tested for streaming, gaming, and more",
+      "url": "https://www.zdnet.com/article/best-hisense-tv/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“The best Hisense TVs of 2026: Expert tested for streaming, gaming, and more”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 216
+    },
+    {
+      "id": "0acccf180e3358b8c480472201adeebf",
+      "title": "AI is finding bugs faster than humans can fix them: How enterprise security teams must adapt",
+      "url": "https://www.zdnet.com/article/ai-is-finding-bugs-faster-than-humans-can-fix-them-how-enterprise-security-teams-must-adapt/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“AI is finding bugs faster than humans can fix them: How enterprise security teams must adapt”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 212
+    },
+    {
+      "id": "44081473dd56c4ce38aea73d1d11ed80",
+      "title": "OpenAI hits back at Apple over ‘oddly personal’ trade secrets fight",
+      "url": "https://www.ft.com/content/7da4af42-178d-431a-91db-7e82eecc98dd?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“OpenAI hits back at Apple over ‘oddly personal’ trade secrets fight”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 177
     },
     {
       "id": "fa1a696550beda854b71c4b697333b6a",
