@@ -1,32 +1,23 @@
 {
-  "generatedAt": "2026-08-07T03:49:04.579Z",
+  "generatedAt": "2026-08-08T02:54:05.390Z",
   "items": [
     {
-      "id": "c2e2248ffbed036c042e1459691f6c80",
-      "title": "Trump's AI Framework Is So Bad They Won't Show You What's in It",
-      "url": "https://www.techdirt.com/2026/08/06/trumps-ai-framework-is-so-bad-they-wont-show-you-whats-in-it/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Trump's AI Framework Is So Bad They Won't Show You What's in It”需要重点关注哪些问题？",
+      "id": "55230fccf3d98ba1c74e81b5af138b53",
+      "title": "Moonshot shake-up seeks to win Beijing nod for stock market debut",
+      "url": "https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Moonshot shake-up seeks to win Beijing nod for stock market debut”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 461
+      "hotnessScore": 212
     },
     {
-      "id": "c22f162c67be703f99dbe7d3715b27ac",
-      "title": "EU AI Act Content Labelling: Fake Around and Find Out",
-      "url": "https://reprodev.com/eu-ai-act-content-labelling-fake-around-and-find-out/",
-      "source": "Hacker News · AI",
-      "question": "围绕“EU AI Act Content Labelling: Fake Around and Find Out”需要重点关注哪些问题？",
+      "id": "76304e3fe9de48a3b0ea6effdbe306e2",
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The Download: a censorship conspiracy theory and the first virus created by AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 459
-    },
-    {
-      "id": "89acb818b48747e293835ff4258f776b",
-      "title": "I launched a fake deodorant brand to see if AI would notice",
-      "url": "https://xcancel.com/antibot/captcha",
-      "source": "Hacker News · AI",
-      "question": "围绕“I launched a fake deodorant brand to see if AI would notice”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 458
+      "hotnessScore": 191
     },
     {
       "id": "c9680ba8694516034d57b41ce3a58a3c",
@@ -35,7 +26,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Alibaba’s latest AI model puts it back in the great game”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 206
+      "hotnessScore": 160
     },
     {
       "id": "f28b7b9f5b3920263b9cae525c778b60",
@@ -44,7 +35,7 @@
       "source": "Apple Machine Learning Research",
       "question": "围绕“DeepAmbigQA: Ambiguous Multi-hop Questions for Benchmarking LLM Answer Completeness”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 184
+      "hotnessScore": 138
     },
     {
       "id": "96b977e65838530e3e3aa6a4c82f23c5",
@@ -53,7 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 173
+      "hotnessScore": 127
     },
     {
       "id": "b3a48d323e56239f805a1f075221b53d",
@@ -62,7 +53,7 @@
       "source": "Amazon Science",
       "question": "围绕“34 Amazon Research Awards Build on Trainium recipients announced”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 148
+      "hotnessScore": 102
     },
     {
       "id": "44081473dd56c4ce38aea73d1d11ed80",
@@ -71,16 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“OpenAI hits back at Apple over ‘oddly personal’ trade secrets fight”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 81
-    },
-    {
-      "id": "4b06174de0fbbd946d7d5bbfd966152e",
-      "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-      "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 62
+      "hotnessScore": 68
     }
   ]
 }
