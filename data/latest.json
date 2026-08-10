@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T03:01:42.923Z",
+  "generatedAt": "2026-08-10T03:10:46.613Z",
   "items": [
     {
       "id": "55230fccf3d98ba1c74e81b5af138b53",
@@ -8,25 +8,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Moonshot shake-up seeks to win Beijing nod for stock market debut”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 164
-    },
-    {
-      "id": "76304e3fe9de48a3b0ea6effdbe306e2",
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-      "source": "MIT Technology Review",
-      "question": "围绕“The Download: a censorship conspiracy theory and the first virus created by AI”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 143
-    },
-    {
-      "id": "c9680ba8694516034d57b41ce3a58a3c",
-      "title": "Alibaba’s latest AI model puts it back in the great game",
-      "url": "https://www.ft.com/content/391c5f14-4bf2-4d24-92f0-65b912574513?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Alibaba’s latest AI model puts it back in the great game”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 112
+      "hotnessScore": 116
     },
     {
       "id": "f28b7b9f5b3920263b9cae525c778b60",
@@ -38,13 +20,13 @@
       "hotnessScore": 96
     },
     {
-      "id": "96b977e65838530e3e3aa6a4c82f23c5",
-      "title": "OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving",
-      "url": "https://www.ft.com/content/d9e9cbbe-8443-4c10-821a-1834e4965236?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving”需要重点关注哪些问题？",
+      "id": "76304e3fe9de48a3b0ea6effdbe306e2",
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The Download: a censorship conspiracy theory and the first virus created by AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 78
+      "hotnessScore": 94
     },
     {
       "id": "b3a48d323e56239f805a1f075221b53d",
@@ -54,6 +36,24 @@
       "question": "围绕“34 Amazon Research Awards Build on Trainium recipients announced”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 78
+    },
+    {
+      "id": "c9680ba8694516034d57b41ce3a58a3c",
+      "title": "Alibaba’s latest AI model puts it back in the great game",
+      "url": "https://www.ft.com/content/391c5f14-4bf2-4d24-92f0-65b912574513?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Alibaba’s latest AI model puts it back in the great game”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 72
+    },
+    {
+      "id": "96b977e65838530e3e3aa6a4c82f23c5",
+      "title": "OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving",
+      "url": "https://www.ft.com/content/d9e9cbbe-8443-4c10-821a-1834e4965236?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 72
     },
     {
       "id": "44081473dd56c4ce38aea73d1d11ed80",
