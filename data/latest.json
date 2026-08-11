@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-08-10T03:10:46.613Z",
+  "generatedAt": "2026-08-11T03:03:51.116Z",
   "items": [
     {
-      "id": "55230fccf3d98ba1c74e81b5af138b53",
-      "title": "Moonshot shake-up seeks to win Beijing nod for stock market debut",
-      "url": "https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1",
+      "id": "b603d2069e54ef1f373af558faf6ae54",
+      "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
+      "url": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Moonshot shake-up seeks to win Beijing nod for stock market debut”需要重点关注哪些问题？",
+      "question": "围绕“Wall Street giants partner with Nvidia on $500bn AI financing deal”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 116
+      "hotnessScore": 201
+    },
+    {
+      "id": "3786a1f75a1c23a6f9fdffe73b8d93cc",
+      "title": "FirstFT: Wall Street giants partner with Nvidia on $500bn AI funding package",
+      "url": "https://www.ft.com/content/b957441e-ac7d-4dbd-a024-3af989ef7a44?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“FirstFT: Wall Street giants partner with Nvidia on $500bn AI funding package”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 201
+    },
+    {
+      "id": "a0b3a43eb4eb34765e6c66266b2929fe",
+      "title": "AI for science needs reasoning, not just data",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "source": "MIT Technology Review",
+      "question": "围绕“AI for science needs reasoning, not just data”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 176
     },
     {
       "id": "f28b7b9f5b3920263b9cae525c778b60",
@@ -20,15 +38,6 @@
       "hotnessScore": 96
     },
     {
-      "id": "76304e3fe9de48a3b0ea6effdbe306e2",
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-      "source": "MIT Technology Review",
-      "question": "围绕“The Download: a censorship conspiracy theory and the first virus created by AI”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 94
-    },
-    {
       "id": "b3a48d323e56239f805a1f075221b53d",
       "title": "34 Amazon Research Awards Build on Trainium recipients announced",
       "url": "https://www.amazon.science/research-awards/latest-news/34-amazon-research-awards-build-on-trainium-recipients-announced",
@@ -36,6 +45,15 @@
       "question": "围绕“34 Amazon Research Awards Build on Trainium recipients announced”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 78
+    },
+    {
+      "id": "55230fccf3d98ba1c74e81b5af138b53",
+      "title": "Moonshot shake-up seeks to win Beijing nod for stock market debut",
+      "url": "https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Moonshot shake-up seeks to win Beijing nod for stock market debut”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 76
     },
     {
       "id": "c9680ba8694516034d57b41ce3a58a3c",
@@ -56,13 +74,13 @@
       "hotnessScore": 72
     },
     {
-      "id": "44081473dd56c4ce38aea73d1d11ed80",
-      "title": "OpenAI hits back at Apple over ‘oddly personal’ trade secrets fight",
-      "url": "https://www.ft.com/content/7da4af42-178d-431a-91db-7e82eecc98dd?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“OpenAI hits back at Apple over ‘oddly personal’ trade secrets fight”需要重点关注哪些问题？",
+      "id": "76304e3fe9de48a3b0ea6effdbe306e2",
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The Download: a censorship conspiracy theory and the first virus created by AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
+      "hotnessScore": 72
     }
   ]
 }
