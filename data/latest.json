@@ -1,23 +1,32 @@
 {
-  "generatedAt": "2026-08-12T03:22:44.914Z",
+  "generatedAt": "2026-08-13T03:26:08.462Z",
   "items": [
     {
-      "id": "4528ca006037be0d78b531473aaa91a6",
-      "title": "Nvidia's open Nemotron 3.5 Lightning model is all about specialized, local agentic AI",
-      "url": "https://www.zdnet.com/article/ai-model-release-tracker/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Nvidia's open Nemotron 3.5 Lightning model is all about specialized, local agentic AI”需要重点关注哪些问题？",
+      "id": "a8d7cbff13a686d5f250b56999980009",
+      "title": "Show HN: Agent Memory Leaderboard – first public results for AI memory systems",
+      "url": "https://agentmemoryleaderboard.ai/leaderboard/academic/textual",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Agent Memory Leaderboard – first public results for AI memory systems”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 227
+      "hotnessScore": 473
     },
     {
-      "id": "6a1d48a052c840ce42e171a93a98263f",
-      "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
-      "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China”需要重点关注哪些问题？",
+      "id": "39e6db6813d793b9fe35cd5fc1006e6e",
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "source": "TechCrunch · Artificial Intelligence",
+      "question": "围绕“As AI safety concerns mount, three pioneers make the case for staying open”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 189
+      "hotnessScore": 287
+    },
+    {
+      "id": "bd3081391ed28fa107cfbbc17e029114",
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Scaling AI agents with trustworthy data”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 191
     },
     {
       "id": "f7a95be5fdd3da07728c8060aee034bf",
@@ -26,7 +35,16 @@
       "source": "CNBC · Technology",
       "question": "围绕“AI computing power is becoming a tradable asset class as CME launches futures contracts”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 184
+      "hotnessScore": 176
+    },
+    {
+      "id": "6a1d48a052c840ce42e171a93a98263f",
+      "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
+      "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 141
     },
     {
       "id": "861964e5816989b87544c41d913650dd",
@@ -35,7 +53,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“The Download: the next big thing in LLMs and how AI academic research is shifting”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 182
+      "hotnessScore": 133
     },
     {
       "id": "75324015e61bc77487bfcacf2c588a26",
@@ -44,7 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Nvidia becomes the bank of AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 165
+      "hotnessScore": 117
     },
     {
       "id": "b603d2069e54ef1f373af558faf6ae54",
@@ -53,7 +71,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Wall Street giants partner with Nvidia on $500bn AI financing deal”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 153
+      "hotnessScore": 105
     },
     {
       "id": "a0b3a43eb4eb34765e6c66266b2929fe",
@@ -62,25 +80,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“AI for science needs reasoning, not just data”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 127
-    },
-    {
-      "id": "f28b7b9f5b3920263b9cae525c778b60",
-      "title": "DeepAmbigQA: Ambiguous Multi-hop Questions for Benchmarking LLM Answer Completeness",
-      "url": "https://machinelearning.apple.com/research/deepambigqa-multihop-questions",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“DeepAmbigQA: Ambiguous Multi-hop Questions for Benchmarking LLM Answer Completeness”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 96
-    },
-    {
-      "id": "b3a48d323e56239f805a1f075221b53d",
-      "title": "34 Amazon Research Awards Build on Trainium recipients announced",
-      "url": "https://www.amazon.science/research-awards/latest-news/34-amazon-research-awards-build-on-trainium-recipients-announced",
-      "source": "Amazon Science",
-      "question": "围绕“34 Amazon Research Awards Build on Trainium recipients announced”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 78
+      "hotnessScore": 79
     },
     {
       "id": "55230fccf3d98ba1c74e81b5af138b53",
@@ -97,24 +97,6 @@
       "url": "https://www.ft.com/content/391c5f14-4bf2-4d24-92f0-65b912574513?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Alibaba’s latest AI model puts it back in the great game”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
-    },
-    {
-      "id": "96b977e65838530e3e3aa6a4c82f23c5",
-      "title": "OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving",
-      "url": "https://www.ft.com/content/d9e9cbbe-8443-4c10-821a-1834e4965236?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
-    },
-    {
-      "id": "76304e3fe9de48a3b0ea6effdbe306e2",
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-      "source": "MIT Technology Review",
-      "question": "围绕“The Download: a censorship conspiracy theory and the first virus created by AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 72
     }
