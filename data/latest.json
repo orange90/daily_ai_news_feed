@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-08-13T03:26:08.462Z",
+  "generatedAt": "2026-08-14T03:23:54.254Z",
   "items": [
     {
-      "id": "a8d7cbff13a686d5f250b56999980009",
-      "title": "Show HN: Agent Memory Leaderboard – first public results for AI memory systems",
-      "url": "https://agentmemoryleaderboard.ai/leaderboard/academic/textual",
+      "id": "b374002b5819e0748302fc963f2b289a",
+      "title": "Tax Law Is Funding the AI Infrastructure Boom, Not Creating It",
+      "url": "https://news.bloombergtax.com/tax-insights-and-commentary/tax-law-is-funding-the-ai-infrastructure-boom-not-creating-it",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Agent Memory Leaderboard – first public results for AI memory systems”需要重点关注哪些问题？",
+      "question": "围绕“Tax Law Is Funding the AI Infrastructure Boom, Not Creating It”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 473
+      "hotnessScore": 471
+    },
+    {
+      "id": "19b9cfefa4ae70f17fd6899c7a2356b3",
+      "title": "Show HN: Code Stitcher Godot Support",
+      "url": "https://news.ycombinator.com/item?id=49293089",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Code Stitcher Godot Support”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 455
     },
     {
       "id": "39e6db6813d793b9fe35cd5fc1006e6e",
@@ -17,7 +26,25 @@
       "source": "TechCrunch · Artificial Intelligence",
       "question": "围绕“As AI safety concerns mount, three pioneers make the case for staying open”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 287
+      "hotnessScore": 239
+    },
+    {
+      "id": "94bc21be4be1b679be36c61ec99a5f39",
+      "title": "AI bootcamp launched in North West to combat youth unemployment",
+      "url": "https://www.gov.uk/government/news/ai-bootcamp-launched-in-north-west-to-combat-youth-unemployment",
+      "source": "UK Government · AI Regulation Updates",
+      "question": "围绕“AI bootcamp launched in North West to combat youth unemployment”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 207
+    },
+    {
+      "id": "357c02e56dcdd41cc5a77097f88adbd3",
+      "title": "AI has opened up big holes in cyber security",
+      "url": "https://www.ft.com/content/c78f18d3-fd4f-47ee-b34b-e5bdaa2fb9c6?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“AI has opened up big holes in cyber security”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 192
     },
     {
       "id": "bd3081391ed28fa107cfbbc17e029114",
@@ -26,7 +53,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“Scaling AI agents with trustworthy data”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 191
+      "hotnessScore": 143
     },
     {
       "id": "f7a95be5fdd3da07728c8060aee034bf",
@@ -35,7 +62,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“AI computing power is becoming a tradable asset class as CME launches futures contracts”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 176
+      "hotnessScore": 128
     },
     {
       "id": "6a1d48a052c840ce42e171a93a98263f",
@@ -44,16 +71,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 141
-    },
-    {
-      "id": "861964e5816989b87544c41d913650dd",
-      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-      "source": "MIT Technology Review",
-      "question": "围绕“The Download: the next big thing in LLMs and how AI academic research is shifting”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 133
+      "hotnessScore": 93
     },
     {
       "id": "75324015e61bc77487bfcacf2c588a26",
@@ -62,7 +80,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Nvidia becomes the bank of AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 117
+      "hotnessScore": 69
     },
     {
       "id": "b603d2069e54ef1f373af558faf6ae54",
@@ -71,34 +89,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Wall Street giants partner with Nvidia on $500bn AI financing deal”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 105
-    },
-    {
-      "id": "a0b3a43eb4eb34765e6c66266b2929fe",
-      "title": "AI for science needs reasoning, not just data",
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "source": "MIT Technology Review",
-      "question": "围绕“AI for science needs reasoning, not just data”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 79
-    },
-    {
-      "id": "55230fccf3d98ba1c74e81b5af138b53",
-      "title": "Moonshot shake-up seeks to win Beijing nod for stock market debut",
-      "url": "https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Moonshot shake-up seeks to win Beijing nod for stock market debut”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 76
-    },
-    {
-      "id": "c9680ba8694516034d57b41ce3a58a3c",
-      "title": "Alibaba’s latest AI model puts it back in the great game",
-      "url": "https://www.ft.com/content/391c5f14-4bf2-4d24-92f0-65b912574513?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Alibaba’s latest AI model puts it back in the great game”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
+      "hotnessScore": 68
     }
   ]
 }
