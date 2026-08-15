@@ -1,23 +1,14 @@
 {
-  "generatedAt": "2026-08-14T03:23:54.254Z",
+  "generatedAt": "2026-08-15T02:13:34.781Z",
   "items": [
     {
-      "id": "b374002b5819e0748302fc963f2b289a",
-      "title": "Tax Law Is Funding the AI Infrastructure Boom, Not Creating It",
-      "url": "https://news.bloombergtax.com/tax-insights-and-commentary/tax-law-is-funding-the-ai-infrastructure-boom-not-creating-it",
+      "id": "21d4b9516367c054de8df7f776e9da0d",
+      "title": "A Framework for Solving the AI Data Center Energy Crisis",
+      "url": "https://github.com/kikazamek999-eng/beyond-brute-force-scaling",
       "source": "Hacker News · AI",
-      "question": "围绕“Tax Law Is Funding the AI Infrastructure Boom, Not Creating It”需要重点关注哪些问题？",
+      "question": "围绕“A Framework for Solving the AI Data Center Energy Crisis”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 471
-    },
-    {
-      "id": "19b9cfefa4ae70f17fd6899c7a2356b3",
-      "title": "Show HN: Code Stitcher Godot Support",
-      "url": "https://news.ycombinator.com/item?id=49293089",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Code Stitcher Godot Support”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 455
+      "hotnessScore": 456
     },
     {
       "id": "39e6db6813d793b9fe35cd5fc1006e6e",
@@ -26,16 +17,34 @@
       "source": "TechCrunch · Artificial Intelligence",
       "question": "围绕“As AI safety concerns mount, three pioneers make the case for staying open”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 239
+      "hotnessScore": 193
+    },
+    {
+      "id": "7c8d27739d6d84eaf4cfa1086bdd8aa8",
+      "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+      "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Goldman’s latest cash cow is all about funding the AI infrastructure boom”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 190
+    },
+    {
+      "id": "3a9052a67d72ae6d41d1191f958c497f",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "url": "https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“OpenAI and Anthropic in price war as Chinese AI rivals gain ground”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 172
     },
     {
       "id": "94bc21be4be1b679be36c61ec99a5f39",
-      "title": "AI bootcamp launched in North West to combat youth unemployment",
+      "title": "AI bootcamp launched in north-west to combat youth unemployment",
       "url": "https://www.gov.uk/government/news/ai-bootcamp-launched-in-north-west-to-combat-youth-unemployment",
       "source": "UK Government · AI Regulation Updates",
-      "question": "围绕“AI bootcamp launched in North West to combat youth unemployment”需要重点关注哪些问题？",
+      "question": "围绕“AI bootcamp launched in north-west to combat youth unemployment”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 207
+      "hotnessScore": 162
     },
     {
       "id": "357c02e56dcdd41cc5a77097f88adbd3",
@@ -44,16 +53,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“AI has opened up big holes in cyber security”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 192
-    },
-    {
-      "id": "bd3081391ed28fa107cfbbc17e029114",
-      "title": "Scaling AI agents with trustworthy data",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Scaling AI agents with trustworthy data”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 143
+      "hotnessScore": 146
     },
     {
       "id": "f7a95be5fdd3da07728c8060aee034bf",
@@ -62,16 +62,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“AI computing power is becoming a tradable asset class as CME launches futures contracts”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 128
-    },
-    {
-      "id": "6a1d48a052c840ce42e171a93a98263f",
-      "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
-      "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 93
+      "hotnessScore": 82
     },
     {
       "id": "75324015e61bc77487bfcacf2c588a26",
@@ -80,16 +71,16 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Nvidia becomes the bank of AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 69
+      "hotnessScore": 68
     },
     {
-      "id": "b603d2069e54ef1f373af558faf6ae54",
-      "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
-      "url": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Wall Street giants partner with Nvidia on $500bn AI financing deal”需要重点关注哪些问题？",
+      "id": "6a1d48a052c840ce42e171a93a98263f",
+      "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
+      "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
+      "hotnessScore": 58
     }
   ]
 }
