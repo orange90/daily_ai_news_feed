@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-15T02:13:34.781Z",
+  "generatedAt": "2026-08-16T02:21:00.925Z",
   "items": [
     {
-      "id": "21d4b9516367c054de8df7f776e9da0d",
-      "title": "A Framework for Solving the AI Data Center Energy Crisis",
-      "url": "https://github.com/kikazamek999-eng/beyond-brute-force-scaling",
+      "id": "e81de6d220f5df8214e5880683497ed6",
+      "title": "Privacy is an underrated advantage in Slack apps",
+      "url": "https://news.ycombinator.com/item?id=49315895",
       "source": "Hacker News · AI",
-      "question": "围绕“A Framework for Solving the AI Data Center Energy Crisis”需要重点关注哪些问题？",
+      "question": "围绕“Privacy is an underrated advantage in Slack apps”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 456
     },
@@ -17,7 +17,7 @@
       "source": "TechCrunch · Artificial Intelligence",
       "question": "围绕“As AI safety concerns mount, three pioneers make the case for staying open”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 193
+      "hotnessScore": 162
     },
     {
       "id": "7c8d27739d6d84eaf4cfa1086bdd8aa8",
@@ -26,7 +26,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“Goldman’s latest cash cow is all about funding the AI infrastructure boom”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 190
+      "hotnessScore": 141
     },
     {
       "id": "3a9052a67d72ae6d41d1191f958c497f",
@@ -35,7 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“OpenAI and Anthropic in price war as Chinese AI rivals gain ground”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 172
+      "hotnessScore": 123
     },
     {
       "id": "94bc21be4be1b679be36c61ec99a5f39",
@@ -44,7 +44,7 @@
       "source": "UK Government · AI Regulation Updates",
       "question": "围绕“AI bootcamp launched in north-west to combat youth unemployment”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 162
+      "hotnessScore": 113
     },
     {
       "id": "357c02e56dcdd41cc5a77097f88adbd3",
@@ -53,16 +53,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“AI has opened up big holes in cyber security”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 146
-    },
-    {
-      "id": "f7a95be5fdd3da07728c8060aee034bf",
-      "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
-      "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“AI computing power is becoming a tradable asset class as CME launches futures contracts”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 82
+      "hotnessScore": 98
     },
     {
       "id": "75324015e61bc77487bfcacf2c588a26",
@@ -79,6 +70,15 @@
       "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
       "source": "CNBC · Technology",
       "question": "围绕“Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 58
+    },
+    {
+      "id": "f7a95be5fdd3da07728c8060aee034bf",
+      "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
+      "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“AI computing power is becoming a tradable asset class as CME launches futures contracts”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 58
     }
