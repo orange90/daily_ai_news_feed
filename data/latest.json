@@ -1,15 +1,6 @@
 {
-  "generatedAt": "2026-08-16T02:21:00.925Z",
+  "generatedAt": "2026-08-17T02:19:33.818Z",
   "items": [
-    {
-      "id": "e81de6d220f5df8214e5880683497ed6",
-      "title": "Privacy is an underrated advantage in Slack apps",
-      "url": "https://news.ycombinator.com/item?id=49315895",
-      "source": "Hacker News · AI",
-      "question": "围绕“Privacy is an underrated advantage in Slack apps”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 456
-    },
     {
       "id": "39e6db6813d793b9fe35cd5fc1006e6e",
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
@@ -26,7 +17,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“Goldman’s latest cash cow is all about funding the AI infrastructure boom”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 141
+      "hotnessScore": 94
     },
     {
       "id": "3a9052a67d72ae6d41d1191f958c497f",
@@ -35,7 +26,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“OpenAI and Anthropic in price war as Chinese AI rivals gain ground”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 123
+      "hotnessScore": 75
     },
     {
       "id": "94bc21be4be1b679be36c61ec99a5f39",
@@ -44,7 +35,7 @@
       "source": "UK Government · AI Regulation Updates",
       "question": "围绕“AI bootcamp launched in north-west to combat youth unemployment”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 113
+      "hotnessScore": 72
     },
     {
       "id": "357c02e56dcdd41cc5a77097f88adbd3",
@@ -52,15 +43,6 @@
       "url": "https://www.ft.com/content/c78f18d3-fd4f-47ee-b34b-e5bdaa2fb9c6?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“AI has opened up big holes in cyber security”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 98
-    },
-    {
-      "id": "75324015e61bc77487bfcacf2c588a26",
-      "title": "Nvidia becomes the bank of AI",
-      "url": "https://www.ft.com/content/4c93c894-04b8-49dc-be41-98ae79f540f8?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Nvidia becomes the bank of AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
     },
