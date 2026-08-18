@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-08-17T02:19:33.818Z",
+  "generatedAt": "2026-08-18T02:15:10.001Z",
   "items": [
+    {
+      "id": "b60739563a956bece9a5360c0ef7aa94",
+      "title": "Ask HN: Does anyone else feel like nothing matters anymore?",
+      "url": "https://news.ycombinator.com/item?id=49340013",
+      "source": "Hacker News · AI",
+      "question": "围绕“Ask HN: Does anyone else feel like nothing matters anymore?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 535
+    },
+    {
+      "id": "3898d41ceb41048d0a284da7b797f64d",
+      "title": "Show HN: Turtle – Web Browser written from scratch for 2 years",
+      "url": "https://news.ycombinator.com/item?id=49340294",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Turtle – Web Browser written from scratch for 2 years”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 462
+    },
+    {
+      "id": "c8431dba0a6080dd3d7ddbba54da7926",
+      "title": "Show HN: A multiplayer coding environment for dev teams and agents",
+      "url": "https://forklane.ai",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: A multiplayer coding environment for dev teams and agents”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 450
+    },
+    {
+      "id": "83246287bd9c330240c0ea8cf8ddbcd5",
+      "title": "Lanarkshire AI Growth Zone secures £300 million investment as Dell establishes Scottish base",
+      "url": "https://www.gov.uk/government/news/lanarkshire-ai-growth-zone-secures-300-million-investment-as-dell-establishes-scottish-base",
+      "source": "UK Government · AI Regulation Updates",
+      "question": "围绕“Lanarkshire AI Growth Zone secures £300 million investment as Dell establishes Scottish base”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 206
+    },
+    {
+      "id": "b86dda4c73f1473981cd85f1fe517261",
+      "title": "What Flock’s defenders are missing",
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "source": "MIT Technology Review",
+      "question": "围绕“What Flock’s defenders are missing”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 202
+    },
+    {
+      "id": "87734198969461d873c09a5258af2041",
+      "title": "UKAEA spins out Singular Machines",
+      "url": "https://www.gov.uk/government/news/ukaea-spins-out-singular-machines",
+      "source": "UK Government · AI Regulation Updates",
+      "question": "围绕“UKAEA spins out Singular Machines”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 181
+    },
     {
       "id": "39e6db6813d793b9fe35cd5fc1006e6e",
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
@@ -11,29 +65,11 @@
       "hotnessScore": 162
     },
     {
-      "id": "7c8d27739d6d84eaf4cfa1086bdd8aa8",
-      "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
-      "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Goldman’s latest cash cow is all about funding the AI infrastructure boom”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 94
-    },
-    {
       "id": "3a9052a67d72ae6d41d1191f958c497f",
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "url": "https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“OpenAI and Anthropic in price war as Chinese AI rivals gain ground”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 75
-    },
-    {
-      "id": "94bc21be4be1b679be36c61ec99a5f39",
-      "title": "AI bootcamp launched in north-west to combat youth unemployment",
-      "url": "https://www.gov.uk/government/news/ai-bootcamp-launched-in-north-west-to-combat-youth-unemployment",
-      "source": "UK Government · AI Regulation Updates",
-      "question": "围绕“AI bootcamp launched in north-west to combat youth unemployment”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 72
     },
@@ -45,6 +81,15 @@
       "question": "围绕“AI has opened up big holes in cyber security”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
+    },
+    {
+      "id": "7c8d27739d6d84eaf4cfa1086bdd8aa8",
+      "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+      "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Goldman’s latest cash cow is all about funding the AI infrastructure boom”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 58
     },
     {
       "id": "6a1d48a052c840ce42e171a93a98263f",
