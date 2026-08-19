@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-08-18T02:15:10.001Z",
+  "generatedAt": "2026-08-19T02:18:22.448Z",
   "items": [
     {
-      "id": "b60739563a956bece9a5360c0ef7aa94",
-      "title": "Ask HN: Does anyone else feel like nothing matters anymore?",
-      "url": "https://news.ycombinator.com/item?id=49340013",
+      "id": "f00918499c7ee053837703f3d515b336",
+      "title": "Show HN: Maritime, a platform for running AI agents for $1 a month",
+      "url": "https://maritime.sh",
       "source": "Hacker News · AI",
-      "question": "围绕“Ask HN: Does anyone else feel like nothing matters anymore?”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: Maritime, a platform for running AI agents for $1 a month”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 535
+      "hotnessScore": 467
     },
     {
-      "id": "3898d41ceb41048d0a284da7b797f64d",
-      "title": "Show HN: Turtle – Web Browser written from scratch for 2 years",
-      "url": "https://news.ycombinator.com/item?id=49340294",
+      "id": "d670dd520045840a850d21643b669e3a",
+      "title": "Ask HN: How should I price an AI infrastructure platform?",
+      "url": "https://news.ycombinator.com/item?id=49354254",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Turtle – Web Browser written from scratch for 2 years”需要重点关注哪些问题？",
+      "question": "围绕“Ask HN: How should I price an AI infrastructure platform?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 462
+      "hotnessScore": 460
     },
     {
-      "id": "c8431dba0a6080dd3d7ddbba54da7926",
-      "title": "Show HN: A multiplayer coding environment for dev teams and agents",
-      "url": "https://forklane.ai",
+      "id": "eb1f39c5918e74c8311e73c71c100c09",
+      "title": "OpenAI announces slowing pace of development after hack by rogue agent",
+      "url": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: A multiplayer coding environment for dev teams and agents”需要重点关注哪些问题？",
+      "question": "围绕“OpenAI announces slowing pace of development after hack by rogue agent”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 450
+      "hotnessScore": 456
     },
     {
-      "id": "83246287bd9c330240c0ea8cf8ddbcd5",
-      "title": "Lanarkshire AI Growth Zone secures £300 million investment as Dell establishes Scottish base",
-      "url": "https://www.gov.uk/government/news/lanarkshire-ai-growth-zone-secures-300-million-investment-as-dell-establishes-scottish-base",
-      "source": "UK Government · AI Regulation Updates",
-      "question": "围绕“Lanarkshire AI Growth Zone secures £300 million investment as Dell establishes Scottish base”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 206
-    },
-    {
-      "id": "b86dda4c73f1473981cd85f1fe517261",
-      "title": "What Flock’s defenders are missing",
-      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "id": "ab0d5ecaac912765a9a238d309f15cce",
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
       "source": "MIT Technology Review",
-      "question": "围绕“What Flock’s defenders are missing”需要重点关注哪些问题？",
+      "question": "围绕“The Download: how people really use AI, and Flock’s design choices”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 202
+      "hotnessScore": 188
     },
     {
-      "id": "87734198969461d873c09a5258af2041",
-      "title": "UKAEA spins out Singular Machines",
-      "url": "https://www.gov.uk/government/news/ukaea-spins-out-singular-machines",
-      "source": "UK Government · AI Regulation Updates",
-      "question": "围绕“UKAEA spins out Singular Machines”需要重点关注哪些问题？",
+      "id": "ec485fe2c582756e2055f71ed4c75cf3",
+      "title": "We still don’t know how people are really using AI",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "source": "MIT Technology Review",
+      "question": "围绕“We still don’t know how people are really using AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 181
+      "hotnessScore": 184
+    },
+    {
+      "id": "bc2c24e17e435c05df50a08c06b61b9b",
+      "title": "Credit card issuer Synchrony announces partnership with OpenAI",
+      "url": "https://www.cnbc.com/2026/08/17/synchrony-openai.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Credit card issuer Synchrony announces partnership with OpenAI”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 163
     },
     {
       "id": "39e6db6813d793b9fe35cd5fc1006e6e",
@@ -63,6 +63,24 @@
       "question": "围绕“As AI safety concerns mount, three pioneers make the case for staying open”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 162
+    },
+    {
+      "id": "83246287bd9c330240c0ea8cf8ddbcd5",
+      "title": "Lanarkshire AI Growth Zone secures £300 million investment as Dell establishes Scottish base",
+      "url": "https://www.gov.uk/government/news/lanarkshire-ai-growth-zone-secures-300-million-investment-as-dell-establishes-scottish-base",
+      "source": "UK Government · AI Regulation Updates",
+      "question": "围绕“Lanarkshire AI Growth Zone secures £300 million investment as Dell establishes Scottish base”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 157
+    },
+    {
+      "id": "b86dda4c73f1473981cd85f1fe517261",
+      "title": "What Flock’s defenders are missing",
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "source": "MIT Technology Review",
+      "question": "围绕“What Flock’s defenders are missing”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 154
     },
     {
       "id": "3a9052a67d72ae6d41d1191f958c497f",
@@ -88,15 +106,6 @@
       "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
       "source": "CNBC · Technology",
       "question": "围绕“Goldman’s latest cash cow is all about funding the AI infrastructure boom”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 58
-    },
-    {
-      "id": "6a1d48a052c840ce42e171a93a98263f",
-      "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
-      "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 58
     },
