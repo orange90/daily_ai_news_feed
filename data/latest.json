@@ -1,32 +1,50 @@
 {
-  "generatedAt": "2026-08-19T02:18:22.448Z",
+  "generatedAt": "2026-08-20T02:16:50.508Z",
   "items": [
     {
-      "id": "f00918499c7ee053837703f3d515b336",
-      "title": "Show HN: Maritime, a platform for running AI agents for $1 a month",
-      "url": "https://maritime.sh",
+      "id": "9d171007d0ef7872d5b1aab7efc19870",
+      "title": "Round Hill Music Sues Suno and Anthropic for $1B over AI Training Data",
+      "url": "https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Maritime, a platform for running AI agents for $1 a month”需要重点关注哪些问题？",
+      "question": "围绕“Round Hill Music Sues Suno and Anthropic for $1B over AI Training Data”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 467
+      "hotnessScore": 455
     },
     {
-      "id": "d670dd520045840a850d21643b669e3a",
-      "title": "Ask HN: How should I price an AI infrastructure platform?",
-      "url": "https://news.ycombinator.com/item?id=49354254",
-      "source": "Hacker News · AI",
-      "question": "围绕“Ask HN: How should I price an AI infrastructure platform?”需要重点关注哪些问题？",
+      "id": "e6ab73d923367614e45aa3c605d59a4d",
+      "title": "Firefox is the browser to beat right now if you use AI - here's why",
+      "url": "https://www.zdnet.com/article/firefox-smart-window-ai-browser-tools/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Firefox is the browser to beat right now if you use AI - here's why”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 460
+      "hotnessScore": 221
     },
     {
-      "id": "eb1f39c5918e74c8311e73c71c100c09",
-      "title": "OpenAI announces slowing pace of development after hack by rogue agent",
-      "url": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
-      "source": "Hacker News · AI",
-      "question": "围绕“OpenAI announces slowing pace of development after hack by rogue agent”需要重点关注哪些问题？",
+      "id": "43cd4b1247245cb75096b0b2cb338904",
+      "title": "Google strikes $12bn AI chip deal with Marvell",
+      "url": "https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Google strikes $12bn AI chip deal with Marvell”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 456
+      "hotnessScore": 200
+    },
+    {
+      "id": "5cb44155e4ba5ef3bff1d83d6ca2911d",
+      "title": "Stripe to buy start-up OpenRouter in $8bn deal",
+      "url": "https://www.ft.com/content/6e83ce44-1bff-4a07-86ad-5355c0d240ff?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Stripe to buy start-up OpenRouter in $8bn deal”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 198
+    },
+    {
+      "id": "4a3807877402a8e1bc0bf47cc7bff4aa",
+      "title": "The P-Completeness of Inverted Index Traversal: On the Complexity of Evaluating Boolean Query DAGs",
+      "url": "https://machinelearning.apple.com/research/the-p-completeness-of-inverted-index-traversal",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“The P-Completeness of Inverted Index Traversal: On the Complexity of Evaluating Boolean Query DAGs”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 183
     },
     {
       "id": "ab0d5ecaac912765a9a238d309f15cce",
@@ -35,7 +53,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“The Download: how people really use AI, and Flock’s design choices”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 188
+      "hotnessScore": 140
     },
     {
       "id": "ec485fe2c582756e2055f71ed4c75cf3",
@@ -44,7 +62,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“We still don’t know how people are really using AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 184
+      "hotnessScore": 136
     },
     {
       "id": "bc2c24e17e435c05df50a08c06b61b9b",
@@ -53,25 +71,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“Credit card issuer Synchrony announces partnership with OpenAI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 163
-    },
-    {
-      "id": "39e6db6813d793b9fe35cd5fc1006e6e",
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "source": "TechCrunch · Artificial Intelligence",
-      "question": "围绕“As AI safety concerns mount, three pioneers make the case for staying open”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 162
-    },
-    {
-      "id": "83246287bd9c330240c0ea8cf8ddbcd5",
-      "title": "Lanarkshire AI Growth Zone secures £300 million investment as Dell establishes Scottish base",
-      "url": "https://www.gov.uk/government/news/lanarkshire-ai-growth-zone-secures-300-million-investment-as-dell-establishes-scottish-base",
-      "source": "UK Government · AI Regulation Updates",
-      "question": "围绕“Lanarkshire AI Growth Zone secures £300 million investment as Dell establishes Scottish base”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 157
+      "hotnessScore": 115
     },
     {
       "id": "b86dda4c73f1473981cd85f1fe517261",
@@ -80,25 +80,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“What Flock’s defenders are missing”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 154
-    },
-    {
-      "id": "3a9052a67d72ae6d41d1191f958c497f",
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "url": "https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“OpenAI and Anthropic in price war as Chinese AI rivals gain ground”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
-    },
-    {
-      "id": "357c02e56dcdd41cc5a77097f88adbd3",
-      "title": "AI has opened up big holes in cyber security",
-      "url": "https://www.ft.com/content/c78f18d3-fd4f-47ee-b34b-e5bdaa2fb9c6?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“AI has opened up big holes in cyber security”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
+      "hotnessScore": 106
     },
     {
       "id": "7c8d27739d6d84eaf4cfa1086bdd8aa8",
@@ -106,15 +88,6 @@
       "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
       "source": "CNBC · Technology",
       "question": "围绕“Goldman’s latest cash cow is all about funding the AI infrastructure boom”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 58
-    },
-    {
-      "id": "f7a95be5fdd3da07728c8060aee034bf",
-      "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
-      "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“AI computing power is becoming a tradable asset class as CME launches futures contracts”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 58
     }
