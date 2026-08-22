@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-08-21T02:22:54.522Z",
+  "generatedAt": "2026-08-22T02:15:18.530Z",
   "items": [
     {
-      "id": "9271b12ae03faaa69aa8144b5753bd08",
-      "title": "Berkeley Law prohibits AI use in classes (by default)",
-      "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Berkeley Law prohibits AI use in classes (by default)”需要重点关注哪些问题？",
+      "id": "3e130c8ce98b4efa1bbf8e05d6b814ee",
+      "title": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures",
+      "url": "https://www.amazon.science/blog/sop-bench-a-new-benchmark-for-evaluating-ai-agents-on-real-business-procedures",
+      "source": "Amazon Science",
+      "question": "围绕“SOP-Bench: A new benchmark for evaluating AI agents on real business procedures”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 472
+      "hotnessScore": 205
+    },
+    {
+      "id": "9f52235297e64f3240634b169a0fc657",
+      "title": "When AI designs a drug, who gets the credit?",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "source": "MIT Technology Review",
+      "question": "围绕“When AI designs a drug, who gets the credit?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 181
     },
     {
       "id": "7fb3e1cc570d4ab6f06be03b5b649642",
@@ -17,7 +26,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“Debates over AI consciousness are a trap”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 195
+      "hotnessScore": 147
     },
     {
       "id": "43cd4b1247245cb75096b0b2cb338904",
@@ -26,7 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Google strikes $12bn AI chip deal with Marvell”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 151
+      "hotnessScore": 104
     },
     {
       "id": "5cb44155e4ba5ef3bff1d83d6ca2911d",
@@ -35,7 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Stripe to buy start-up OpenRouter in $8bn deal”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 149
+      "hotnessScore": 102
     },
     {
       "id": "4a3807877402a8e1bc0bf47cc7bff4aa",
@@ -44,25 +53,7 @@
       "source": "Apple Machine Learning Research",
       "question": "围绕“The P-Completeness of Inverted Index Traversal: On the Complexity of Evaluating Boolean Query DAGs”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 135
-    },
-    {
-      "id": "ab0d5ecaac912765a9a238d309f15cce",
-      "title": "The Download: how people really use AI, and Flock’s design choices",
-      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-      "source": "MIT Technology Review",
-      "question": "围绕“The Download: how people really use AI, and Flock’s design choices”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 92
-    },
-    {
-      "id": "ec485fe2c582756e2055f71ed4c75cf3",
-      "title": "We still don’t know how people are really using AI",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "source": "MIT Technology Review",
-      "question": "围绕“We still don’t know how people are really using AI”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 87
     },
     {
       "id": "bc2c24e17e435c05df50a08c06b61b9b",
@@ -71,16 +62,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“Credit card issuer Synchrony announces partnership with OpenAI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 67
-    },
-    {
-      "id": "7c8d27739d6d84eaf4cfa1086bdd8aa8",
-      "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
-      "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Goldman’s latest cash cow is all about funding the AI infrastructure boom”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 58
+      "hotnessScore": 66
     }
   ]
 }
