@@ -1,14 +1,86 @@
 {
-  "generatedAt": "2026-08-24T02:22:09.201Z",
+  "generatedAt": "2026-08-25T02:17:49.264Z",
   "items": [
     {
-      "id": "3e130c8ce98b4efa1bbf8e05d6b814ee",
-      "title": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures",
-      "url": "https://www.amazon.science/blog/sop-bench-a-new-benchmark-for-evaluating-ai-agents-on-real-business-procedures",
-      "source": "Amazon Science",
-      "question": "围绕“SOP-Bench: A new benchmark for evaluating AI agents on real business procedures”需要重点关注哪些问题？",
+      "id": "adb1f90d6989aa93f2ce94cac0fd9311",
+      "title": "Barnsley residents to get practical AI training to help them find work and build future careers",
+      "url": "https://www.gov.uk/government/news/barnsley-residents-to-get-practical-ai-training-to-help-them-find-work-and-build-future-careers",
+      "source": "UK Government · AI Regulation Updates",
+      "question": "围绕“Barnsley residents to get practical AI training to help them find work and build future careers”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 109
+      "hotnessScore": 209
+    },
+    {
+      "id": "b966d118d0f8f8c204585bbf0d285da7",
+      "title": "SEC subpoenas Wall Street banks over Situational Awareness",
+      "url": "https://www.ft.com/content/c36d4e57-1ea2-47a5-8f6d-f390369aedc4?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“SEC subpoenas Wall Street banks over Situational Awareness”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 205
+    },
+    {
+      "id": "494fad4e20d9731abdd7561e284763db",
+      "title": "New partnership set to see the UK and Ukraine develop battle winning technology as Britain secures access to Ukraine's Avengers AI Labs",
+      "url": "https://www.gov.uk/government/news/new-partnership-set-to-see-the-uk-and-ukraine-develop-battle-winning-technology-as-britain-secures-access-to-ukraines-avengers-ai-labs",
+      "source": "UK Government · AI Regulation Updates",
+      "question": "围绕“New partnership set to see the UK and Ukraine develop battle winning technology as Britain secures access to Ukraine's Avengers AI Labs”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 201
+    },
+    {
+      "id": "beb4cea063cf710367a5767a20401f78",
+      "title": "Joint Declaration of Intent between the United Kingdom of Great Britain and Northern Ireland and Ukraine on a UK-Ukraine Artificial Intelligence Partnership",
+      "url": "https://www.gov.uk/government/news/joint-declaration-of-intent-between-the-united-kingdom-of-great-britain-and-northern-ireland-and-ukraine-on-a-uk-ukraine-artificial-intelligence-partn",
+      "source": "UK Government · AI Regulation Updates",
+      "question": "围绕“Joint Declaration of Intent between the United Kingdom of Great Britain and Northern Ireland and Ukraine on a UK-Ukraine Artificial Intelligence Partnership”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 194
+    },
+    {
+      "id": "a6b231b244650b4df6a33376d23724f8",
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source": "MIT Technology Review",
+      "question": "围绕“How to encourage smarter AI use in the classroom”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 192
+    },
+    {
+      "id": "b74af213ce63cb8d710ab3f41187e080",
+      "title": "Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning",
+      "url": "https://machinelearning.apple.com/research/internalized-visual-thinking",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 191
+    },
+    {
+      "id": "8054396f47df1795d0099a4eb9bc555e",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Kids outlearn AI—and we still don’t know why”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 181
+    },
+    {
+      "id": "35dcfc880fc12854a2f92378677f40d7",
+      "title": "US widens AI-driven investment gap with Europe",
+      "url": "https://www.ft.com/content/77b94c4a-4b4b-4983-9138-7db6926150f4?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“US widens AI-driven investment gap with Europe”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 167
+    },
+    {
+      "id": "4c338a0bb1c3ed7f553c8cfdbc59bcac",
+      "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+      "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Alibaba plunges after announcing $10.2 billion share placement to fund AI push”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 166
     },
     {
       "id": "4a3807877402a8e1bc0bf47cc7bff4aa",
@@ -20,13 +92,13 @@
       "hotnessScore": 92
     },
     {
-      "id": "9f52235297e64f3240634b169a0fc657",
-      "title": "When AI designs a drug, who gets the credit?",
-      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "source": "MIT Technology Review",
-      "question": "围绕“When AI designs a drug, who gets the credit?”需要重点关注哪些问题？",
+      "id": "3e130c8ce98b4efa1bbf8e05d6b814ee",
+      "title": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures",
+      "url": "https://www.amazon.science/blog/sop-bench-a-new-benchmark-for-evaluating-ai-agents-on-real-business-procedures",
+      "source": "Amazon Science",
+      "question": "围绕“SOP-Bench: A new benchmark for evaluating AI agents on real business procedures”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 85
+      "hotnessScore": 82
     },
     {
       "id": "43cd4b1247245cb75096b0b2cb338904",
@@ -36,6 +108,15 @@
       "question": "围绕“Google strikes $12bn AI chip deal with Marvell”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 76
+    },
+    {
+      "id": "9f52235297e64f3240634b169a0fc657",
+      "title": "When AI designs a drug, who gets the credit?",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "source": "MIT Technology Review",
+      "question": "围绕“When AI designs a drug, who gets the credit?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 72
     },
     {
       "id": "7fb3e1cc570d4ab6f06be03b5b649642",
