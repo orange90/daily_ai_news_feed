@@ -1,14 +1,122 @@
 {
-  "generatedAt": "2026-08-26T02:24:10.791Z",
+  "generatedAt": "2026-08-27T10:55:40.847Z",
   "items": [
     {
-      "id": "fd27fd3c60cf1568bbe6d17ebd84e88c",
-      "title": "AI Realist Radar:GPT‑5.6 Sol Pricing, Stripe's OpenRouter Deal",
-      "url": "https://msukhareva.substack.com/p/ai-realist-radar-gpt56-sol-pricing",
+      "id": "c3e31e6c4d1eff329b2e6bc92156cc7b",
+      "title": "Fixing Status Updates – Our Manifesto",
+      "url": "https://news.ycombinator.com/item?id=49462264",
       "source": "Hacker News · AI",
-      "question": "围绕“AI Realist Radar:GPT‑5.6 Sol Pricing, Stripe's OpenRouter Deal”需要重点关注哪些问题？",
+      "question": "围绕“Fixing Status Updates – Our Manifesto”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 451
+      "hotnessScore": 449
+    },
+    {
+      "id": "8b3a17e8a487fffd994bd0b97e4422ec",
+      "title": "PaaS IaaS GaaS all in one. And 2 AI <compound> models",
+      "url": "https://news.ycombinator.com/item?id=49458001",
+      "source": "Hacker News · AI",
+      "question": "围绕“PaaS IaaS GaaS all in one. And 2 AI <compound> models”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 442
+    },
+    {
+      "id": "9d35ccc8ee3f59147ec81a9637d798fa",
+      "title": "Show HN: Text editor that does it all",
+      "url": "https://kraa.io/about?s=hn",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Text editor that does it all”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 441
+    },
+    {
+      "id": "d979f5b5d65a3ac0bd5f8d61c2f4d0b6",
+      "title": "Show HN: ABBS – Public Agent Bulletin Board System",
+      "url": "https://abbs.dev/",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: ABBS – Public Agent Bulletin Board System”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 437
+    },
+    {
+      "id": "47cdbcfb23e57f643c1603574d84fef5",
+      "title": "Nvidia forecasts 70% sales growth fuelled by relentless AI boom",
+      "url": "https://www.ft.com/content/72908915-5e4a-457c-8c3a-aee8917a664a?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Nvidia forecasts 70% sales growth fuelled by relentless AI boom”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 210
+    },
+    {
+      "id": "6cb2a43ca9e8532d80bbdbd051a979a2",
+      "title": "Are economists making themselves too useful in the AI boom?",
+      "url": "https://www.ft.com/content/84718e2b-13c9-4469-a1d6-52556c7f637f?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Are economists making themselves too useful in the AI boom?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 198
+    },
+    {
+      "id": "f8985c76fb854a6da5fd6635c023e1f0",
+      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
+      "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Z.ai shares surge 8% after releasing new AI model running only on Chinese chips”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 195
+    },
+    {
+      "id": "32a085dd640c899f40814f732ddfed0e",
+      "title": "Anthropic agrees $45bn AI data centre deal with UK start-up Nscale",
+      "url": "https://www.ft.com/content/0ec76ba3-5f7f-4085-88fb-acf21954bc85?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic agrees $45bn AI data centre deal with UK start-up Nscale”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 186
+    },
+    {
+      "id": "d24b5541b224af0b199b3c0e140a91ba",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The inside story on why OpenAI agents hacked Hugging Face”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 184
+    },
+    {
+      "id": "4ea60af42086350911dacd158497b4d3",
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The Download: the Kids issue arrives, and Bill Gates reveals his AI fears”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 178
+    },
+    {
+      "id": "8e7467bb9f34bd6a4b02592bb556ed78",
+      "title": "Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI",
+      "url": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 160
+    },
+    {
+      "id": "dfe5c45d9496c87659cd41aa69f1f570",
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Bill Gates says we’ve passed AI’s danger thresholds. Now what?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 160
+    },
+    {
+      "id": "626301dd7de7c80724019362d9d94368",
+      "title": "Raised on AI",
+      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Raised on AI”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 160
     },
     {
       "id": "32b13d59621fc0ec3f29a3a383fe1a1f",
@@ -17,16 +125,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“AI to fuel global growth as investment spreads beyond US, IMF says”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 195
-    },
-    {
-      "id": "b966d118d0f8f8c204585bbf0d285da7",
-      "title": "SEC subpoenas Wall Street banks over Situational Awareness",
-      "url": "https://www.ft.com/content/c36d4e57-1ea2-47a5-8f6d-f390369aedc4?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“SEC subpoenas Wall Street banks over Situational Awareness”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 157
+      "hotnessScore": 130
     },
     {
       "id": "b74af213ce63cb8d710ab3f41187e080",
@@ -35,25 +134,16 @@
       "source": "Apple Machine Learning Research",
       "question": "围绕“Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 143
+      "hotnessScore": 100
     },
     {
-      "id": "35dcfc880fc12854a2f92378677f40d7",
-      "title": "US widens AI-driven investment gap with Europe",
-      "url": "https://www.ft.com/content/77b94c4a-4b4b-4983-9138-7db6926150f4?syn-25a6b1a6=1",
+      "id": "b966d118d0f8f8c204585bbf0d285da7",
+      "title": "SEC subpoenas Wall Street banks over Situational Awareness",
+      "url": "https://www.ft.com/content/c36d4e57-1ea2-47a5-8f6d-f390369aedc4?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“US widens AI-driven investment gap with Europe”需要重点关注哪些问题？",
+      "question": "围绕“SEC subpoenas Wall Street banks over Situational Awareness”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 119
-    },
-    {
-      "id": "4c338a0bb1c3ed7f553c8cfdbc59bcac",
-      "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
-      "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Alibaba plunges after announcing $10.2 billion share placement to fund AI push”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 118
+      "hotnessScore": 92
     },
     {
       "id": "3e130c8ce98b4efa1bbf8e05d6b814ee",
@@ -65,22 +155,22 @@
       "hotnessScore": 82
     },
     {
-      "id": "43cd4b1247245cb75096b0b2cb338904",
-      "title": "Google strikes $12bn AI chip deal with Marvell",
-      "url": "https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63?syn-25a6b1a6=1",
+      "id": "35dcfc880fc12854a2f92378677f40d7",
+      "title": "US widens AI-driven investment gap with Europe",
+      "url": "https://www.ft.com/content/77b94c4a-4b4b-4983-9138-7db6926150f4?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Google strikes $12bn AI chip deal with Marvell”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 76
-    },
-    {
-      "id": "5cb44155e4ba5ef3bff1d83d6ca2911d",
-      "title": "Stripe to buy start-up OpenRouter in $8bn deal",
-      "url": "https://www.ft.com/content/6e83ce44-1bff-4a07-86ad-5355c0d240ff?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Stripe to buy start-up OpenRouter in $8bn deal”需要重点关注哪些问题？",
+      "question": "围绕“US widens AI-driven investment gap with Europe”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
+    },
+    {
+      "id": "4c338a0bb1c3ed7f553c8cfdbc59bcac",
+      "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+      "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Alibaba plunges after announcing $10.2 billion share placement to fund AI push”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 58
     }
   ]
 }
