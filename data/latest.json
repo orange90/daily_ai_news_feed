@@ -1,41 +1,77 @@
 {
-  "generatedAt": "2026-08-27T10:55:40.847Z",
+  "generatedAt": "2026-08-28T12:31:14.173Z",
   "items": [
     {
-      "id": "c3e31e6c4d1eff329b2e6bc92156cc7b",
-      "title": "Fixing Status Updates – Our Manifesto",
-      "url": "https://news.ycombinator.com/item?id=49462264",
+      "id": "488f8f0ed51bf684bbb53bbb76150deb",
+      "title": "Tell HN: AniTroves Update",
+      "url": "https://news.ycombinator.com/item?id=49475734",
       "source": "Hacker News · AI",
-      "question": "围绕“Fixing Status Updates – Our Manifesto”需要重点关注哪些问题？",
+      "question": "围绕“Tell HN: AniTroves Update”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 454
+    },
+    {
+      "id": "a623165e277b4e2d0caa9d17399ae2c7",
+      "title": "IFA 2026 Preview: On-device AI PCs, DJI robotics, and Xiaomi's European debut",
+      "url": "https://forgeeks.net/ifa-2026-local-ai-robots-devices/",
+      "source": "Hacker News · AI",
+      "question": "围绕“IFA 2026 Preview: On-device AI PCs, DJI robotics, and Xiaomi's European debut”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 452
+    },
+    {
+      "id": "38f0fdf76342e6b8926e5210c472549f",
+      "title": "Agnes AI Releases Agnes 2.5 Pro Beta",
+      "url": "https://artificialanalysis.ai/articles/agnes-ai-releases-agnes-2-5-pro-beta",
+      "source": "Hacker News · AI",
+      "question": "围绕“Agnes AI Releases Agnes 2.5 Pro Beta”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 451
+    },
+    {
+      "id": "e6f1cb67f7191fd817582f1567041120",
+      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+      "source": "Hacker News · AI",
+      "question": "围绕“Anthropic's new hardware standard lets AI agents control the physical world”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 451
+    },
+    {
+      "id": "901300d4ad0e730bbd7bf02cf7546584",
+      "title": "Bill Gates is looking to meet Chinese President this year to discuss AI risks",
+      "url": "https://twitterwebviewer.com/de?tweet=2092518660153696750",
+      "source": "Hacker News · AI",
+      "question": "围绕“Bill Gates is looking to meet Chinese President this year to discuss AI risks”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 449
     },
     {
-      "id": "8b3a17e8a487fffd994bd0b97e4422ec",
-      "title": "PaaS IaaS GaaS all in one. And 2 AI <compound> models",
-      "url": "https://news.ycombinator.com/item?id=49458001",
+      "id": "aa491b4b8d55b95d536ad036fd8e157c",
+      "title": "AI-Powered Tilichu VST/AU Synth Released by Butterlamp Audio",
+      "url": "https://rekkerd.org/butterlamp-audio-releases-tilichu-wavetable-synthesizer-vst3-au/",
       "source": "Hacker News · AI",
-      "question": "围绕“PaaS IaaS GaaS all in one. And 2 AI <compound> models”需要重点关注哪些问题？",
+      "question": "围绕“AI-Powered Tilichu VST/AU Synth Released by Butterlamp Audio”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 442
+      "hotnessScore": 438
     },
     {
-      "id": "9d35ccc8ee3f59147ec81a9637d798fa",
-      "title": "Show HN: Text editor that does it all",
-      "url": "https://kraa.io/about?s=hn",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Text editor that does it all”需要重点关注哪些问题？",
+      "id": "a19ff926fee3db6d91e8b60cfad83299",
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "source": "VentureBeat · AI",
+      "question": "围绕“When agents act on their own, governance has to live in the data layer”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 441
+      "hotnessScore": 227
     },
     {
-      "id": "d979f5b5d65a3ac0bd5f8d61c2f4d0b6",
-      "title": "Show HN: ABBS – Public Agent Bulletin Board System",
-      "url": "https://abbs.dev/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: ABBS – Public Agent Bulletin Board System”需要重点关注哪些问题？",
+      "id": "fb961b32ca9cac57abc3dfbc1af8b3eb",
+      "title": "Apple escaped Android's 'toxic hellstew' - now Siri AI is creating a new one",
+      "url": "https://www.zdnet.com/article/apple-escaped-android-toxic-hellstew-siri-ai-creates-a-new-one/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Apple escaped Android's 'toxic hellstew' - now Siri AI is creating a new one”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 437
+      "hotnessScore": 216
     },
     {
       "id": "47cdbcfb23e57f643c1603574d84fef5",
@@ -44,7 +80,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Nvidia forecasts 70% sales growth fuelled by relentless AI boom”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 210
+      "hotnessScore": 159
     },
     {
       "id": "6cb2a43ca9e8532d80bbdbd051a979a2",
@@ -53,7 +89,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Are economists making themselves too useful in the AI boom?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 198
+      "hotnessScore": 147
     },
     {
       "id": "f8985c76fb854a6da5fd6635c023e1f0",
@@ -62,7 +98,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“Z.ai shares surge 8% after releasing new AI model running only on Chinese chips”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 195
+      "hotnessScore": 144
     },
     {
       "id": "32a085dd640c899f40814f732ddfed0e",
@@ -71,7 +107,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic agrees $45bn AI data centre deal with UK start-up Nscale”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 186
+      "hotnessScore": 135
     },
     {
       "id": "d24b5541b224af0b199b3c0e140a91ba",
@@ -80,7 +116,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“The inside story on why OpenAI agents hacked Hugging Face”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 184
+      "hotnessScore": 133
     },
     {
       "id": "4ea60af42086350911dacd158497b4d3",
@@ -89,7 +125,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“The Download: the Kids issue arrives, and Bill Gates reveals his AI fears”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 178
+      "hotnessScore": 127
     },
     {
       "id": "8e7467bb9f34bd6a4b02592bb556ed78",
@@ -98,7 +134,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 160
+      "hotnessScore": 109
     },
     {
       "id": "dfe5c45d9496c87659cd41aa69f1f570",
@@ -107,7 +143,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“Bill Gates says we’ve passed AI’s danger thresholds. Now what?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 160
+      "hotnessScore": 109
     },
     {
       "id": "626301dd7de7c80724019362d9d94368",
@@ -116,16 +152,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“Raised on AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 160
-    },
-    {
-      "id": "32b13d59621fc0ec3f29a3a383fe1a1f",
-      "title": "AI to fuel global growth as investment spreads beyond US, IMF says",
-      "url": "https://www.ft.com/content/6a76e78b-c493-409a-8694-6fa4ba9a674e?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“AI to fuel global growth as investment spreads beyond US, IMF says”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 130
+      "hotnessScore": 109
     },
     {
       "id": "b74af213ce63cb8d710ab3f41187e080",
@@ -137,15 +164,6 @@
       "hotnessScore": 100
     },
     {
-      "id": "b966d118d0f8f8c204585bbf0d285da7",
-      "title": "SEC subpoenas Wall Street banks over Situational Awareness",
-      "url": "https://www.ft.com/content/c36d4e57-1ea2-47a5-8f6d-f390369aedc4?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“SEC subpoenas Wall Street banks over Situational Awareness”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 92
-    },
-    {
       "id": "3e130c8ce98b4efa1bbf8e05d6b814ee",
       "title": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures",
       "url": "https://www.amazon.science/blog/sop-bench-a-new-benchmark-for-evaluating-ai-agents-on-real-business-procedures",
@@ -153,6 +171,24 @@
       "question": "围绕“SOP-Bench: A new benchmark for evaluating AI agents on real business procedures”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 82
+    },
+    {
+      "id": "32b13d59621fc0ec3f29a3a383fe1a1f",
+      "title": "AI to fuel global growth as investment spreads beyond US, IMF says",
+      "url": "https://www.ft.com/content/6a76e78b-c493-409a-8694-6fa4ba9a674e?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“AI to fuel global growth as investment spreads beyond US, IMF says”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 79
+    },
+    {
+      "id": "b966d118d0f8f8c204585bbf0d285da7",
+      "title": "SEC subpoenas Wall Street banks over Situational Awareness",
+      "url": "https://www.ft.com/content/c36d4e57-1ea2-47a5-8f6d-f390369aedc4?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“SEC subpoenas Wall Street banks over Situational Awareness”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 68
     },
     {
       "id": "35dcfc880fc12854a2f92378677f40d7",
