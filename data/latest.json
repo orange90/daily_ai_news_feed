@@ -1,60 +1,6 @@
 {
-  "generatedAt": "2026-08-28T12:31:14.173Z",
+  "generatedAt": "2026-08-29T07:41:02.477Z",
   "items": [
-    {
-      "id": "488f8f0ed51bf684bbb53bbb76150deb",
-      "title": "Tell HN: AniTroves Update",
-      "url": "https://news.ycombinator.com/item?id=49475734",
-      "source": "Hacker News · AI",
-      "question": "围绕“Tell HN: AniTroves Update”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 454
-    },
-    {
-      "id": "a623165e277b4e2d0caa9d17399ae2c7",
-      "title": "IFA 2026 Preview: On-device AI PCs, DJI robotics, and Xiaomi's European debut",
-      "url": "https://forgeeks.net/ifa-2026-local-ai-robots-devices/",
-      "source": "Hacker News · AI",
-      "question": "围绕“IFA 2026 Preview: On-device AI PCs, DJI robotics, and Xiaomi's European debut”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 452
-    },
-    {
-      "id": "38f0fdf76342e6b8926e5210c472549f",
-      "title": "Agnes AI Releases Agnes 2.5 Pro Beta",
-      "url": "https://artificialanalysis.ai/articles/agnes-ai-releases-agnes-2-5-pro-beta",
-      "source": "Hacker News · AI",
-      "question": "围绕“Agnes AI Releases Agnes 2.5 Pro Beta”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 451
-    },
-    {
-      "id": "e6f1cb67f7191fd817582f1567041120",
-      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Anthropic's new hardware standard lets AI agents control the physical world”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 451
-    },
-    {
-      "id": "901300d4ad0e730bbd7bf02cf7546584",
-      "title": "Bill Gates is looking to meet Chinese President this year to discuss AI risks",
-      "url": "https://twitterwebviewer.com/de?tweet=2092518660153696750",
-      "source": "Hacker News · AI",
-      "question": "围绕“Bill Gates is looking to meet Chinese President this year to discuss AI risks”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 449
-    },
-    {
-      "id": "aa491b4b8d55b95d536ad036fd8e157c",
-      "title": "AI-Powered Tilichu VST/AU Synth Released by Butterlamp Audio",
-      "url": "https://rekkerd.org/butterlamp-audio-releases-tilichu-wavetable-synthesizer-vst3-au/",
-      "source": "Hacker News · AI",
-      "question": "围绕“AI-Powered Tilichu VST/AU Synth Released by Butterlamp Audio”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 438
-    },
     {
       "id": "a19ff926fee3db6d91e8b60cfad83299",
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -62,7 +8,16 @@
       "source": "VentureBeat · AI",
       "question": "围绕“When agents act on their own, governance has to live in the data layer”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 227
+      "hotnessScore": 189
+    },
+    {
+      "id": "593e4123de9f28e56cc18893b3d6ebcb",
+      "title": "LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs’ Probabilistic Beliefs",
+      "url": "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs’ Probabilistic Beliefs”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 185
     },
     {
       "id": "fb961b32ca9cac57abc3dfbc1af8b3eb",
@@ -71,7 +26,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Apple escaped Android's 'toxic hellstew' - now Siri AI is creating a new one”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 216
+      "hotnessScore": 178
     },
     {
       "id": "47cdbcfb23e57f643c1603574d84fef5",
@@ -80,7 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Nvidia forecasts 70% sales growth fuelled by relentless AI boom”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 159
+      "hotnessScore": 120
     },
     {
       "id": "6cb2a43ca9e8532d80bbdbd051a979a2",
@@ -89,7 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Are economists making themselves too useful in the AI boom?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 147
+      "hotnessScore": 109
     },
     {
       "id": "f8985c76fb854a6da5fd6635c023e1f0",
@@ -98,61 +53,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“Z.ai shares surge 8% after releasing new AI model running only on Chinese chips”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 144
-    },
-    {
-      "id": "32a085dd640c899f40814f732ddfed0e",
-      "title": "Anthropic agrees $45bn AI data centre deal with UK start-up Nscale",
-      "url": "https://www.ft.com/content/0ec76ba3-5f7f-4085-88fb-acf21954bc85?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Anthropic agrees $45bn AI data centre deal with UK start-up Nscale”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 135
-    },
-    {
-      "id": "d24b5541b224af0b199b3c0e140a91ba",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "source": "MIT Technology Review",
-      "question": "围绕“The inside story on why OpenAI agents hacked Hugging Face”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 133
-    },
-    {
-      "id": "4ea60af42086350911dacd158497b4d3",
-      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-      "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-      "source": "MIT Technology Review",
-      "question": "围绕“The Download: the Kids issue arrives, and Bill Gates reveals his AI fears”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 127
-    },
-    {
-      "id": "8e7467bb9f34bd6a4b02592bb556ed78",
-      "title": "Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI",
-      "url": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 109
-    },
-    {
-      "id": "dfe5c45d9496c87659cd41aa69f1f570",
-      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Bill Gates says we’ve passed AI’s danger thresholds. Now what?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 109
-    },
-    {
-      "id": "626301dd7de7c80724019362d9d94368",
-      "title": "Raised on AI",
-      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Raised on AI”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 109
+      "hotnessScore": 106
     },
     {
       "id": "b74af213ce63cb8d710ab3f41187e080",
@@ -164,13 +65,58 @@
       "hotnessScore": 100
     },
     {
-      "id": "3e130c8ce98b4efa1bbf8e05d6b814ee",
-      "title": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures",
-      "url": "https://www.amazon.science/blog/sop-bench-a-new-benchmark-for-evaluating-ai-agents-on-real-business-procedures",
-      "source": "Amazon Science",
-      "question": "围绕“SOP-Bench: A new benchmark for evaluating AI agents on real business procedures”需要重点关注哪些问题？",
+      "id": "32a085dd640c899f40814f732ddfed0e",
+      "title": "Anthropic agrees $45bn AI data centre deal with UK start-up Nscale",
+      "url": "https://www.ft.com/content/0ec76ba3-5f7f-4085-88fb-acf21954bc85?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic agrees $45bn AI data centre deal with UK start-up Nscale”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 82
+      "hotnessScore": 96
+    },
+    {
+      "id": "d24b5541b224af0b199b3c0e140a91ba",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The inside story on why OpenAI agents hacked Hugging Face”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 95
+    },
+    {
+      "id": "4ea60af42086350911dacd158497b4d3",
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The Download: the Kids issue arrives, and Bill Gates reveals his AI fears”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 89
+    },
+    {
+      "id": "8e7467bb9f34bd6a4b02592bb556ed78",
+      "title": "Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI",
+      "url": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 72
+    },
+    {
+      "id": "dfe5c45d9496c87659cd41aa69f1f570",
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Bill Gates says we’ve passed AI’s danger thresholds. Now what?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 72
+    },
+    {
+      "id": "626301dd7de7c80724019362d9d94368",
+      "title": "Raised on AI",
+      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Raised on AI”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 71
     },
     {
       "id": "32b13d59621fc0ec3f29a3a383fe1a1f",
@@ -179,7 +125,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“AI to fuel global growth as investment spreads beyond US, IMF says”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 79
+      "hotnessScore": 68
     },
     {
       "id": "b966d118d0f8f8c204585bbf0d285da7",
@@ -187,15 +133,6 @@
       "url": "https://www.ft.com/content/c36d4e57-1ea2-47a5-8f6d-f390369aedc4?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“SEC subpoenas Wall Street banks over Situational Awareness”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
-      "id": "35dcfc880fc12854a2f92378677f40d7",
-      "title": "US widens AI-driven investment gap with Europe",
-      "url": "https://www.ft.com/content/77b94c4a-4b4b-4983-9138-7db6926150f4?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“US widens AI-driven investment gap with Europe”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
     },
