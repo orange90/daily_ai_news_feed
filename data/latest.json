@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-29T07:41:02.477Z",
+  "generatedAt": "2026-08-30T06:15:22.725Z",
   "items": [
+    {
+      "id": "4d6ff76ab4a7cad87d570bf91db98182",
+      "title": "Ask HN: Hard Mode for LLMs",
+      "url": "https://news.ycombinator.com/item?id=49495324",
+      "source": "Hacker News · AI",
+      "question": "围绕“Ask HN: Hard Mode for LLMs”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 452
+    },
+    {
+      "id": "4851c79f184f9b9116543f6776c00971",
+      "title": "I ran out of AI tokens in one app while holding unused tokens in another",
+      "url": "https://news.ycombinator.com/item?id=49495398",
+      "source": "Hacker News · AI",
+      "question": "围绕“I ran out of AI tokens in one app while holding unused tokens in another”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 445
+    },
     {
       "id": "a19ff926fee3db6d91e8b60cfad83299",
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -8,7 +26,7 @@
       "source": "VentureBeat · AI",
       "question": "围绕“When agents act on their own, governance has to live in the data layer”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 189
+      "hotnessScore": 144
     },
     {
       "id": "593e4123de9f28e56cc18893b3d6ebcb",
@@ -17,7 +35,7 @@
       "source": "Apple Machine Learning Research",
       "question": "围绕“LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs’ Probabilistic Beliefs”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 185
+      "hotnessScore": 139
     },
     {
       "id": "fb961b32ca9cac57abc3dfbc1af8b3eb",
@@ -26,34 +44,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Apple escaped Android's 'toxic hellstew' - now Siri AI is creating a new one”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 178
-    },
-    {
-      "id": "47cdbcfb23e57f643c1603574d84fef5",
-      "title": "Nvidia forecasts 70% sales growth fuelled by relentless AI boom",
-      "url": "https://www.ft.com/content/72908915-5e4a-457c-8c3a-aee8917a664a?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Nvidia forecasts 70% sales growth fuelled by relentless AI boom”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 120
-    },
-    {
-      "id": "6cb2a43ca9e8532d80bbdbd051a979a2",
-      "title": "Are economists making themselves too useful in the AI boom?",
-      "url": "https://www.ft.com/content/84718e2b-13c9-4469-a1d6-52556c7f637f?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Are economists making themselves too useful in the AI boom?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 109
-    },
-    {
-      "id": "f8985c76fb854a6da5fd6635c023e1f0",
-      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
-      "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Z.ai shares surge 8% after releasing new AI model running only on Chinese chips”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 106
+      "hotnessScore": 133
     },
     {
       "id": "b74af213ce63cb8d710ab3f41187e080",
@@ -65,31 +56,22 @@
       "hotnessScore": 100
     },
     {
-      "id": "32a085dd640c899f40814f732ddfed0e",
-      "title": "Anthropic agrees $45bn AI data centre deal with UK start-up Nscale",
-      "url": "https://www.ft.com/content/0ec76ba3-5f7f-4085-88fb-acf21954bc85?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Anthropic agrees $45bn AI data centre deal with UK start-up Nscale”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 96
-    },
-    {
-      "id": "d24b5541b224af0b199b3c0e140a91ba",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "source": "MIT Technology Review",
-      "question": "围绕“The inside story on why OpenAI agents hacked Hugging Face”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 95
-    },
-    {
       "id": "4ea60af42086350911dacd158497b4d3",
       "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
       "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
       "source": "MIT Technology Review",
       "question": "围绕“The Download: the Kids issue arrives, and Bill Gates reveals his AI fears”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 89
+      "hotnessScore": 80
+    },
+    {
+      "id": "47cdbcfb23e57f643c1603574d84fef5",
+      "title": "Nvidia forecasts 70% sales growth fuelled by relentless AI boom",
+      "url": "https://www.ft.com/content/72908915-5e4a-457c-8c3a-aee8917a664a?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Nvidia forecasts 70% sales growth fuelled by relentless AI boom”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 75
     },
     {
       "id": "8e7467bb9f34bd6a4b02592bb556ed78",
@@ -97,6 +79,15 @@
       "url": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 72
+    },
+    {
+      "id": "d24b5541b224af0b199b3c0e140a91ba",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The inside story on why OpenAI agents hacked Hugging Face”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 72
     },
@@ -110,13 +101,22 @@
       "hotnessScore": 72
     },
     {
-      "id": "626301dd7de7c80724019362d9d94368",
-      "title": "Raised on AI",
-      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Raised on AI”需要重点关注哪些问题？",
+      "id": "6cb2a43ca9e8532d80bbdbd051a979a2",
+      "title": "Are economists making themselves too useful in the AI boom?",
+      "url": "https://www.ft.com/content/84718e2b-13c9-4469-a1d6-52556c7f637f?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Are economists making themselves too useful in the AI boom?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 71
+      "hotnessScore": 68
+    },
+    {
+      "id": "32a085dd640c899f40814f732ddfed0e",
+      "title": "Anthropic agrees $45bn AI data centre deal with UK start-up Nscale",
+      "url": "https://www.ft.com/content/0ec76ba3-5f7f-4085-88fb-acf21954bc85?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic agrees $45bn AI data centre deal with UK start-up Nscale”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 68
     },
     {
       "id": "32b13d59621fc0ec3f29a3a383fe1a1f",
@@ -135,6 +135,24 @@
       "question": "围绕“SEC subpoenas Wall Street banks over Situational Awareness”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
+    },
+    {
+      "id": "626301dd7de7c80724019362d9d94368",
+      "title": "Raised on AI",
+      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Raised on AI”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 68
+    },
+    {
+      "id": "f8985c76fb854a6da5fd6635c023e1f0",
+      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
+      "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Z.ai shares surge 8% after releasing new AI model running only on Chinese chips”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 62
     },
     {
       "id": "4c338a0bb1c3ed7f553c8cfdbc59bcac",
