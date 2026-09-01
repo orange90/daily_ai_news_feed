@@ -1,32 +1,23 @@
 {
-  "generatedAt": "2026-08-31T06:40:58.336Z",
+  "generatedAt": "2026-09-01T06:02:06.795Z",
   "items": [
     {
-      "id": "4a5c2575640f0d2014b84d4059b5eed0",
-      "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-      "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
-      "source": "Hacker News · AI",
-      "question": "围绕“The EU has begun enforcing the AI Act: first RFIs to model providers”需要重点关注哪些问题？",
+      "id": "f9547d2d7c519176a6aa7025acb220c4",
+      "title": "Wall Street banks push Big Law to cut fees because of AI",
+      "url": "https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Wall Street banks push Big Law to cut fees because of AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 561
+      "hotnessScore": 212
     },
     {
-      "id": "2f447e96b3cba11974644a0d0e2e2b19",
-      "title": "Vim Classic debuts with its first release as a Vim fork without AI assistance",
-      "url": "https://www.neowin.net/news/vim-classic-debuts-with-its-first-release-as-a-vim-fork-without-ai-assistance/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Vim Classic debuts with its first release as a Vim fork without AI assistance”需要重点关注哪些问题？",
+      "id": "de9265d66344fde6413baa264e059521",
+      "title": "Andrew Bailey warns G20 of danger AI poses to financial system",
+      "url": "https://www.ft.com/content/ed723a59-a889-40e0-b601-0c1f16c92f65?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Andrew Bailey warns G20 of danger AI poses to financial system”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 463
-    },
-    {
-      "id": "8ebe73ba5d5e9929ec00577f8efc1f01",
-      "title": "Show HN: What Apple's OS updates silently change in the on-device AI model",
-      "url": "https://umer9538.github.io/underfoot/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: What Apple's OS updates silently change in the on-device AI model”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 440
+      "hotnessScore": 168
     },
     {
       "id": "a19ff926fee3db6d91e8b60cfad83299",
@@ -36,15 +27,6 @@
       "question": "围绕“When agents act on their own, governance has to live in the data layer”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 132
-    },
-    {
-      "id": "fb961b32ca9cac57abc3dfbc1af8b3eb",
-      "title": "Apple escaped Android's 'toxic hellstew' - now Siri AI is creating a new one",
-      "url": "https://www.zdnet.com/article/apple-escaped-android-toxic-hellstew-siri-ai-creates-a-new-one/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Apple escaped Android's 'toxic hellstew' - now Siri AI is creating a new one”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 112
     },
     {
       "id": "593e4123de9f28e56cc18893b3d6ebcb",
@@ -65,29 +47,11 @@
       "hotnessScore": 80
     },
     {
-      "id": "8e7467bb9f34bd6a4b02592bb556ed78",
-      "title": "Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI",
-      "url": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
-    },
-    {
       "id": "d24b5541b224af0b199b3c0e140a91ba",
       "title": "The inside story on why OpenAI agents hacked Hugging Face",
       "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
       "source": "MIT Technology Review",
       "question": "围绕“The inside story on why OpenAI agents hacked Hugging Face”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
-    },
-    {
-      "id": "dfe5c45d9496c87659cd41aa69f1f570",
-      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Bill Gates says we’ve passed AI’s danger thresholds. Now what?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 72
     },
@@ -119,24 +83,6 @@
       "hotnessScore": 68
     },
     {
-      "id": "32b13d59621fc0ec3f29a3a383fe1a1f",
-      "title": "AI to fuel global growth as investment spreads beyond US, IMF says",
-      "url": "https://www.ft.com/content/6a76e78b-c493-409a-8694-6fa4ba9a674e?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“AI to fuel global growth as investment spreads beyond US, IMF says”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
-      "id": "b966d118d0f8f8c204585bbf0d285da7",
-      "title": "SEC subpoenas Wall Street banks over Situational Awareness",
-      "url": "https://www.ft.com/content/c36d4e57-1ea2-47a5-8f6d-f390369aedc4?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“SEC subpoenas Wall Street banks over Situational Awareness”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
       "id": "626301dd7de7c80724019362d9d94368",
       "title": "Raised on AI",
       "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
@@ -153,15 +99,6 @@
       "question": "围绕“Z.ai shares surge 8% after releasing new AI model running only on Chinese chips”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 62
-    },
-    {
-      "id": "4c338a0bb1c3ed7f553c8cfdbc59bcac",
-      "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
-      "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Alibaba plunges after announcing $10.2 billion share placement to fund AI push”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 58
     }
   ]
 }
