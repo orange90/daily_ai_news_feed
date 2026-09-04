@@ -1,23 +1,32 @@
 {
-  "generatedAt": "2026-09-03T05:29:36.426Z",
+  "generatedAt": "2026-09-04T05:35:44.324Z",
   "items": [
     {
-      "id": "a5cd7ac42fcd0c82e78e3f4144fd0039",
-      "title": "Frontier Act – Federal oversight of the development of frontier AI",
-      "url": "https://www.congress.gov/bill/119th-congress/house-bill/9925/text",
+      "id": "6f42460eeda907e02aa3d4ec72e62e36",
+      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+      "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
       "source": "Hacker News · AI",
-      "question": "围绕“Frontier Act – Federal oversight of the development of frontier AI”需要重点关注哪些问题？",
+      "question": "围绕“Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 467
+      "hotnessScore": 460
     },
     {
-      "id": "c728d2671388555a623d042c8c74cfeb",
-      "title": "Researchers fear safety disaster ahead of OpenAI's Astra release",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "source": "Hacker News · AI",
-      "question": "围绕“Researchers fear safety disaster ahead of OpenAI's Astra release”需要重点关注哪些问题？",
+      "id": "438643062ded2f68783d314ca886623d",
+      "title": "Is AI affecting what people choose to study?",
+      "url": "https://www.ft.com/content/9183a122-10b7-4707-a728-b61ab50da378?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Is AI affecting what people choose to study?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 456
+      "hotnessScore": 180
+    },
+    {
+      "id": "e7c224f28cc31b5b3ca3b44edc5c4996",
+      "title": "Nvidia to buy open-source AI platform Hugging Face for $13bn",
+      "url": "https://www.ft.com/content/776dcb01-75cd-44df-bc52-63ca76d5718d?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Nvidia to buy open-source AI platform Hugging Face for $13bn”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 177
     },
     {
       "id": "301681e51cc6527e6eae96b9dbe6fee5",
@@ -26,7 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Law firms seek bespoke differences in legal AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 212
+      "hotnessScore": 164
     },
     {
       "id": "9ad65eb29d5fedf5cf0b2416e9479767",
@@ -35,16 +44,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“Facilitating AI integration with simplicity at scale”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 181
-    },
-    {
-      "id": "1dbf1e71a88a1036ed8fb77c0e527d3b",
-      "title": "MHRA and Manchester NHS partner on health innovation sandbox",
-      "url": "https://www.gov.uk/government/news/mhra-and-manchester-nhs-partner-on-health-innovation-sandbox",
-      "source": "UK Government · AI Regulation Updates",
-      "question": "围绕“MHRA and Manchester NHS partner on health innovation sandbox”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 180
+      "hotnessScore": 133
     },
     {
       "id": "f56746c0e41c5f99f3dd15270794df0d",
@@ -53,16 +53,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“How AI plotted an interstellar journey to Alpha Centauri”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 155
-    },
-    {
-      "id": "a19ff926fee3db6d91e8b60cfad83299",
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "source": "VentureBeat · AI",
-      "question": "围绕“When agents act on their own, governance has to live in the data layer”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 132
+      "hotnessScore": 107
     },
     {
       "id": "e0653f4a81c54bf4845aa6cd9eb68c61",
@@ -71,7 +62,7 @@
       "source": "Hugging Face Blog",
       "question": "围绕“Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 125
+      "hotnessScore": 88
     },
     {
       "id": "f9547d2d7c519176a6aa7025acb220c4",
@@ -80,34 +71,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Big banks want a cut of lawyers’ AI savings”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 117
-    },
-    {
-      "id": "593e4123de9f28e56cc18893b3d6ebcb",
-      "title": "LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs’ Probabilistic Beliefs",
-      "url": "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs’ Probabilistic Beliefs”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 104
-    },
-    {
-      "id": "de9265d66344fde6413baa264e059521",
-      "title": "Andrew Bailey warns G20 of danger AI poses to financial system",
-      "url": "https://www.ft.com/content/ed723a59-a889-40e0-b601-0c1f16c92f65?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Andrew Bailey warns G20 of danger AI poses to financial system”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 73
-    },
-    {
-      "id": "f8985c76fb854a6da5fd6635c023e1f0",
-      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
-      "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Z.ai shares surge 8% after releasing new AI model running only on Chinese chips”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 62
+      "hotnessScore": 72
     }
   ]
 }
