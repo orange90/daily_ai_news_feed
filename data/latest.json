@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-04T05:35:44.324Z",
+  "generatedAt": "2026-09-05T05:17:16.127Z",
   "items": [
     {
-      "id": "6f42460eeda907e02aa3d4ec72e62e36",
-      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
-      "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?”需要重点关注哪些问题？",
+      "id": "15d753d9be667b13fc68329cc16376ba",
+      "title": "Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO",
+      "url": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 460
+      "hotnessScore": 205
     },
     {
       "id": "438643062ded2f68783d314ca886623d",
@@ -17,7 +17,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Is AI affecting what people choose to study?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 180
+      "hotnessScore": 132
     },
     {
       "id": "e7c224f28cc31b5b3ca3b44edc5c4996",
@@ -26,7 +26,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Nvidia to buy open-source AI platform Hugging Face for $13bn”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 177
+      "hotnessScore": 129
     },
     {
       "id": "301681e51cc6527e6eae96b9dbe6fee5",
@@ -35,25 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Law firms seek bespoke differences in legal AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 164
-    },
-    {
-      "id": "9ad65eb29d5fedf5cf0b2416e9479767",
-      "title": "Facilitating AI integration with simplicity at scale",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Facilitating AI integration with simplicity at scale”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 133
-    },
-    {
-      "id": "f56746c0e41c5f99f3dd15270794df0d",
-      "title": "How AI plotted an interstellar journey to Alpha Centauri",
-      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-      "source": "MIT Technology Review",
-      "question": "围绕“How AI plotted an interstellar journey to Alpha Centauri”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 107
+      "hotnessScore": 116
     },
     {
       "id": "e0653f4a81c54bf4845aa6cd9eb68c61",
@@ -65,13 +47,22 @@
       "hotnessScore": 88
     },
     {
-      "id": "f9547d2d7c519176a6aa7025acb220c4",
-      "title": "Big banks want a cut of lawyers’ AI savings",
-      "url": "https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Big banks want a cut of lawyers’ AI savings”需要重点关注哪些问题？",
+      "id": "9ad65eb29d5fedf5cf0b2416e9479767",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Facilitating AI integration with simplicity at scale”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
+      "hotnessScore": 85
+    },
+    {
+      "id": "f56746c0e41c5f99f3dd15270794df0d",
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "source": "MIT Technology Review",
+      "question": "围绕“How AI plotted an interstellar journey to Alpha Centauri”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 80
     }
   ]
 }
