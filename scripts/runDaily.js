@@ -11,6 +11,16 @@ dotenv.config();
 
 const DISPATCH_HOUR = Number.parseInt(process.env.DISPATCH_HOUR_BEIJING ?? "9", 10);
 const ITEMS_LIMIT = 30;
+const parseCandidateMultiplier = () => {
+  const rawValue = process.env.CANDIDATE_MULTIPLIER ?? "4";
+  const parsed = Number.parseInt(rawValue, 10);
+  if (Number.isNaN(parsed) || parsed < 1) {
+    return 4;
+  }
+  return parsed;
+};
+const CANDIDATE_MULTIPLIER = parseCandidateMultiplier();
+const MAX_CANDIDATE_ITEMS = Math.max(ITEMS_LIMIT, ITEMS_LIMIT * CANDIDATE_MULTIPLIER);
 const NEWS_MAX_AGE_MS = 7 * 24 * 60 * 60 * 1000;
 const ANSWER_MIN_LENGTH = 1000;
 const ANSWER_MAX_LENGTH = 2000;
@@ -109,6 +119,46 @@ const sanitizeAnswer = (text, maxLength = 4800) => {
     return joined;
   }
   return `${joined.slice(0, maxLength).trim()}...`;
+};
+
+const limitCandidates = (items, limit = MAX_CANDIDATE_ITEMS) => {
+  if (!Array.isArray(items) || items.length === 0) {
+    return [];
+  }
+  if (!Number.isFinite(limit) || limit <= 0) {
+    return items.slice();
+  }
+  if (limit >= items.length) {
+    return items.slice();
+  }
+  return items.slice(0, limit);
+};
+
+const getNormalizedLength = (text) =>
+  String(text ?? "")
+    .replace(/\r?\n/g, "")
+    .replace(/\s+/g, "")
+    .length;
+
+const evaluateInsightQuality = ({ question, answer }) => {
+  if (!question || !String(question).trim()) {
+    return "问题为空";
+  }
+
+  if (!answer || !String(answer).trim()) {
+    return "回答为空";
+  }
+
+  const answerLength = getNormalizedLength(answer);
+  if (answerLength < ANSWER_MIN_LENGTH) {
+    return `回答长度 ${answerLength} 低于最小值 ${ANSWER_MIN_LENGTH}`;
+  }
+
+  if (answerLength > ANSWER_MAX_LENGTH) {
+    return `回答长度 ${answerLength} 超过最大值 ${ANSWER_MAX_LENGTH}`;
+  }
+
+  return null;
 };
 
 const computeNewsSignal = (title, summary) => {
@@ -294,24 +344,10 @@ const dedupeAndSort = (items) => {
   );
 };
 
-const selectTopItems = (items) => {
-  if (items.length === 0) {
-    return [];
-  }
-
-  return items.slice(0, ITEMS_LIMIT);
-};
-
 const fetchDailyNews = async () => {
   const aggregated = await collectNewsItems();
   const sorted = dedupeAndSort(aggregated);
-  const selected = selectTopItems(sorted);
-  if (selected.length < ITEMS_LIMIT) {
-    console.warn(
-      `仅找到 ${selected.length} 条符合条件的热点，请检查新闻源是否可访问或适当放宽关键词。`
-    );
-  }
-  return selected;
+  return sorted;
 };
 
 const extractJsonObject = (content) => {
@@ -589,14 +625,27 @@ const writeDataFile = (items, generatedAtISO) => {
 
 const main = async () => {
   console.log("开始获取今日 AI 热点...");
-  const rawItems = await fetchDailyNews();
-  console.log(`聚合到 ${rawItems.length} 条候选热点，开始调用 DeepSeek 生成提问和解读。`);
-  if (rawItems.length === 0) {
+  const allCandidates = await fetchDailyNews();
+  const candidateItems = limitCandidates(allCandidates);
+  console.log(
+    `聚合到 ${allCandidates.length} 条候选热点，计划按热度处理前 ${candidateItems.length} 条用于深度分析。`
+  );
+  if (candidateItems.length === 0) {
     console.warn("未找到符合条件的热点，请检查新闻源配置或稍后重试。");
   }
 
   const itemsWithInsights = [];
-  for (const item of rawItems) {
+  let processedCount = 0;
+  let qualityRejectedCount = 0;
+  let failedGenerationCount = 0;
+
+  for (const item of candidateItems) {
+    if (itemsWithInsights.length >= ITEMS_LIMIT) {
+      break;
+    }
+
+    processedCount += 1;
+
     try {
       const { question, answer } = await callDeepSeek({
         title: item.title,
@@ -605,16 +654,33 @@ const main = async () => {
         source: item.source,
         language: item.language
       });
-      itemsWithInsights.push({ ...item, question, answer });
+      const enriched = { ...item, question, answer };
+      const qualityIssue = evaluateInsightQuality(enriched);
+      if (qualityIssue) {
+        qualityRejectedCount += 1;
+        console.warn(`跳过 ${item.title}：${qualityIssue}`);
+        continue;
+      }
+      itemsWithInsights.push(enriched);
     } catch (error) {
+      failedGenerationCount += 1;
       console.error(`生成点评失败 (${item.title})`, error);
-      const fallbackQuestion = `围绕“${item.title}”需要重点关注哪些问题？`;
-      itemsWithInsights.push({
-        ...item,
-        question: fallbackQuestion,
-        answer: "（调用 DeepSeek 失败，已记录日志，请稍后重试）"
-      });
     }
+  }
+
+  if (itemsWithInsights.length < ITEMS_LIMIT) {
+    const summaryDetails = [
+      `目标 ${ITEMS_LIMIT} 条`,
+      `候选 ${candidateItems.length} 条`,
+      `已处理 ${processedCount} 条`
+    ];
+    if (qualityRejectedCount > 0) {
+      summaryDetails.push(`质量未达标 ${qualityRejectedCount} 条`);
+    }
+    if (failedGenerationCount > 0) {
+      summaryDetails.push(`调用失败 ${failedGenerationCount} 条`);
+    }
+    console.warn(`最终仅生成 ${itemsWithInsights.length} 条有效热点（${summaryDetails.join("，")}）。`);
   }
 
   const generatedAtISO = new Date().toISOString();
