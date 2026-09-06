@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-05T05:17:16.127Z",
+  "generatedAt": "2026-09-06T05:31:26.870Z",
   "items": [
+    {
+      "id": "4491564bd2092904c8f198334a2a9cef",
+      "title": "Show HN: Midjourney API with webhooks, polling",
+      "url": "https://www.midjourney-api.com",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Midjourney API with webhooks, polling”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 447
+    },
     {
       "id": "15d753d9be667b13fc68329cc16376ba",
       "title": "Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO",
@@ -8,34 +17,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 205
-    },
-    {
-      "id": "438643062ded2f68783d314ca886623d",
-      "title": "Is AI affecting what people choose to study?",
-      "url": "https://www.ft.com/content/9183a122-10b7-4707-a728-b61ab50da378?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Is AI affecting what people choose to study?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 132
-    },
-    {
-      "id": "e7c224f28cc31b5b3ca3b44edc5c4996",
-      "title": "Nvidia to buy open-source AI platform Hugging Face for $13bn",
-      "url": "https://www.ft.com/content/776dcb01-75cd-44df-bc52-63ca76d5718d?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Nvidia to buy open-source AI platform Hugging Face for $13bn”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 129
-    },
-    {
-      "id": "301681e51cc6527e6eae96b9dbe6fee5",
-      "title": "Law firms seek bespoke differences in legal AI",
-      "url": "https://www.ft.com/content/c0c8ae73-27fd-4828-aa48-72cdae6613ff",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Law firms seek bespoke differences in legal AI”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 116
+      "hotnessScore": 156
     },
     {
       "id": "e0653f4a81c54bf4845aa6cd9eb68c61",
@@ -47,13 +29,22 @@
       "hotnessScore": 88
     },
     {
-      "id": "9ad65eb29d5fedf5cf0b2416e9479767",
-      "title": "Facilitating AI integration with simplicity at scale",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Facilitating AI integration with simplicity at scale”需要重点关注哪些问题？",
+      "id": "438643062ded2f68783d314ca886623d",
+      "title": "Is AI affecting what people choose to study?",
+      "url": "https://www.ft.com/content/9183a122-10b7-4707-a728-b61ab50da378?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Is AI affecting what people choose to study?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 85
+      "hotnessScore": 84
+    },
+    {
+      "id": "e7c224f28cc31b5b3ca3b44edc5c4996",
+      "title": "Nvidia to buy open-source AI platform Hugging Face for $13bn",
+      "url": "https://www.ft.com/content/776dcb01-75cd-44df-bc52-63ca76d5718d?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Nvidia to buy open-source AI platform Hugging Face for $13bn”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 81
     },
     {
       "id": "f56746c0e41c5f99f3dd15270794df0d",
@@ -63,6 +54,24 @@
       "question": "围绕“How AI plotted an interstellar journey to Alpha Centauri”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 80
+    },
+    {
+      "id": "301681e51cc6527e6eae96b9dbe6fee5",
+      "title": "Law firms seek bespoke differences in legal AI",
+      "url": "https://www.ft.com/content/c0c8ae73-27fd-4828-aa48-72cdae6613ff",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Law firms seek bespoke differences in legal AI”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 72
+    },
+    {
+      "id": "9ad65eb29d5fedf5cf0b2416e9479767",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Facilitating AI integration with simplicity at scale”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 68
     }
   ]
 }
