@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-07T05:42:35.750Z",
+  "generatedAt": "2026-09-08T05:37:37.528Z",
   "items": [
     {
-      "id": "10d9574f5aea12f96af37034a8c83e08",
-      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-      "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
-      "source": "Hacker News · AI",
-      "question": "围绕“Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators”需要重点关注哪些问题？",
+      "id": "c9ecb38cf18b205241530830b56959bd",
+      "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO",
+      "url": "https://www.ft.com/content/aa304856-cade-4ad8-a2bf-2dd34fa75b1b?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 455
+      "hotnessScore": 209
+    },
+    {
+      "id": "afc173a64ced284413b89bd8c5546019",
+      "title": "Law schools tell students to put AI away",
+      "url": "https://www.ft.com/content/8ddd3668-5858-45c3-b34f-a6bafc678187",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Law schools tell students to put AI away”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 186
     },
     {
       "id": "15d753d9be667b13fc68329cc16376ba",
@@ -17,16 +26,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 108
-    },
-    {
-      "id": "e0653f4a81c54bf4845aa6cd9eb68c61",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "source": "Hugging Face Blog",
-      "question": "围绕“Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 88
+      "hotnessScore": 80
     },
     {
       "id": "f56746c0e41c5f99f3dd15270794df0d",
