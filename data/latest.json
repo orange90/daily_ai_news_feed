@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-08T05:37:37.528Z",
+  "generatedAt": "2026-09-09T05:44:19.179Z",
   "items": [
+    {
+      "id": "ee3266a6f7add11dc9764bf4a95aa029",
+      "title": "Show HN: Making an app to organize all basic aspects of modern life",
+      "url": "https://demo.ontoplano.com",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Making an app to organize all basic aspects of modern life”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 460
+    },
+    {
+      "id": "6e0b58a15221f957649a1cef97b7e7a0",
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "source": "MIT Technology Review",
+      "question": "围绕“What OpenAI’s latest controversy tells us about the future of math”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 207
+    },
     {
       "id": "c9ecb38cf18b205241530830b56959bd",
       "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO",
@@ -8,7 +26,16 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 209
+      "hotnessScore": 195
+    },
+    {
+      "id": "0254c84742ee4a6368e5a6606257baf8",
+      "title": "Mistral raises record €3bn as Europe strains to keep pace in AI race",
+      "url": "https://www.ft.com/content/adbf5262-c4d5-4312-a9b8-4d3cf30c9e00?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Mistral raises record €3bn as Europe strains to keep pace in AI race”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 163
     },
     {
       "id": "afc173a64ced284413b89bd8c5546019",
@@ -17,7 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Law schools tell students to put AI away”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 186
+      "hotnessScore": 138
     },
     {
       "id": "15d753d9be667b13fc68329cc16376ba",
@@ -25,15 +52,6 @@
       "url": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 80
-    },
-    {
-      "id": "f56746c0e41c5f99f3dd15270794df0d",
-      "title": "How AI plotted an interstellar journey to Alpha Centauri",
-      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-      "source": "MIT Technology Review",
-      "question": "围绕“How AI plotted an interstellar journey to Alpha Centauri”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 80
     },
@@ -47,29 +65,11 @@
       "hotnessScore": 72
     },
     {
-      "id": "301681e51cc6527e6eae96b9dbe6fee5",
-      "title": "Law firms seek bespoke differences in legal AI",
-      "url": "https://www.ft.com/content/c0c8ae73-27fd-4828-aa48-72cdae6613ff",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Law firms seek bespoke differences in legal AI”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
-    },
-    {
       "id": "e7c224f28cc31b5b3ca3b44edc5c4996",
       "title": "Nvidia to buy open-source AI platform Hugging Face for $13bn",
       "url": "https://www.ft.com/content/776dcb01-75cd-44df-bc52-63ca76d5718d?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Nvidia to buy open-source AI platform Hugging Face for $13bn”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
-      "id": "9ad65eb29d5fedf5cf0b2416e9479767",
-      "title": "Facilitating AI integration with simplicity at scale",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Facilitating AI integration with simplicity at scale”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
     }
