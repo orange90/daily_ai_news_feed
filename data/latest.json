@@ -1,14 +1,41 @@
 {
-  "generatedAt": "2026-09-09T05:44:19.179Z",
+  "generatedAt": "2026-09-10T05:37:50.044Z",
   "items": [
     {
-      "id": "ee3266a6f7add11dc9764bf4a95aa029",
-      "title": "Show HN: Making an app to organize all basic aspects of modern life",
-      "url": "https://demo.ontoplano.com",
+      "id": "3592cac00093de5f2f813a9f32f91350",
+      "title": "The AI policy window is open. We need to act",
+      "url": "https://openai.com/index/ai-policy-window/",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Making an app to organize all basic aspects of modern life”需要重点关注哪些问题？",
+      "question": "围绕“The AI policy window is open. We need to act”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 460
+      "hotnessScore": 455
+    },
+    {
+      "id": "8606ebac1ab038ddaf95d922dd099a58",
+      "title": "Show HN: Ambient Context v1.0.0 (Missing context for AI assistants)",
+      "url": "https://github.com/dragthelake/ambient-context/releases",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Ambient Context v1.0.0 (Missing context for AI assistants)”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 445
+    },
+    {
+      "id": "37cfcbb2aff6e022378a6af6ad9924d1",
+      "title": "Largest AI Infrastructure in Space announced by the president of France",
+      "url": "https://www.businesswire.com/news/home/20260909411854/en/Worlds-Largest-AI-Infrastructure-in-Space-announced-by-the-president-of-the-French-Republic-Marlan-Space-and-Loft-Orbital-Join-Forces-with-Mistral-and-Global-Space-Industry-Leaders-to-Build-the-Future-of-Agentic-AI-in-Space-with-%241-Billion",
+      "source": "Hacker News · AI",
+      "question": "围绕“Largest AI Infrastructure in Space announced by the president of France”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 442
+    },
+    {
+      "id": "774fd5958d0ca0a6c8a1fb659b181138",
+      "title": "New AI health tools need ‘L-plates’, says UK review",
+      "url": "https://www.ft.com/content/25e31948-c429-4c46-8465-72220b7e2e53?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“New AI health tools need ‘L-plates’, says UK review”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 203
     },
     {
       "id": "6e0b58a15221f957649a1cef97b7e7a0",
@@ -17,7 +44,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“What OpenAI’s latest controversy tells us about the future of math”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 207
+      "hotnessScore": 159
     },
     {
       "id": "c9ecb38cf18b205241530830b56959bd",
@@ -26,7 +53,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 195
+      "hotnessScore": 147
     },
     {
       "id": "0254c84742ee4a6368e5a6606257baf8",
@@ -35,7 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Mistral raises record €3bn as Europe strains to keep pace in AI race”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 163
+      "hotnessScore": 115
     },
     {
       "id": "afc173a64ced284413b89bd8c5546019",
@@ -44,7 +71,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Law schools tell students to put AI away”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 138
+      "hotnessScore": 90
     },
     {
       "id": "15d753d9be667b13fc68329cc16376ba",
@@ -54,24 +81,6 @@
       "question": "围绕“Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 80
-    },
-    {
-      "id": "438643062ded2f68783d314ca886623d",
-      "title": "Is AI affecting what people choose to study?",
-      "url": "https://www.ft.com/content/9183a122-10b7-4707-a728-b61ab50da378?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Is AI affecting what people choose to study?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
-    },
-    {
-      "id": "e7c224f28cc31b5b3ca3b44edc5c4996",
-      "title": "Nvidia to buy open-source AI platform Hugging Face for $13bn",
-      "url": "https://www.ft.com/content/776dcb01-75cd-44df-bc52-63ca76d5718d?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Nvidia to buy open-source AI platform Hugging Face for $13bn”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
     }
   ]
 }
