@@ -1,32 +1,23 @@
 {
-  "generatedAt": "2026-09-10T05:37:50.044Z",
+  "generatedAt": "2026-09-11T05:38:29.889Z",
   "items": [
     {
-      "id": "3592cac00093de5f2f813a9f32f91350",
-      "title": "The AI policy window is open. We need to act",
-      "url": "https://openai.com/index/ai-policy-window/",
+      "id": "6362214f7a47135aa920a5ec3a98ce33",
+      "title": "Watermarks Without Verification: AI Text Watermarking After the EU AI Act",
+      "url": "https://arxiv.org/abs/2609.09604",
       "source": "Hacker News · AI",
-      "question": "围绕“The AI policy window is open. We need to act”需要重点关注哪些问题？",
+      "question": "围绕“Watermarks Without Verification: AI Text Watermarking After the EU AI Act”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 455
+      "hotnessScore": 452
     },
     {
-      "id": "8606ebac1ab038ddaf95d922dd099a58",
-      "title": "Show HN: Ambient Context v1.0.0 (Missing context for AI assistants)",
-      "url": "https://github.com/dragthelake/ambient-context/releases",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Ambient Context v1.0.0 (Missing context for AI assistants)”需要重点关注哪些问题？",
+      "id": "d9366c60a0d8be0f76649de09d1db2e9",
+      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+      "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 445
-    },
-    {
-      "id": "37cfcbb2aff6e022378a6af6ad9924d1",
-      "title": "Largest AI Infrastructure in Space announced by the president of France",
-      "url": "https://www.businesswire.com/news/home/20260909411854/en/Worlds-Largest-AI-Infrastructure-in-Space-announced-by-the-president-of-the-French-Republic-Marlan-Space-and-Loft-Orbital-Join-Forces-with-Mistral-and-Global-Space-Industry-Leaders-to-Build-the-Future-of-Agentic-AI-in-Space-with-%241-Billion",
-      "source": "Hacker News · AI",
-      "question": "围绕“Largest AI Infrastructure in Space announced by the president of France”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 442
+      "hotnessScore": 185
     },
     {
       "id": "774fd5958d0ca0a6c8a1fb659b181138",
@@ -35,7 +26,25 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“New AI health tools need ‘L-plates’, says UK review”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 203
+      "hotnessScore": 177
+    },
+    {
+      "id": "7ec09e8d836b83503e18c83c7145d407",
+      "title": "Latham & Watkins buys Nvidia servers to set up in-house AI systems",
+      "url": "https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Latham & Watkins buys Nvidia servers to set up in-house AI systems”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 177
+    },
+    {
+      "id": "ffb2cbaec5da4d05bf830396cd243ecd",
+      "title": "Healthcare AI’s next test is integration",
+      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Healthcare AI’s next test is integration”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 171
     },
     {
       "id": "6e0b58a15221f957649a1cef97b7e7a0",
@@ -44,7 +53,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“What OpenAI’s latest controversy tells us about the future of math”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 159
+      "hotnessScore": 111
     },
     {
       "id": "c9ecb38cf18b205241530830b56959bd",
@@ -53,16 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 147
-    },
-    {
-      "id": "0254c84742ee4a6368e5a6606257baf8",
-      "title": "Mistral raises record €3bn as Europe strains to keep pace in AI race",
-      "url": "https://www.ft.com/content/adbf5262-c4d5-4312-a9b8-4d3cf30c9e00?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Mistral raises record €3bn as Europe strains to keep pace in AI race”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 115
+      "hotnessScore": 99
     },
     {
       "id": "afc173a64ced284413b89bd8c5546019",
@@ -71,16 +71,16 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Law schools tell students to put AI away”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 90
+      "hotnessScore": 72
     },
     {
-      "id": "15d753d9be667b13fc68329cc16376ba",
-      "title": "Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO",
-      "url": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6=1",
+      "id": "0254c84742ee4a6368e5a6606257baf8",
+      "title": "Mistral raises record €3bn as Europe strains to keep pace in AI race",
+      "url": "https://www.ft.com/content/adbf5262-c4d5-4312-a9b8-4d3cf30c9e00?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO”需要重点关注哪些问题？",
+      "question": "围绕“Mistral raises record €3bn as Europe strains to keep pace in AI race”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 80
+      "hotnessScore": 68
     }
   ]
 }
