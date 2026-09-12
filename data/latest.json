@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-09-11T05:38:29.889Z",
+  "generatedAt": "2026-09-12T05:25:56.187Z",
   "items": [
     {
-      "id": "6362214f7a47135aa920a5ec3a98ce33",
-      "title": "Watermarks Without Verification: AI Text Watermarking After the EU AI Act",
-      "url": "https://arxiv.org/abs/2609.09604",
+      "id": "38143a62a3379f7cdd712fc67908e5b1",
+      "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
+      "url": "https://twitter.com/venturetwins/status/2098456905526211026",
       "source": "Hacker News · AI",
-      "question": "围绕“Watermarks Without Verification: AI Text Watermarking After the EU AI Act”需要重点关注哪些问题？",
+      "question": "围绕“Bernie's AI bill proposes to sentence AI developers to 20 years in prison”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 452
+      "hotnessScore": 563
+    },
+    {
+      "id": "a02c348fe6d79d45547ffcd3b3adcf6d",
+      "title": "Pacman AI framework for controlling fusion systems safely makes key decisions",
+      "url": "https://www.pppl.gov/news/2026/pacman-ai-framework-controlling-fusion-systems-safely-makes-key-decisions-milliseconds",
+      "source": "Hacker News · AI",
+      "question": "围绕“Pacman AI framework for controlling fusion systems safely makes key decisions”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 457
+    },
+    {
+      "id": "8e0d8153e17a0f5d6d9480f79b9b5469",
+      "title": "Ask HN: How do we deal with \"hacking\" Hacker News?",
+      "url": "https://news.ycombinator.com/item?id=49667245",
+      "source": "Hacker News · AI",
+      "question": "围绕“Ask HN: How do we deal with \"hacking\" Hacker News?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 451
+    },
+    {
+      "id": "eeb0fbfd0303a1a9c34564380899e43b",
+      "title": "Show HN: Fog 2.0: I removed the AI auto-organizing I built my first app around",
+      "url": "https://apps.apple.com/us/app/smart-notes-folders-fog/id6760272134",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Fog 2.0: I removed the AI auto-organizing I built my first app around”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 450
+    },
+    {
+      "id": "1aba57560165319ae095147a7e94479a",
+      "title": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
+      "url": "https://machinelearning.apple.com/research/discosign-gloss-translation",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 185
     },
     {
       "id": "d9366c60a0d8be0f76649de09d1db2e9",
@@ -17,7 +53,16 @@
       "source": "CNBC · Technology",
       "question": "围绕“OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 185
+      "hotnessScore": 179
+    },
+    {
+      "id": "4f1c2d79942125b22aad276e238d86d9",
+      "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+      "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 159
     },
     {
       "id": "774fd5958d0ca0a6c8a1fb659b181138",
@@ -26,7 +71,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“New AI health tools need ‘L-plates’, says UK review”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 177
+      "hotnessScore": 130
     },
     {
       "id": "7ec09e8d836b83503e18c83c7145d407",
@@ -35,7 +80,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Latham & Watkins buys Nvidia servers to set up in-house AI systems”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 177
+      "hotnessScore": 129
     },
     {
       "id": "ffb2cbaec5da4d05bf830396cd243ecd",
@@ -44,43 +89,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“Healthcare AI’s next test is integration”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 171
-    },
-    {
-      "id": "6e0b58a15221f957649a1cef97b7e7a0",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "MIT Technology Review",
-      "question": "围绕“What OpenAI’s latest controversy tells us about the future of math”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 111
-    },
-    {
-      "id": "c9ecb38cf18b205241530830b56959bd",
-      "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO",
-      "url": "https://www.ft.com/content/aa304856-cade-4ad8-a2bf-2dd34fa75b1b?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 99
-    },
-    {
-      "id": "afc173a64ced284413b89bd8c5546019",
-      "title": "Law schools tell students to put AI away",
-      "url": "https://www.ft.com/content/8ddd3668-5858-45c3-b34f-a6bafc678187",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Law schools tell students to put AI away”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
-    },
-    {
-      "id": "0254c84742ee4a6368e5a6606257baf8",
-      "title": "Mistral raises record €3bn as Europe strains to keep pace in AI race",
-      "url": "https://www.ft.com/content/adbf5262-c4d5-4312-a9b8-4d3cf30c9e00?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Mistral raises record €3bn as Europe strains to keep pace in AI race”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
+      "hotnessScore": 123
     }
   ]
 }
