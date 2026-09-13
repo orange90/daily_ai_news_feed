@@ -1,42 +1,6 @@
 {
-  "generatedAt": "2026-09-12T05:25:56.187Z",
+  "generatedAt": "2026-09-13T05:40:46.930Z",
   "items": [
-    {
-      "id": "38143a62a3379f7cdd712fc67908e5b1",
-      "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
-      "url": "https://twitter.com/venturetwins/status/2098456905526211026",
-      "source": "Hacker News · AI",
-      "question": "围绕“Bernie's AI bill proposes to sentence AI developers to 20 years in prison”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 563
-    },
-    {
-      "id": "a02c348fe6d79d45547ffcd3b3adcf6d",
-      "title": "Pacman AI framework for controlling fusion systems safely makes key decisions",
-      "url": "https://www.pppl.gov/news/2026/pacman-ai-framework-controlling-fusion-systems-safely-makes-key-decisions-milliseconds",
-      "source": "Hacker News · AI",
-      "question": "围绕“Pacman AI framework for controlling fusion systems safely makes key decisions”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 457
-    },
-    {
-      "id": "8e0d8153e17a0f5d6d9480f79b9b5469",
-      "title": "Ask HN: How do we deal with \"hacking\" Hacker News?",
-      "url": "https://news.ycombinator.com/item?id=49667245",
-      "source": "Hacker News · AI",
-      "question": "围绕“Ask HN: How do we deal with \"hacking\" Hacker News?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 451
-    },
-    {
-      "id": "eeb0fbfd0303a1a9c34564380899e43b",
-      "title": "Show HN: Fog 2.0: I removed the AI auto-organizing I built my first app around",
-      "url": "https://apps.apple.com/us/app/smart-notes-folders-fog/id6760272134",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Fog 2.0: I removed the AI auto-organizing I built my first app around”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 450
-    },
     {
       "id": "1aba57560165319ae095147a7e94479a",
       "title": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
@@ -44,7 +8,7 @@
       "source": "Apple Machine Learning Research",
       "question": "围绕“DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 185
+      "hotnessScore": 137
     },
     {
       "id": "d9366c60a0d8be0f76649de09d1db2e9",
@@ -53,7 +17,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 179
+      "hotnessScore": 131
     },
     {
       "id": "4f1c2d79942125b22aad276e238d86d9",
@@ -62,7 +26,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 159
+      "hotnessScore": 111
     },
     {
       "id": "774fd5958d0ca0a6c8a1fb659b181138",
@@ -71,7 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“New AI health tools need ‘L-plates’, says UK review”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 130
+      "hotnessScore": 81
     },
     {
       "id": "7ec09e8d836b83503e18c83c7145d407",
@@ -80,7 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Latham & Watkins buys Nvidia servers to set up in-house AI systems”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 129
+      "hotnessScore": 81
     },
     {
       "id": "ffb2cbaec5da4d05bf830396cd243ecd",
@@ -89,7 +53,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“Healthcare AI’s next test is integration”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 123
+      "hotnessScore": 75
     }
   ]
 }
