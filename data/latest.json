@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-09-13T05:40:46.930Z",
+  "generatedAt": "2026-09-14T05:49:01.266Z",
   "items": [
+    {
+      "id": "c83e3531720685aa060d6fe9f1ba6efd",
+      "title": "Ask HN: Would a startup for young creatives who reject AI be feasible?",
+      "url": "https://news.ycombinator.com/item?id=49689696",
+      "source": "Hacker News · AI",
+      "question": "围绕“Ask HN: Would a startup for young creatives who reject AI be feasible?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 470
+    },
+    {
+      "id": "44f404a3406034e6adc9d7e48863f6e4",
+      "title": "Trump rejects calls from tech bosses for AI slowdown",
+      "url": "https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Trump rejects calls from tech bosses for AI slowdown”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 200
+    },
+    {
+      "id": "baf9e917596399e0c64ca455a5d969ea",
+      "title": "UK and US fusion strike partnership to accelerate clean energy",
+      "url": "https://www.gov.uk/government/news/uk-and-us-fusion-strike-partnership-to-accelerate-clean-energy",
+      "source": "UK Government · AI Regulation Updates",
+      "question": "围绕“UK and US fusion strike partnership to accelerate clean energy”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 198
+    },
     {
       "id": "1aba57560165319ae095147a7e94479a",
       "title": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
@@ -8,7 +35,7 @@
       "source": "Apple Machine Learning Research",
       "question": "围绕“DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 137
+      "hotnessScore": 100
     },
     {
       "id": "d9366c60a0d8be0f76649de09d1db2e9",
@@ -17,34 +44,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 131
-    },
-    {
-      "id": "4f1c2d79942125b22aad276e238d86d9",
-      "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
-      "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 111
-    },
-    {
-      "id": "774fd5958d0ca0a6c8a1fb659b181138",
-      "title": "New AI health tools need ‘L-plates’, says UK review",
-      "url": "https://www.ft.com/content/25e31948-c429-4c46-8465-72220b7e2e53?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“New AI health tools need ‘L-plates’, says UK review”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 81
-    },
-    {
-      "id": "7ec09e8d836b83503e18c83c7145d407",
-      "title": "Latham & Watkins buys Nvidia servers to set up in-house AI systems",
-      "url": "https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Latham & Watkins buys Nvidia servers to set up in-house AI systems”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 81
+      "hotnessScore": 83
     },
     {
       "id": "ffb2cbaec5da4d05bf830396cd243ecd",
@@ -53,7 +53,16 @@
       "source": "MIT Technology Review",
       "question": "围绕“Healthcare AI’s next test is integration”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 75
+      "hotnessScore": 68
+    },
+    {
+      "id": "4f1c2d79942125b22aad276e238d86d9",
+      "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+      "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 62
     }
   ]
 }
