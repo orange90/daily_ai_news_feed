@@ -1,14 +1,41 @@
 {
-  "generatedAt": "2026-09-14T05:49:01.266Z",
+  "generatedAt": "2026-09-15T05:50:50.210Z",
   "items": [
     {
-      "id": "c83e3531720685aa060d6fe9f1ba6efd",
-      "title": "Ask HN: Would a startup for young creatives who reject AI be feasible?",
-      "url": "https://news.ycombinator.com/item?id=49689696",
+      "id": "b73a3b75b9aca877a158fab75671c603",
+      "title": "Show HN: Chronicle – Local-first, open-source authoring software for writers",
+      "url": "https://pazvanti.github.io/Chronicle/",
       "source": "Hacker News · AI",
-      "question": "围绕“Ask HN: Would a startup for young creatives who reject AI be feasible?”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: Chronicle – Local-first, open-source authoring software for writers”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 470
+      "hotnessScore": 457
+    },
+    {
+      "id": "dacc969235b636386a0152c410e13a47",
+      "title": "Open-source Python framework for AI agents, workflows, and automations",
+      "url": "https://github.com/BindBrain/BindAI",
+      "source": "Hacker News · AI",
+      "question": "围绕“Open-source Python framework for AI agents, workflows, and automations”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 450
+    },
+    {
+      "id": "b2b09f7babcdb6cafda8f4230076621e",
+      "title": "Bannon and Sanders unite over AI safety as Trump condemns warnings as a ‘hoax’",
+      "url": "https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Bannon and Sanders unite over AI safety as Trump condemns warnings as a ‘hoax’”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 188
+    },
+    {
+      "id": "1d5b1e3f5c9983bc5e4c0353b0e2f2d5",
+      "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+      "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 183
     },
     {
       "id": "44f404a3406034e6adc9d7e48863f6e4",
@@ -17,16 +44,16 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Trump rejects calls from tech bosses for AI slowdown”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 200
+      "hotnessScore": 151
     },
     {
-      "id": "baf9e917596399e0c64ca455a5d969ea",
-      "title": "UK and US fusion strike partnership to accelerate clean energy",
-      "url": "https://www.gov.uk/government/news/uk-and-us-fusion-strike-partnership-to-accelerate-clean-energy",
-      "source": "UK Government · AI Regulation Updates",
-      "question": "围绕“UK and US fusion strike partnership to accelerate clean energy”需要重点关注哪些问题？",
+      "id": "234a39fbf2544fbad566c86a73cf1562",
+      "title": "Eager to try iOS 27’s cool AI features and upgraded Siri? Get ready for usage limits",
+      "url": "https://www.zdnet.com/innovation/how-apple-will-limit-your-ai-use/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Eager to try iOS 27’s cool AI features and upgraded Siri? Get ready for usage limits”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 198
+      "hotnessScore": 104
     },
     {
       "id": "1aba57560165319ae095147a7e94479a",
@@ -38,29 +65,20 @@
       "hotnessScore": 100
     },
     {
-      "id": "d9366c60a0d8be0f76649de09d1db2e9",
-      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-      "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 83
-    },
-    {
-      "id": "ffb2cbaec5da4d05bf830396cd243ecd",
-      "title": "Healthcare AI’s next test is integration",
-      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Healthcare AI’s next test is integration”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
       "id": "4f1c2d79942125b22aad276e238d86d9",
       "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
       "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
       "source": "CNBC · Technology",
       "question": "围绕“A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 62
+    },
+    {
+      "id": "d9366c60a0d8be0f76649de09d1db2e9",
+      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+      "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 62
     }
