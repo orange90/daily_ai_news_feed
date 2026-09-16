@@ -1,23 +1,50 @@
 {
-  "generatedAt": "2026-09-15T05:50:50.210Z",
+  "generatedAt": "2026-09-16T05:39:25.963Z",
   "items": [
     {
-      "id": "b73a3b75b9aca877a158fab75671c603",
-      "title": "Show HN: Chronicle – Local-first, open-source authoring software for writers",
-      "url": "https://pazvanti.github.io/Chronicle/",
+      "id": "56908e03775a7ac2f1f70469524840d7",
+      "title": "We struggled with DevOps, so built a open source agentic platform just for this",
+      "url": "https://news.ycombinator.com/item?id=49721869",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Chronicle – Local-first, open-source authoring software for writers”需要重点关注哪些问题？",
+      "question": "围绕“We struggled with DevOps, so built a open source agentic platform just for this”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 457
+      "hotnessScore": 455
     },
     {
-      "id": "dacc969235b636386a0152c410e13a47",
-      "title": "Open-source Python framework for AI agents, workflows, and automations",
-      "url": "https://github.com/BindBrain/BindAI",
+      "id": "5e5de1da5c6ccd4248bf3d5a86cde36e",
+      "title": "Show HN: Leo – a Markdown engineering process for AI coding agents",
+      "url": "https://github.com/alex-zaporozhan/leo",
       "source": "Hacker News · AI",
-      "question": "围绕“Open-source Python framework for AI agents, workflows, and automations”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: Leo – a Markdown engineering process for AI coding agents”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 450
+      "hotnessScore": 452
+    },
+    {
+      "id": "c5e504d5daf2c67811f085eff46d63b1",
+      "title": "iOS 27 is finally here, with the new Siri AI beta – and 120 security patches",
+      "url": "https://www.zdnet.com/business/ios-27-siri-ai-beta-how-to-try/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“iOS 27 is finally here, with the new Siri AI beta – and 120 security patches”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 215
+    },
+    {
+      "id": "24a158f4e6886994cc5cc59aef8d9f26",
+      "title": "OpenAI weighs funding round at $1.2tn valuation before IPO",
+      "url": "https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“OpenAI weighs funding round at $1.2tn valuation before IPO”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 197
+    },
+    {
+      "id": "23360c4d51b7cfcb3613fe33caff7421",
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "source": "MIT Technology Review",
+      "question": "围绕“AI models need more data about biology, and OpenAI is paying to create it”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 181
     },
     {
       "id": "b2b09f7babcdb6cafda8f4230076621e",
@@ -26,7 +53,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Bannon and Sanders unite over AI safety as Trump condemns warnings as a ‘hoax’”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 188
+      "hotnessScore": 140
     },
     {
       "id": "1d5b1e3f5c9983bc5e4c0353b0e2f2d5",
@@ -35,16 +62,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 183
-    },
-    {
-      "id": "44f404a3406034e6adc9d7e48863f6e4",
-      "title": "Trump rejects calls from tech bosses for AI slowdown",
-      "url": "https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Trump rejects calls from tech bosses for AI slowdown”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 151
+      "hotnessScore": 136
     },
     {
       "id": "234a39fbf2544fbad566c86a73cf1562",
