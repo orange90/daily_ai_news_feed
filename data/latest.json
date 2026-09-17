@@ -1,23 +1,50 @@
 {
-  "generatedAt": "2026-09-16T05:39:25.963Z",
+  "generatedAt": "2026-09-17T05:46:23.106Z",
   "items": [
     {
-      "id": "56908e03775a7ac2f1f70469524840d7",
-      "title": "We struggled with DevOps, so built a open source agentic platform just for this",
-      "url": "https://news.ycombinator.com/item?id=49721869",
+      "id": "a5a7a313096b9ae7a3a861ff4067d550",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
       "source": "Hacker News · AI",
-      "question": "围绕“We struggled with DevOps, so built a open source agentic platform just for this”需要重点关注哪些问题？",
+      "question": "围绕“OpenSpec – A lightweight and configurable AI spec framework”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 455
+      "hotnessScore": 779
     },
     {
-      "id": "5e5de1da5c6ccd4248bf3d5a86cde36e",
-      "title": "Show HN: Leo – a Markdown engineering process for AI coding agents",
-      "url": "https://github.com/alex-zaporozhan/leo",
+      "id": "cdda6a997f339fdc46f097882d8b75d4",
+      "title": "House advances bill to rein in AI data center utility costs",
+      "url": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Leo – a Markdown engineering process for AI coding agents”需要重点关注哪些问题？",
+      "question": "围绕“House advances bill to rein in AI data center utility costs”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 452
+      "hotnessScore": 454
+    },
+    {
+      "id": "7eebe6bf1130aa7415eb827e0defb30a",
+      "title": "Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs",
+      "url": "https://machinelearning.apple.com/research/glyph-column-description-tagging",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 176
+    },
+    {
+      "id": "3b38c8b82cecb9468824f4e2c0040b6b",
+      "title": "DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+      "url": "https://machinelearning.apple.com/research/denoising-aware-credit-assignment",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 176
+    },
+    {
+      "id": "ada94bed2cb51dc4af83b86417baa1c1",
+      "title": "Shared Selective Persistent Memory for Agentic LLM Systems",
+      "url": "https://machinelearning.apple.com/research/shared-selective-persistent-memory",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“Shared Selective Persistent Memory for Agentic LLM Systems”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 172
     },
     {
       "id": "c5e504d5daf2c67811f085eff46d63b1",
@@ -26,7 +53,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“iOS 27 is finally here, with the new Siri AI beta – and 120 security patches”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 215
+      "hotnessScore": 167
     },
     {
       "id": "24a158f4e6886994cc5cc59aef8d9f26",
@@ -35,7 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“OpenAI weighs funding round at $1.2tn valuation before IPO”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 197
+      "hotnessScore": 148
     },
     {
       "id": "23360c4d51b7cfcb3613fe33caff7421",
@@ -44,25 +71,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“AI models need more data about biology, and OpenAI is paying to create it”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 181
-    },
-    {
-      "id": "b2b09f7babcdb6cafda8f4230076621e",
-      "title": "Bannon and Sanders unite over AI safety as Trump condemns warnings as a ‘hoax’",
-      "url": "https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Bannon and Sanders unite over AI safety as Trump condemns warnings as a ‘hoax’”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 140
-    },
-    {
-      "id": "1d5b1e3f5c9983bc5e4c0353b0e2f2d5",
-      "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-      "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 136
+      "hotnessScore": 132
     },
     {
       "id": "234a39fbf2544fbad566c86a73cf1562",
@@ -81,6 +90,15 @@
       "question": "围绕“DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 100
+    },
+    {
+      "id": "1d5b1e3f5c9983bc5e4c0353b0e2f2d5",
+      "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+      "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 88
     },
     {
       "id": "4f1c2d79942125b22aad276e238d86d9",
