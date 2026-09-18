@@ -1,23 +1,50 @@
 {
-  "generatedAt": "2026-09-17T05:46:23.106Z",
+  "generatedAt": "2026-09-18T05:34:08.224Z",
   "items": [
     {
-      "id": "a5a7a313096b9ae7a3a861ff4067d550",
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "url": "https://openspec.dev/",
+      "id": "03918f1bae9f2943ea06c0745b385ce8",
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
       "source": "Hacker News · AI",
-      "question": "围绕“OpenSpec – A lightweight and configurable AI spec framework”需要重点关注哪些问题？",
+      "question": "围绕“Google announces new experimental \"CC\" AI agent for families”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 779
+      "hotnessScore": 453
     },
     {
-      "id": "cdda6a997f339fdc46f097882d8b75d4",
-      "title": "House advances bill to rein in AI data center utility costs",
-      "url": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
+      "id": "6e88ec4adf4407325c05fd989967f121",
+      "title": "Show HN: Timeline, a team project planner with a fast canvas Gantt view",
+      "url": "https://github.com/vakahnke/Timeline",
       "source": "Hacker News · AI",
-      "question": "围绕“House advances bill to rein in AI data center utility costs”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: Timeline, a team project planner with a fast canvas Gantt view”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 454
+      "hotnessScore": 446
+    },
+    {
+      "id": "d2872d5f598cd21d1b9a4bb858d0a0c4",
+      "title": "REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff",
+      "url": "https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 185
+    },
+    {
+      "id": "1e713e888344c1eda087faf87e88431a",
+      "title": "AI boom obscuring global trade disruptions, warns WTO chief",
+      "url": "https://www.ft.com/content/61f61355-5b21-4a48-b324-9bd4b5b6777b?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“AI boom obscuring global trade disruptions, warns WTO chief”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 173
+    },
+    {
+      "id": "4b8a01f3c6adcc5185625e5c34a15a68",
+      "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+      "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“A Chinese AI company just connected its model to Wall Street's leading data providers”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 172
     },
     {
       "id": "7eebe6bf1130aa7415eb827e0defb30a",
@@ -26,7 +53,7 @@
       "source": "Apple Machine Learning Research",
       "question": "围绕“Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 176
+      "hotnessScore": 129
     },
     {
       "id": "3b38c8b82cecb9468824f4e2c0040b6b",
@@ -35,7 +62,7 @@
       "source": "Apple Machine Learning Research",
       "question": "围绕“DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 176
+      "hotnessScore": 129
     },
     {
       "id": "ada94bed2cb51dc4af83b86417baa1c1",
@@ -44,7 +71,7 @@
       "source": "Apple Machine Learning Research",
       "question": "围绕“Shared Selective Persistent Memory for Agentic LLM Systems”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 172
+      "hotnessScore": 125
     },
     {
       "id": "c5e504d5daf2c67811f085eff46d63b1",
@@ -53,16 +80,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“iOS 27 is finally here, with the new Siri AI beta – and 120 security patches”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 167
-    },
-    {
-      "id": "24a158f4e6886994cc5cc59aef8d9f26",
-      "title": "OpenAI weighs funding round at $1.2tn valuation before IPO",
-      "url": "https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“OpenAI weighs funding round at $1.2tn valuation before IPO”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 148
+      "hotnessScore": 119
     },
     {
       "id": "23360c4d51b7cfcb3613fe33caff7421",
@@ -71,34 +89,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“AI models need more data about biology, and OpenAI is paying to create it”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 132
-    },
-    {
-      "id": "234a39fbf2544fbad566c86a73cf1562",
-      "title": "Eager to try iOS 27’s cool AI features and upgraded Siri? Get ready for usage limits",
-      "url": "https://www.zdnet.com/innovation/how-apple-will-limit-your-ai-use/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Eager to try iOS 27’s cool AI features and upgraded Siri? Get ready for usage limits”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 104
-    },
-    {
-      "id": "1aba57560165319ae095147a7e94479a",
-      "title": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
-      "url": "https://machinelearning.apple.com/research/discosign-gloss-translation",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 100
-    },
-    {
-      "id": "1d5b1e3f5c9983bc5e4c0353b0e2f2d5",
-      "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-      "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 88
+      "hotnessScore": 85
     },
     {
       "id": "4f1c2d79942125b22aad276e238d86d9",
@@ -117,6 +108,15 @@
       "question": "围绕“OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 62
+    },
+    {
+      "id": "1d5b1e3f5c9983bc5e4c0353b0e2f2d5",
+      "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+      "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 58
     }
   ]
 }
