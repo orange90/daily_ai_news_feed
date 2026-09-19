@@ -1,41 +1,23 @@
 {
-  "generatedAt": "2026-09-18T05:34:08.224Z",
+  "generatedAt": "2026-09-19T05:30:46.023Z",
   "items": [
     {
-      "id": "03918f1bae9f2943ea06c0745b385ce8",
-      "title": "Google announces new experimental \"CC\" AI agent for families",
-      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "id": "a8e21bdc7d5442c7ab0af62eb83006ec",
+      "title": "AI Regulation and the China Question",
+      "url": "https://casssunstein.substack.com/p/ai-regulation-and-the-china-question",
       "source": "Hacker News · AI",
-      "question": "围绕“Google announces new experimental \"CC\" AI agent for families”需要重点关注哪些问题？",
+      "question": "围绕“AI Regulation and the China Question”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 453
+      "hotnessScore": 460
     },
     {
-      "id": "6e88ec4adf4407325c05fd989967f121",
-      "title": "Show HN: Timeline, a team project planner with a fast canvas Gantt view",
-      "url": "https://github.com/vakahnke/Timeline",
+      "id": "912e308093c27207b78a4954f964c3bc",
+      "title": "Show HN: An OSS Python dependency scanner for exploited, unmaintained packages",
+      "url": "https://github.com/binuka200/package-doctor",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Timeline, a team project planner with a fast canvas Gantt view”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: An OSS Python dependency scanner for exploited, unmaintained packages”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 446
-    },
-    {
-      "id": "d2872d5f598cd21d1b9a4bb858d0a0c4",
-      "title": "REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff",
-      "url": "https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 185
-    },
-    {
-      "id": "1e713e888344c1eda087faf87e88431a",
-      "title": "AI boom obscuring global trade disruptions, warns WTO chief",
-      "url": "https://www.ft.com/content/61f61355-5b21-4a48-b324-9bd4b5b6777b?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“AI boom obscuring global trade disruptions, warns WTO chief”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 173
+      "hotnessScore": 455
     },
     {
       "id": "4b8a01f3c6adcc5185625e5c34a15a68",
@@ -44,34 +26,16 @@
       "source": "CNBC · Technology",
       "question": "围绕“A Chinese AI company just connected its model to Wall Street's leading data providers”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 172
+      "hotnessScore": 160
     },
     {
-      "id": "7eebe6bf1130aa7415eb827e0defb30a",
-      "title": "Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs",
-      "url": "https://machinelearning.apple.com/research/glyph-column-description-tagging",
+      "id": "d2872d5f598cd21d1b9a4bb858d0a0c4",
+      "title": "REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff",
+      "url": "https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
       "source": "Apple Machine Learning Research",
-      "question": "围绕“Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs”需要重点关注哪些问题？",
+      "question": "围绕“REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 129
-    },
-    {
-      "id": "3b38c8b82cecb9468824f4e2c0040b6b",
-      "title": "DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models",
-      "url": "https://machinelearning.apple.com/research/denoising-aware-credit-assignment",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 129
-    },
-    {
-      "id": "ada94bed2cb51dc4af83b86417baa1c1",
-      "title": "Shared Selective Persistent Memory for Agentic LLM Systems",
-      "url": "https://machinelearning.apple.com/research/shared-selective-persistent-memory",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“Shared Selective Persistent Memory for Agentic LLM Systems”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 125
+      "hotnessScore": 137
     },
     {
       "id": "c5e504d5daf2c67811f085eff46d63b1",
@@ -80,34 +44,34 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“iOS 27 is finally here, with the new Siri AI beta – and 120 security patches”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 119
+      "hotnessScore": 104
     },
     {
-      "id": "23360c4d51b7cfcb3613fe33caff7421",
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "source": "MIT Technology Review",
-      "question": "围绕“AI models need more data about biology, and OpenAI is paying to create it”需要重点关注哪些问题？",
+      "id": "7eebe6bf1130aa7415eb827e0defb30a",
+      "title": "Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs",
+      "url": "https://machinelearning.apple.com/research/glyph-column-description-tagging",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 85
+      "hotnessScore": 92
     },
     {
-      "id": "4f1c2d79942125b22aad276e238d86d9",
-      "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
-      "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model”需要重点关注哪些问题？",
+      "id": "3b38c8b82cecb9468824f4e2c0040b6b",
+      "title": "DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+      "url": "https://machinelearning.apple.com/research/denoising-aware-credit-assignment",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 62
+      "hotnessScore": 92
     },
     {
-      "id": "d9366c60a0d8be0f76649de09d1db2e9",
-      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-      "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services”需要重点关注哪些问题？",
+      "id": "ada94bed2cb51dc4af83b86417baa1c1",
+      "title": "Shared Selective Persistent Memory for Agentic LLM Systems",
+      "url": "https://machinelearning.apple.com/research/shared-selective-persistent-memory",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“Shared Selective Persistent Memory for Agentic LLM Systems”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 62
+      "hotnessScore": 88
     },
     {
       "id": "1d5b1e3f5c9983bc5e4c0353b0e2f2d5",
