@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-19T05:30:46.023Z",
+  "generatedAt": "2026-09-20T05:44:33.356Z",
   "items": [
     {
-      "id": "a8e21bdc7d5442c7ab0af62eb83006ec",
-      "title": "AI Regulation and the China Question",
-      "url": "https://casssunstein.substack.com/p/ai-regulation-and-the-china-question",
+      "id": "f6858808acd9678118cdbe7eb7b2f56f",
+      "title": "AI investment, govt borrowing drive global cost of capital higher: Goldman Sachs",
+      "url": "https://www.tribuneindia.com/news/business/ai-investment-government-borrowing-drive-global-cost-of-capital-higher-goldman-sachs/",
       "source": "Hacker News · AI",
-      "question": "围绕“AI Regulation and the China Question”需要重点关注哪些问题？",
+      "question": "围绕“AI investment, govt borrowing drive global cost of capital higher: Goldman Sachs”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 460
+      "hotnessScore": 454
     },
     {
-      "id": "912e308093c27207b78a4954f964c3bc",
-      "title": "Show HN: An OSS Python dependency scanner for exploited, unmaintained packages",
-      "url": "https://github.com/binuka200/package-doctor",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: An OSS Python dependency scanner for exploited, unmaintained packages”需要重点关注哪些问题？",
+      "id": "3f88fe065e8f39d6a6f45b8b7bc64830",
+      "title": "Trump announces ‘AI Force’ as alarm grows over technology’s advance",
+      "url": "https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Trump announces ‘AI Force’ as alarm grows over technology’s advance”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 455
+      "hotnessScore": 204
     },
     {
       "id": "4b8a01f3c6adcc5185625e5c34a15a68",
@@ -26,16 +26,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“A Chinese AI company just connected its model to Wall Street's leading data providers”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 160
-    },
-    {
-      "id": "d2872d5f598cd21d1b9a4bb858d0a0c4",
-      "title": "REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff",
-      "url": "https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 137
+      "hotnessScore": 112
     },
     {
       "id": "c5e504d5daf2c67811f085eff46d63b1",
@@ -45,6 +36,15 @@
       "question": "围绕“iOS 27 is finally here, with the new Siri AI beta – and 120 security patches”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 104
+    },
+    {
+      "id": "d2872d5f598cd21d1b9a4bb858d0a0c4",
+      "title": "REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff",
+      "url": "https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 100
     },
     {
       "id": "7eebe6bf1130aa7415eb827e0defb30a",
