@@ -1,14 +1,41 @@
 {
-  "generatedAt": "2026-09-20T05:44:33.356Z",
+  "generatedAt": "2026-09-21T05:55:35.907Z",
   "items": [
     {
-      "id": "f6858808acd9678118cdbe7eb7b2f56f",
-      "title": "AI investment, govt borrowing drive global cost of capital higher: Goldman Sachs",
-      "url": "https://www.tribuneindia.com/news/business/ai-investment-government-borrowing-drive-global-cost-of-capital-higher-goldman-sachs/",
+      "id": "0e58637b4115314527f3b4b064b1ce53",
+      "title": "What Is Coastline Index and Why Focus Only on Confirmed GTA VI Facts?",
+      "url": "https://news.ycombinator.com/item?id=49782310",
       "source": "Hacker News · AI",
-      "question": "围绕“AI investment, govt borrowing drive global cost of capital higher: Goldman Sachs”需要重点关注哪些问题？",
+      "question": "围绕“What Is Coastline Index and Why Focus Only on Confirmed GTA VI Facts?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 454
+      "hotnessScore": 466
+    },
+    {
+      "id": "3f8da229e6e2106a27b5ad45b186006d",
+      "title": "A Silicon Valley radical: Trump's AI whisperer pushing for limited regulation",
+      "url": "https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar",
+      "source": "Hacker News · AI",
+      "question": "围绕“A Silicon Valley radical: Trump's AI whisperer pushing for limited regulation”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 457
+    },
+    {
+      "id": "9c7fd0e554e37be40b4bac334b723412",
+      "title": "Investment Seer: Agentic AI-Powered Stock and Crypto Analyst",
+      "url": "https://investmentseer.com/",
+      "source": "Hacker News · AI",
+      "question": "围绕“Investment Seer: Agentic AI-Powered Stock and Crypto Analyst”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 455
+    },
+    {
+      "id": "b415dcf117c01fb2bceb215f58268b11",
+      "title": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
+      "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Big Tech uses guarantees to keep $300bn AI exposure off balance sheets”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 166
     },
     {
       "id": "3f88fe065e8f39d6a6f45b8b7bc64830",
@@ -17,16 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Trump announces ‘AI Force’ as alarm grows over technology’s advance”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 204
-    },
-    {
-      "id": "4b8a01f3c6adcc5185625e5c34a15a68",
-      "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
-      "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“A Chinese AI company just connected its model to Wall Street's leading data providers”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 112
+      "hotnessScore": 156
     },
     {
       "id": "c5e504d5daf2c67811f085eff46d63b1",
@@ -72,6 +90,15 @@
       "question": "围绕“Shared Selective Persistent Memory for Agentic LLM Systems”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 88
+    },
+    {
+      "id": "4b8a01f3c6adcc5185625e5c34a15a68",
+      "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+      "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“A Chinese AI company just connected its model to Wall Street's leading data providers”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 64
     },
     {
       "id": "1d5b1e3f5c9983bc5e4c0353b0e2f2d5",
