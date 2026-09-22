@@ -1,32 +1,50 @@
 {
-  "generatedAt": "2026-09-21T05:55:35.907Z",
+  "generatedAt": "2026-09-22T05:52:34.185Z",
   "items": [
     {
-      "id": "0e58637b4115314527f3b4b064b1ce53",
-      "title": "What Is Coastline Index and Why Focus Only on Confirmed GTA VI Facts?",
-      "url": "https://news.ycombinator.com/item?id=49782310",
+      "id": "6fb09e0ae3234dd27ca6392b8a9f57f8",
+      "title": "Ask HN: How do you sell a small bootstrapped SaaS?",
+      "url": "https://news.ycombinator.com/item?id=49796057",
       "source": "Hacker News · AI",
-      "question": "围绕“What Is Coastline Index and Why Focus Only on Confirmed GTA VI Facts?”需要重点关注哪些问题？",
+      "question": "围绕“Ask HN: How do you sell a small bootstrapped SaaS?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 466
+      "hotnessScore": 451
     },
     {
-      "id": "3f8da229e6e2106a27b5ad45b186006d",
-      "title": "A Silicon Valley radical: Trump's AI whisperer pushing for limited regulation",
-      "url": "https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar",
+      "id": "6ea517a1c55bcfbaaad4f991d992ecdc",
+      "title": "Brad Smith and Kevin Rudd on AI, Regulation, and the Future of Work [video]",
+      "url": "https://www.youtube.com/watch?v=hClbN_imH5Y",
       "source": "Hacker News · AI",
-      "question": "围绕“A Silicon Valley radical: Trump's AI whisperer pushing for limited regulation”需要重点关注哪些问题？",
+      "question": "围绕“Brad Smith and Kevin Rudd on AI, Regulation, and the Future of Work [video]”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 457
+      "hotnessScore": 449
     },
     {
-      "id": "9c7fd0e554e37be40b4bac334b723412",
-      "title": "Investment Seer: Agentic AI-Powered Stock and Crypto Analyst",
-      "url": "https://investmentseer.com/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Investment Seer: Agentic AI-Powered Stock and Crypto Analyst”需要重点关注哪些问题？",
+      "id": "8e2d13afcced3ce9de8c06ebae206c20",
+      "title": "OpenAI sued by Canadian province over role in mass shooting",
+      "url": "https://www.ft.com/content/30d2f29b-e750-4a90-9e8d-b1a7f14e4908?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“OpenAI sued by Canadian province over role in mass shooting”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 455
+      "hotnessScore": 207
+    },
+    {
+      "id": "dc67ddbd9ffb690e6f0aa8d78f7ad454",
+      "title": "Amazon launches research initiative with Stanford University to advance AI and science",
+      "url": "https://www.amazon.science/news/amazon-launches-research-initiative-with-stanford-university-to-advance-ai-and-science",
+      "source": "Amazon Science",
+      "question": "围绕“Amazon launches research initiative with Stanford University to advance AI and science”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 201
+    },
+    {
+      "id": "16eff785bb0f6fc965d4fc3e400c8966",
+      "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+      "url": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 193
     },
     {
       "id": "b415dcf117c01fb2bceb215f58268b11",
@@ -35,7 +53,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Big Tech uses guarantees to keep $300bn AI exposure off balance sheets”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 166
+      "hotnessScore": 118
     },
     {
       "id": "3f88fe065e8f39d6a6f45b8b7bc64830",
@@ -44,7 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Trump announces ‘AI Force’ as alarm grows over technology’s advance”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 156
+      "hotnessScore": 108
     },
     {
       "id": "c5e504d5daf2c67811f085eff46d63b1",
@@ -97,15 +115,6 @@
       "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
       "source": "CNBC · Technology",
       "question": "围绕“A Chinese AI company just connected its model to Wall Street's leading data providers”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 64
-    },
-    {
-      "id": "1d5b1e3f5c9983bc5e4c0353b0e2f2d5",
-      "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-      "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 58
     }
