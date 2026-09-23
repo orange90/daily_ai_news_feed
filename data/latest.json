@@ -1,23 +1,14 @@
 {
-  "generatedAt": "2026-09-22T05:52:34.185Z",
+  "generatedAt": "2026-09-23T05:30:48.662Z",
   "items": [
     {
-      "id": "6fb09e0ae3234dd27ca6392b8a9f57f8",
-      "title": "Ask HN: How do you sell a small bootstrapped SaaS?",
-      "url": "https://news.ycombinator.com/item?id=49796057",
-      "source": "Hacker News · AI",
-      "question": "围绕“Ask HN: How do you sell a small bootstrapped SaaS?”需要重点关注哪些问题？",
+      "id": "0fb52cadf9bf2bf74664dfc04f622a31",
+      "title": "Anthropic and OpenAI release cheaper models as price war intensifies",
+      "url": "https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic and OpenAI release cheaper models as price war intensifies”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 451
-    },
-    {
-      "id": "6ea517a1c55bcfbaaad4f991d992ecdc",
-      "title": "Brad Smith and Kevin Rudd on AI, Regulation, and the Future of Work [video]",
-      "url": "https://www.youtube.com/watch?v=hClbN_imH5Y",
-      "source": "Hacker News · AI",
-      "question": "围绕“Brad Smith and Kevin Rudd on AI, Regulation, and the Future of Work [video]”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 449
+      "hotnessScore": 198
     },
     {
       "id": "8e2d13afcced3ce9de8c06ebae206c20",
@@ -26,7 +17,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“OpenAI sued by Canadian province over role in mass shooting”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 207
+      "hotnessScore": 160
     },
     {
       "id": "dc67ddbd9ffb690e6f0aa8d78f7ad454",
@@ -35,7 +26,7 @@
       "source": "Amazon Science",
       "question": "围绕“Amazon launches research initiative with Stanford University to advance AI and science”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 201
+      "hotnessScore": 154
     },
     {
       "id": "16eff785bb0f6fc965d4fc3e400c8966",
@@ -44,34 +35,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 193
-    },
-    {
-      "id": "b415dcf117c01fb2bceb215f58268b11",
-      "title": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
-      "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Big Tech uses guarantees to keep $300bn AI exposure off balance sheets”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 118
-    },
-    {
-      "id": "3f88fe065e8f39d6a6f45b8b7bc64830",
-      "title": "Trump announces ‘AI Force’ as alarm grows over technology’s advance",
-      "url": "https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Trump announces ‘AI Force’ as alarm grows over technology’s advance”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 108
-    },
-    {
-      "id": "c5e504d5daf2c67811f085eff46d63b1",
-      "title": "iOS 27 is finally here, with the new Siri AI beta – and 120 security patches",
-      "url": "https://www.zdnet.com/business/ios-27-siri-ai-beta-how-to-try/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“iOS 27 is finally here, with the new Siri AI beta – and 120 security patches”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 104
+      "hotnessScore": 146
     },
     {
       "id": "d2872d5f598cd21d1b9a4bb858d0a0c4",
@@ -83,31 +47,22 @@
       "hotnessScore": 100
     },
     {
-      "id": "7eebe6bf1130aa7415eb827e0defb30a",
-      "title": "Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs",
-      "url": "https://machinelearning.apple.com/research/glyph-column-description-tagging",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs”需要重点关注哪些问题？",
+      "id": "3f88fe065e8f39d6a6f45b8b7bc64830",
+      "title": "Trump announces ‘AI Force’ as alarm grows over technology’s advance",
+      "url": "https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Trump announces ‘AI Force’ as alarm grows over technology’s advance”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 92
+      "hotnessScore": 80
     },
     {
-      "id": "3b38c8b82cecb9468824f4e2c0040b6b",
-      "title": "DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models",
-      "url": "https://machinelearning.apple.com/research/denoising-aware-credit-assignment",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models”需要重点关注哪些问题？",
+      "id": "b415dcf117c01fb2bceb215f58268b11",
+      "title": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
+      "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Big Tech uses guarantees to keep $300bn AI exposure off balance sheets”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 92
-    },
-    {
-      "id": "ada94bed2cb51dc4af83b86417baa1c1",
-      "title": "Shared Selective Persistent Memory for Agentic LLM Systems",
-      "url": "https://machinelearning.apple.com/research/shared-selective-persistent-memory",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“Shared Selective Persistent Memory for Agentic LLM Systems”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 88
+      "hotnessScore": 71
     },
     {
       "id": "4b8a01f3c6adcc5185625e5c34a15a68",
