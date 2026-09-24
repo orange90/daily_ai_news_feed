@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-23T05:30:48.662Z",
+  "generatedAt": "2026-09-24T05:52:29.049Z",
   "items": [
+    {
+      "id": "256729dae62c4339772c0ba2f3968b5d",
+      "title": "Stanford violated AI policy after race-swapping students in ad",
+      "url": "https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php",
+      "source": "Hacker News · AI",
+      "question": "围绕“Stanford violated AI policy after race-swapping students in ad”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 518
+    },
+    {
+      "id": "f83a0c00657e0c2724c9dd315e5496dc",
+      "title": "AI startups with hyper ARR growth – what's happening inside these companies?",
+      "url": "https://news.ycombinator.com/item?id=49824887",
+      "source": "Hacker News · AI",
+      "question": "围绕“AI startups with hyper ARR growth – what's happening inside these companies?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 451
+    },
+    {
+      "id": "fc49a4dac4e374fa0a1e42b8338e3a36",
+      "title": "Show HN: Chatlo – an iOS-native AI agent, now with Jev",
+      "url": "https://apps.apple.com/us/app/chatlo-ai-chat-agent/id6771188943",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Chatlo – an iOS-native AI agent, now with Jev”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 448
+    },
+    {
+      "id": "63df186e5d5b7eeae0256623d5b0d80f",
+      "title": "Zuckerberg unveils AI ‘charm’ device that can fit on a keychain",
+      "url": "https://www.ft.com/content/f4770cdf-626e-41e3-9db0-3dc0b64b8c00?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Zuckerberg unveils AI ‘charm’ device that can fit on a keychain”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 205
+    },
     {
       "id": "0fb52cadf9bf2bf74664dfc04f622a31",
       "title": "Anthropic and OpenAI release cheaper models as price war intensifies",
@@ -8,7 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic and OpenAI release cheaper models as price war intensifies”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 198
+      "hotnessScore": 149
     },
     {
       "id": "8e2d13afcced3ce9de8c06ebae206c20",
@@ -17,7 +53,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“OpenAI sued by Canadian province over role in mass shooting”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 160
+      "hotnessScore": 111
     },
     {
       "id": "dc67ddbd9ffb690e6f0aa8d78f7ad454",
@@ -26,7 +62,7 @@
       "source": "Amazon Science",
       "question": "围绕“Amazon launches research initiative with Stanford University to advance AI and science”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 154
+      "hotnessScore": 105
     },
     {
       "id": "16eff785bb0f6fc965d4fc3e400c8966",
@@ -35,34 +71,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 146
-    },
-    {
-      "id": "d2872d5f598cd21d1b9a4bb858d0a0c4",
-      "title": "REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff",
-      "url": "https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 100
-    },
-    {
-      "id": "3f88fe065e8f39d6a6f45b8b7bc64830",
-      "title": "Trump announces ‘AI Force’ as alarm grows over technology’s advance",
-      "url": "https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Trump announces ‘AI Force’ as alarm grows over technology’s advance”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 80
-    },
-    {
-      "id": "b415dcf117c01fb2bceb215f58268b11",
-      "title": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
-      "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Big Tech uses guarantees to keep $300bn AI exposure off balance sheets”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 71
+      "hotnessScore": 97
     },
     {
       "id": "4b8a01f3c6adcc5185625e5c34a15a68",
