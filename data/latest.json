@@ -1,32 +1,77 @@
 {
-  "generatedAt": "2026-09-24T05:52:29.049Z",
+  "generatedAt": "2026-09-25T05:51:09.466Z",
   "items": [
     {
-      "id": "256729dae62c4339772c0ba2f3968b5d",
-      "title": "Stanford violated AI policy after race-swapping students in ad",
-      "url": "https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php",
+      "id": "7b72f1b9a27b39897ba2ceb311fad0d8",
+      "title": "OpenAI attacked Australia's health system and doubled down. Time to act",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/25/open-ai-attacked-australias-health-system-and-then-doubled-down-on-its-negligence-the-time-for-wait-and-see-is-over",
       "source": "Hacker News · AI",
-      "question": "围绕“Stanford violated AI policy after race-swapping students in ad”需要重点关注哪些问题？",
+      "question": "围绕“OpenAI attacked Australia's health system and doubled down. Time to act”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 518
+      "hotnessScore": 472
     },
     {
-      "id": "f83a0c00657e0c2724c9dd315e5496dc",
-      "title": "AI startups with hyper ARR growth – what's happening inside these companies?",
-      "url": "https://news.ycombinator.com/item?id=49824887",
+      "id": "e07efaf6cd4029c24eb48f9004fd3e6a",
+      "title": "Positron Valued at $5B in New Funding as Demand for AI Chips Surges",
+      "url": "https://www.wsj.com/tech/ai/positron-valued-at-5-billion-in-new-funding-as-cpu-demand-surges-76dde819",
       "source": "Hacker News · AI",
-      "question": "围绕“AI startups with hyper ARR growth – what's happening inside these companies?”需要重点关注哪些问题？",
+      "question": "围绕“Positron Valued at $5B in New Funding as Demand for AI Chips Surges”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 451
+      "hotnessScore": 449
     },
     {
-      "id": "fc49a4dac4e374fa0a1e42b8338e3a36",
-      "title": "Show HN: Chatlo – an iOS-native AI agent, now with Jev",
-      "url": "https://apps.apple.com/us/app/chatlo-ai-chat-agent/id6771188943",
+      "id": "9d1fb721177fafbeb7f648c294d8ba40",
+      "title": "Award-Winning French Author Accused of Using AI to Write Debut Novel",
+      "url": "https://www.cbc.ca/news/canada/montreal/thelyson-orelien-ai-scandal-9.7355167",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Chatlo – an iOS-native AI agent, now with Jev”需要重点关注哪些问题？",
+      "question": "围绕“Award-Winning French Author Accused of Using AI to Write Debut Novel”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 448
+      "hotnessScore": 444
+    },
+    {
+      "id": "b5107174e8585960a1d0d383e94e4e11",
+      "title": "AI agent kill switch urged by Okta-led alliance – how businesses could make it work",
+      "url": "https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“AI agent kill switch urged by Okta-led alliance – how businesses could make it work”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 224
+    },
+    {
+      "id": "74b8920a9b31137888dd990908e1ba70",
+      "title": "AI pressure grows for law firm business models",
+      "url": "https://www.ft.com/content/2390e0c8-7211-4140-90b9-83518a72334b?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“AI pressure grows for law firm business models”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 212
+    },
+    {
+      "id": "92a29c4ae8d26f5258fd476cb512bb4a",
+      "title": "The AI agent revolution has moved a big step closer",
+      "url": "https://www.ft.com/content/e60b40b6-dae5-4ccf-83cc-978269cbcaa5?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“The AI agent revolution has moved a big step closer”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 191
+    },
+    {
+      "id": "b0a448856f125c1884f1a3e0e9008d57",
+      "title": "Goldman reaped more than $200mn in fees from hedge fund Situational Awareness",
+      "url": "https://www.ft.com/content/bdec4129-ccac-4149-aa53-90ddd50cb925?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Goldman reaped more than $200mn in fees from hedge fund Situational Awareness”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 188
+    },
+    {
+      "id": "3da018094476591ab811062defe4674c",
+      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The Download: a bid to scrap the virtual wall and AI hits Climate Week”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 185
     },
     {
       "id": "63df186e5d5b7eeae0256623d5b0d80f",
@@ -35,25 +80,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Zuckerberg unveils AI ‘charm’ device that can fit on a keychain”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 205
-    },
-    {
-      "id": "0fb52cadf9bf2bf74664dfc04f622a31",
-      "title": "Anthropic and OpenAI release cheaper models as price war intensifies",
-      "url": "https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Anthropic and OpenAI release cheaper models as price war intensifies”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 149
-    },
-    {
-      "id": "8e2d13afcced3ce9de8c06ebae206c20",
-      "title": "OpenAI sued by Canadian province over role in mass shooting",
-      "url": "https://www.ft.com/content/30d2f29b-e750-4a90-9e8d-b1a7f14e4908?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“OpenAI sued by Canadian province over role in mass shooting”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 111
+      "hotnessScore": 157
     },
     {
       "id": "dc67ddbd9ffb690e6f0aa8d78f7ad454",
@@ -62,7 +89,7 @@
       "source": "Amazon Science",
       "question": "围绕“Amazon launches research initiative with Stanford University to advance AI and science”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 105
+      "hotnessScore": 78
     },
     {
       "id": "16eff785bb0f6fc965d4fc3e400c8966",
@@ -71,7 +98,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 97
+      "hotnessScore": 58
     },
     {
       "id": "4b8a01f3c6adcc5185625e5c34a15a68",
