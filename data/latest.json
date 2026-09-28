@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-27T06:15:29.214Z",
+  "generatedAt": "2026-09-28T06:20:22.133Z",
   "items": [
+    {
+      "id": "825c7db18c5bce0a27be249237b658d8",
+      "title": "\"The refrigerator is dead\": Samsung's AI fridges shut down after update",
+      "url": "https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html",
+      "source": "Hacker News · AI",
+      "question": "围绕“\"The refrigerator is dead\": Samsung's AI fridges shut down after update”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 465
+    },
+    {
+      "id": "d5a0faed7b66a1fdddcbb00eb17870bb",
+      "title": "Financing of historic AI buildout raises systemic risks in US, researcher says",
+      "url": "https://www.reuters.com/business/finance/financing-historic-ai-buildout-raises-systemic-risks-us-researcher-says-2026-09-24/",
+      "source": "Hacker News · AI",
+      "question": "围绕“Financing of historic AI buildout raises systemic risks in US, researcher says”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 444
+    },
     {
       "id": "f7df04b7bfbdd7fe14bf5ac95e54ee9d",
       "title": "Big companies warn lack of ‘AI openness’ could hit investment in Europe",
@@ -8,7 +26,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Big companies warn lack of ‘AI openness’ could hit investment in Europe”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 207
+      "hotnessScore": 159
     },
     {
       "id": "2c718526311a71b2d0bffdf6c7934122",
@@ -17,16 +35,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“The 10-year Treasury yield is at its highest in nearly two decades. How we got here”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 168
-    },
-    {
-      "id": "a06ff246628f78dfa6613be13d5ef404",
-      "title": "Bill Gates warns AI could cause ‘a billion deaths’",
-      "url": "https://www.ft.com/content/1ade33b1-b5eb-43bb-9ee4-2272ec91fa5b?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Bill Gates warns AI could cause ‘a billion deaths’”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 136
+      "hotnessScore": 120
     },
     {
       "id": "b5107174e8585960a1d0d383e94e4e11",
@@ -35,41 +44,14 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“AI agent kill switch urged by Okta-led alliance – how businesses could make it work”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 128
+      "hotnessScore": 108
     },
     {
-      "id": "74b8920a9b31137888dd990908e1ba70",
-      "title": "AI pressure grows for law firm business models",
-      "url": "https://www.ft.com/content/2390e0c8-7211-4140-90b9-83518a72334b?syn-25a6b1a6=1",
+      "id": "a06ff246628f78dfa6613be13d5ef404",
+      "title": "Bill Gates warns AI could cause ‘a billion deaths’",
+      "url": "https://www.ft.com/content/1ade33b1-b5eb-43bb-9ee4-2272ec91fa5b?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“AI pressure grows for law firm business models”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 115
-    },
-    {
-      "id": "92a29c4ae8d26f5258fd476cb512bb4a",
-      "title": "The AI agent revolution has moved a big step closer",
-      "url": "https://www.ft.com/content/e60b40b6-dae5-4ccf-83cc-978269cbcaa5?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“The AI agent revolution has moved a big step closer”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 95
-    },
-    {
-      "id": "b0a448856f125c1884f1a3e0e9008d57",
-      "title": "Goldman reaped more than $200mn in fees from hedge fund Situational Awareness",
-      "url": "https://www.ft.com/content/bdec4129-ccac-4149-aa53-90ddd50cb925?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Goldman reaped more than $200mn in fees from hedge fund Situational Awareness”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 91
-    },
-    {
-      "id": "3da018094476591ab811062defe4674c",
-      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-      "source": "MIT Technology Review",
-      "question": "围绕“The Download: a bid to scrap the virtual wall and AI hits Climate Week”需要重点关注哪些问题？",
+      "question": "围绕“Bill Gates warns AI could cause ‘a billion deaths’”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 88
     },
@@ -81,6 +63,24 @@
       "question": "围绕“Amazon launches research initiative with Stanford University to advance AI and science”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 78
+    },
+    {
+      "id": "3da018094476591ab811062defe4674c",
+      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The Download: a bid to scrap the virtual wall and AI hits Climate Week”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 76
+    },
+    {
+      "id": "74b8920a9b31137888dd990908e1ba70",
+      "title": "AI pressure grows for law firm business models",
+      "url": "https://www.ft.com/content/2390e0c8-7211-4140-90b9-83518a72334b?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“AI pressure grows for law firm business models”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 72
     },
     {
       "id": "16eff785bb0f6fc965d4fc3e400c8966",
