@@ -1,23 +1,68 @@
 {
-  "generatedAt": "2026-09-28T06:20:22.133Z",
+  "generatedAt": "2026-09-29T06:35:52.336Z",
   "items": [
     {
-      "id": "825c7db18c5bce0a27be249237b658d8",
-      "title": "\"The refrigerator is dead\": Samsung's AI fridges shut down after update",
-      "url": "https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html",
+      "id": "907f4803b480342c5fdfbfb02e3eb284",
+      "title": "OpenAI Halts Model Release Amid Safety Escalation",
+      "url": "https://www.techbuzz.ai/articles/openai-halts-model-release-amid-safety-escalation",
       "source": "Hacker News · AI",
-      "question": "围绕“\"The refrigerator is dead\": Samsung's AI fridges shut down after update”需要重点关注哪些问题？",
+      "question": "围绕“OpenAI Halts Model Release Amid Safety Escalation”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 465
+      "hotnessScore": 453
     },
     {
-      "id": "d5a0faed7b66a1fdddcbb00eb17870bb",
-      "title": "Financing of historic AI buildout raises systemic risks in US, researcher says",
-      "url": "https://www.reuters.com/business/finance/financing-historic-ai-buildout-raises-systemic-risks-us-researcher-says-2026-09-24/",
+      "id": "4fe2aa5c8ec6f9b224b9df7f9aa11617",
+      "title": "OpenAI scraps release of new AI model over safety concerns",
+      "url": "https://www.cbc.ca/news/world/openai-scraps-planned-release-gpt-6-1-astra-9.7361910",
       "source": "Hacker News · AI",
-      "question": "围绕“Financing of historic AI buildout raises systemic risks in US, researcher says”需要重点关注哪些问题？",
+      "question": "围绕“OpenAI scraps release of new AI model over safety concerns”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 452
+    },
+    {
+      "id": "bc8899ea7a37815dde2e1ce1f2e032c9",
+      "title": "Show HN: Interactive Diesel Price Forecaster",
+      "url": "https://sightspinner.ai/blog/diesel-prices-are-high-here-s-why-they-might-go-higher-2026-09-29.html",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Interactive Diesel Price Forecaster”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 447
+    },
+    {
+      "id": "afe03ccef814ed10929fa9cb70d64617",
+      "title": "Nvidia announces AI safety platform",
+      "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+      "source": "Hacker News · AI",
+      "question": "围绕“Nvidia announces AI safety platform”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 444
+    },
+    {
+      "id": "b4e2ef0f5ce010c1d976cc13fa898d14",
+      "title": "Nvidia turns to insurers to spread the risk of AI build-out",
+      "url": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Nvidia turns to insurers to spread the risk of AI build-out”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 207
+    },
+    {
+      "id": "d9155561ee5e7eea8952f9a11fdaea60",
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "source": "MIT Technology Review",
+      "question": "围绕“When can we say AI made a scientific discovery?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 197
+    },
+    {
+      "id": "c01ad9c298288ef1891cbeb9e4d24d5b",
+      "title": "Meta launches enterprise AI business seeking to cash in on vast spending",
+      "url": "https://www.ft.com/content/fbe0a48f-4d33-42eb-8d2c-79f662c88678?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Meta launches enterprise AI business seeking to cash in on vast spending”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 183
     },
     {
       "id": "f7df04b7bfbdd7fe14bf5ac95e54ee9d",
@@ -26,16 +71,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Big companies warn lack of ‘AI openness’ could hit investment in Europe”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 159
-    },
-    {
-      "id": "2c718526311a71b2d0bffdf6c7934122",
-      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
-      "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“The 10-year Treasury yield is at its highest in nearly two decades. How we got here”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 120
+      "hotnessScore": 111
     },
     {
       "id": "b5107174e8585960a1d0d383e94e4e11",
@@ -47,24 +83,6 @@
       "hotnessScore": 108
     },
     {
-      "id": "a06ff246628f78dfa6613be13d5ef404",
-      "title": "Bill Gates warns AI could cause ‘a billion deaths’",
-      "url": "https://www.ft.com/content/1ade33b1-b5eb-43bb-9ee4-2272ec91fa5b?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Bill Gates warns AI could cause ‘a billion deaths’”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 88
-    },
-    {
-      "id": "dc67ddbd9ffb690e6f0aa8d78f7ad454",
-      "title": "Amazon launches research initiative with Stanford University to advance AI and science",
-      "url": "https://www.amazon.science/news/amazon-launches-research-initiative-with-stanford-university-to-advance-ai-and-science",
-      "source": "Amazon Science",
-      "question": "围绕“Amazon launches research initiative with Stanford University to advance AI and science”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 78
-    },
-    {
       "id": "3da018094476591ab811062defe4674c",
       "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
       "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
@@ -74,22 +92,13 @@
       "hotnessScore": 76
     },
     {
-      "id": "74b8920a9b31137888dd990908e1ba70",
-      "title": "AI pressure grows for law firm business models",
-      "url": "https://www.ft.com/content/2390e0c8-7211-4140-90b9-83518a72334b?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“AI pressure grows for law firm business models”需要重点关注哪些问题？",
+      "id": "2c718526311a71b2d0bffdf6c7934122",
+      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+      "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“The 10-year Treasury yield is at its highest in nearly two decades. How we got here”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 72
-    },
-    {
-      "id": "16eff785bb0f6fc965d4fc3e400c8966",
-      "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
-      "url": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 58
     }
   ]
 }
