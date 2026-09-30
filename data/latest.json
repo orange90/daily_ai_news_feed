@@ -1,41 +1,77 @@
 {
-  "generatedAt": "2026-09-29T06:35:52.336Z",
+  "generatedAt": "2026-09-30T06:18:57.084Z",
   "items": [
     {
-      "id": "907f4803b480342c5fdfbfb02e3eb284",
-      "title": "OpenAI Halts Model Release Amid Safety Escalation",
-      "url": "https://www.techbuzz.ai/articles/openai-halts-model-release-amid-safety-escalation",
+      "id": "c0c22a0395c5d01f464abc57e001e738",
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "url": "https://agmai.org/general-sep29/",
       "source": "Hacker News · AI",
-      "question": "围绕“OpenAI Halts Model Release Amid Safety Escalation”需要重点关注哪些问题？",
+      "question": "围绕“Responsible Release of AI-Generated Mathematics”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 453
+      "hotnessScore": 530
     },
     {
-      "id": "4fe2aa5c8ec6f9b224b9df7f9aa11617",
-      "title": "OpenAI scraps release of new AI model over safety concerns",
-      "url": "https://www.cbc.ca/news/world/openai-scraps-planned-release-gpt-6-1-astra-9.7361910",
+      "id": "252841b0dc5d4ea902173d003ff42540",
+      "title": "Liquid AI releases decision model D1",
+      "url": "https://docs.liquid.ai/lfm/models/decision-models",
       "source": "Hacker News · AI",
-      "question": "围绕“OpenAI scraps release of new AI model over safety concerns”需要重点关注哪些问题？",
+      "question": "围绕“Liquid AI releases decision model D1”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 458
+    },
+    {
+      "id": "961b124ae3a0ecdc8c97abd173633a8f",
+      "title": "Show HN: Instapath – your personal agent needs something, another agent has it",
+      "url": "https://instapath.ai/",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Instapath – your personal agent needs something, another agent has it”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 457
+    },
+    {
+      "id": "32a367477d0a90d1a9b28cc09fc83a43",
+      "title": "Inspect: An open-source framework for large language model evaluations",
+      "url": "https://inspect.aisi.org.uk/",
+      "source": "Hacker News · AI",
+      "question": "围绕“Inspect: An open-source framework for large language model evaluations”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 452
     },
     {
-      "id": "bc8899ea7a37815dde2e1ce1f2e032c9",
-      "title": "Show HN: Interactive Diesel Price Forecaster",
-      "url": "https://sightspinner.ai/blog/diesel-prices-are-high-here-s-why-they-might-go-higher-2026-09-29.html",
+      "id": "a3502727900ba1fd453c0d101a31fa5a",
+      "title": "Show HN: InfiniHash App Store – compliance tools built end-to-end by AI agents",
+      "url": "https://apps.infinihash.com/",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Interactive Diesel Price Forecaster”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: InfiniHash App Store – compliance tools built end-to-end by AI agents”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 447
+      "hotnessScore": 448
     },
     {
-      "id": "afe03ccef814ed10929fa9cb70d64617",
-      "title": "Nvidia announces AI safety platform",
-      "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-      "source": "Hacker News · AI",
-      "question": "围绕“Nvidia announces AI safety platform”需要重点关注哪些问题？",
+      "id": "d1148b01f95193fff578814007ea4dbf",
+      "title": "LLMjacking can run up your business’ AI bill fast – how to stop it",
+      "url": "https://www.zdnet.com/innovation/llmjacking-business-ai-bill-cost-how-to-stop/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“LLMjacking can run up your business’ AI bill fast – how to stop it”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 444
+      "hotnessScore": 234
+    },
+    {
+      "id": "76c78ba7bda6e3429f1e6d865a4563a2",
+      "title": "Trump shrugs off AI regulation",
+      "url": "https://www.ft.com/content/89a294af-4794-4d60-9421-45bafe48387f?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Trump shrugs off AI regulation”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 211
+    },
+    {
+      "id": "27145fe2c201b58bb290e412a92b1011",
+      "title": "Trump praises tech bosses’ ‘tremendous self-regulation’ of AI",
+      "url": "https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Trump praises tech bosses’ ‘tremendous self-regulation’ of AI”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 202
     },
     {
       "id": "b4e2ef0f5ce010c1d976cc13fa898d14",
@@ -44,7 +80,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Nvidia turns to insurers to spread the risk of AI build-out”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 207
+      "hotnessScore": 160
     },
     {
       "id": "d9155561ee5e7eea8952f9a11fdaea60",
@@ -53,7 +89,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“When can we say AI made a scientific discovery?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 197
+      "hotnessScore": 149
     },
     {
       "id": "c01ad9c298288ef1891cbeb9e4d24d5b",
@@ -62,16 +98,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Meta launches enterprise AI business seeking to cash in on vast spending”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 183
-    },
-    {
-      "id": "f7df04b7bfbdd7fe14bf5ac95e54ee9d",
-      "title": "Big companies warn lack of ‘AI openness’ could hit investment in Europe",
-      "url": "https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Big companies warn lack of ‘AI openness’ could hit investment in Europe”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 111
+      "hotnessScore": 135
     },
     {
       "id": "b5107174e8585960a1d0d383e94e4e11",
@@ -83,13 +110,13 @@
       "hotnessScore": 108
     },
     {
-      "id": "3da018094476591ab811062defe4674c",
-      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-      "source": "MIT Technology Review",
-      "question": "围绕“The Download: a bid to scrap the virtual wall and AI hits Climate Week”需要重点关注哪些问题？",
+      "id": "f7df04b7bfbdd7fe14bf5ac95e54ee9d",
+      "title": "Big companies warn lack of ‘AI openness’ could hit investment in Europe",
+      "url": "https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Big companies warn lack of ‘AI openness’ could hit investment in Europe”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 76
+      "hotnessScore": 68
     },
     {
       "id": "2c718526311a71b2d0bffdf6c7934122",
@@ -98,7 +125,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“The 10-year Treasury yield is at its highest in nearly two decades. How we got here”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
+      "hotnessScore": 58
     }
   ]
 }
