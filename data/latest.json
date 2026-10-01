@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-09-30T06:18:57.084Z",
+  "generatedAt": "2026-10-01T06:51:27.594Z",
   "items": [
     {
-      "id": "c0c22a0395c5d01f464abc57e001e738",
-      "title": "Responsible Release of AI-Generated Mathematics",
-      "url": "https://agmai.org/general-sep29/",
+      "id": "d32bef460a8272ebcffd90a2dfeec284",
+      "title": "Bill Gates on the Dangers of AI",
+      "url": "https://www.theatlantic.com/podcasts/2026/08/bill-gates-dangers-ai/688418/",
       "source": "Hacker News · AI",
-      "question": "围绕“Responsible Release of AI-Generated Mathematics”需要重点关注哪些问题？",
+      "question": "围绕“Bill Gates on the Dangers of AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 530
+      "hotnessScore": 456
     },
     {
-      "id": "252841b0dc5d4ea902173d003ff42540",
-      "title": "Liquid AI releases decision model D1",
-      "url": "https://docs.liquid.ai/lfm/models/decision-models",
-      "source": "Hacker News · AI",
-      "question": "围绕“Liquid AI releases decision model D1”需要重点关注哪些问题？",
+      "id": "c76ea69a07fb2b3e35ed8ca614fb7e5d",
+      "title": "Pearson’s Workera deal targets a big workplace problem: No time to AI upskill",
+      "url": "https://www.zdnet.com/innovation/pearson-workera-acquisition-ai-upskilling/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Pearson’s Workera deal targets a big workplace problem: No time to AI upskill”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 458
+      "hotnessScore": 215
     },
     {
-      "id": "961b124ae3a0ecdc8c97abd173633a8f",
-      "title": "Show HN: Instapath – your personal agent needs something, another agent has it",
-      "url": "https://instapath.ai/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Instapath – your personal agent needs something, another agent has it”需要重点关注哪些问题？",
+      "id": "a0aeabced7e63bc18a7c0268a97b4c45",
+      "title": "Tencent leases 100,000 chips from Oracle to accelerate AI push",
+      "url": "https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Tencent leases 100,000 chips from Oracle to accelerate AI push”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 457
+      "hotnessScore": 204
     },
     {
-      "id": "32a367477d0a90d1a9b28cc09fc83a43",
-      "title": "Inspect: An open-source framework for large language model evaluations",
-      "url": "https://inspect.aisi.org.uk/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Inspect: An open-source framework for large language model evaluations”需要重点关注哪些问题？",
+      "id": "a3968689b5ef66bb178daf9577ae2a8b",
+      "title": "Google releases most advanced Gemini AI model",
+      "url": "https://www.ft.com/content/46194a0b-a0e4-42cc-ad40-0df753492768?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Google releases most advanced Gemini AI model”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 452
+      "hotnessScore": 197
     },
     {
-      "id": "a3502727900ba1fd453c0d101a31fa5a",
-      "title": "Show HN: InfiniHash App Store – compliance tools built end-to-end by AI agents",
-      "url": "https://apps.infinihash.com/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: InfiniHash App Store – compliance tools built end-to-end by AI agents”需要重点关注哪些问题？",
+      "id": "51480e2d2f6e36ee6376b0d0b13bb934",
+      "title": "What’s inside Silicon Valley’s AI ‘self-regulation’ agreement with Trump?",
+      "url": "https://www.ft.com/content/f52f7b0e-be7d-414c-b19d-d78a3a5f4882?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“What’s inside Silicon Valley’s AI ‘self-regulation’ agreement with Trump?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 448
+      "hotnessScore": 185
     },
     {
       "id": "d1148b01f95193fff578814007ea4dbf",
@@ -53,7 +53,16 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“LLMjacking can run up your business’ AI bill fast – how to stop it”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 234
+      "hotnessScore": 185
+    },
+    {
+      "id": "c044d5d4c76c3bcfde37598ca82ea7ed",
+      "title": "KKR warns of growing credit market risks from AI borrowing spree",
+      "url": "https://www.ft.com/content/33449ea5-428b-4080-bdf6-ff5843bbd3cd?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“KKR warns of growing credit market risks from AI borrowing spree”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 176
     },
     {
       "id": "76c78ba7bda6e3429f1e6d865a4563a2",
@@ -62,7 +71,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Trump shrugs off AI regulation”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 211
+      "hotnessScore": 162
     },
     {
       "id": "27145fe2c201b58bb290e412a92b1011",
@@ -71,7 +80,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Trump praises tech bosses’ ‘tremendous self-regulation’ of AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 202
+      "hotnessScore": 153
     },
     {
       "id": "b4e2ef0f5ce010c1d976cc13fa898d14",
@@ -80,25 +89,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Nvidia turns to insurers to spread the risk of AI build-out”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 160
-    },
-    {
-      "id": "d9155561ee5e7eea8952f9a11fdaea60",
-      "title": "When can we say AI made a scientific discovery?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "source": "MIT Technology Review",
-      "question": "围绕“When can we say AI made a scientific discovery?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 149
-    },
-    {
-      "id": "c01ad9c298288ef1891cbeb9e4d24d5b",
-      "title": "Meta launches enterprise AI business seeking to cash in on vast spending",
-      "url": "https://www.ft.com/content/fbe0a48f-4d33-42eb-8d2c-79f662c88678?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Meta launches enterprise AI business seeking to cash in on vast spending”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 135
+      "hotnessScore": 110
     },
     {
       "id": "b5107174e8585960a1d0d383e94e4e11",
@@ -110,13 +101,13 @@
       "hotnessScore": 108
     },
     {
-      "id": "f7df04b7bfbdd7fe14bf5ac95e54ee9d",
-      "title": "Big companies warn lack of ‘AI openness’ could hit investment in Europe",
-      "url": "https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Big companies warn lack of ‘AI openness’ could hit investment in Europe”需要重点关注哪些问题？",
+      "id": "d9155561ee5e7eea8952f9a11fdaea60",
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "source": "MIT Technology Review",
+      "question": "围绕“When can we say AI made a scientific discovery?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
+      "hotnessScore": 100
     },
     {
       "id": "2c718526311a71b2d0bffdf6c7934122",
