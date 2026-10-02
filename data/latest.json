@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-01T06:51:27.594Z",
+  "generatedAt": "2026-10-02T06:42:26.056Z",
   "items": [
     {
-      "id": "d32bef460a8272ebcffd90a2dfeec284",
-      "title": "Bill Gates on the Dangers of AI",
-      "url": "https://www.theatlantic.com/podcasts/2026/08/bill-gates-dangers-ai/688418/",
+      "id": "0029fc3e41e5d16b2d8413c83ce5c35d",
+      "title": "GitHub can f..k you and you are forced to love it. or live with it...",
+      "url": "https://news.ycombinator.com/item?id=49929822",
       "source": "Hacker News · AI",
-      "question": "围绕“Bill Gates on the Dangers of AI”需要重点关注哪些问题？",
+      "question": "围绕“GitHub can f..k you and you are forced to love it. or live with it...”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 456
+      "hotnessScore": 469
+    },
+    {
+      "id": "c4101665d3a3731db6c3e1f55dddcb87",
+      "title": "Is circular financing in AI a problem?",
+      "url": "https://www.ft.com/content/87875b20-4081-4511-9afe-4ee389409742",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Is circular financing in AI a problem?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 175
     },
     {
       "id": "c76ea69a07fb2b3e35ed8ca614fb7e5d",
@@ -17,7 +26,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Pearson’s Workera deal targets a big workplace problem: No time to AI upskill”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 215
+      "hotnessScore": 167
     },
     {
       "id": "a0aeabced7e63bc18a7c0268a97b4c45",
@@ -26,7 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Tencent leases 100,000 chips from Oracle to accelerate AI push”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 204
+      "hotnessScore": 157
     },
     {
       "id": "a3968689b5ef66bb178daf9577ae2a8b",
@@ -35,7 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Google releases most advanced Gemini AI model”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 197
+      "hotnessScore": 149
     },
     {
       "id": "51480e2d2f6e36ee6376b0d0b13bb934",
@@ -44,7 +53,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“What’s inside Silicon Valley’s AI ‘self-regulation’ agreement with Trump?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 185
+      "hotnessScore": 138
     },
     {
       "id": "d1148b01f95193fff578814007ea4dbf",
@@ -53,7 +62,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“LLMjacking can run up your business’ AI bill fast – how to stop it”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 185
+      "hotnessScore": 137
     },
     {
       "id": "c044d5d4c76c3bcfde37598ca82ea7ed",
@@ -62,7 +71,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“KKR warns of growing credit market risks from AI borrowing spree”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 176
+      "hotnessScore": 129
     },
     {
       "id": "76c78ba7bda6e3429f1e6d865a4563a2",
@@ -71,7 +80,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Trump shrugs off AI regulation”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 162
+      "hotnessScore": 115
     },
     {
       "id": "27145fe2c201b58bb290e412a92b1011",
@@ -80,25 +89,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Trump praises tech bosses’ ‘tremendous self-regulation’ of AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 153
-    },
-    {
-      "id": "b4e2ef0f5ce010c1d976cc13fa898d14",
-      "title": "Nvidia turns to insurers to spread the risk of AI build-out",
-      "url": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Nvidia turns to insurers to spread the risk of AI build-out”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 110
-    },
-    {
-      "id": "b5107174e8585960a1d0d383e94e4e11",
-      "title": "AI agent kill switch urged by Okta-led alliance – how businesses could make it work",
-      "url": "https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“AI agent kill switch urged by Okta-led alliance – how businesses could make it work”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 108
+      "hotnessScore": 105
     },
     {
       "id": "d9155561ee5e7eea8952f9a11fdaea60",
@@ -107,7 +98,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“When can we say AI made a scientific discovery?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 100
+      "hotnessScore": 80
     },
     {
       "id": "2c718526311a71b2d0bffdf6c7934122",
