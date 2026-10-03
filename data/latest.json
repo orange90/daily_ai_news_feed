@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-10-02T06:42:26.056Z",
+  "generatedAt": "2026-10-03T06:03:49.244Z",
   "items": [
     {
-      "id": "0029fc3e41e5d16b2d8413c83ce5c35d",
-      "title": "GitHub can f..k you and you are forced to love it. or live with it...",
-      "url": "https://news.ycombinator.com/item?id=49929822",
-      "source": "Hacker News · AI",
-      "question": "围绕“GitHub can f..k you and you are forced to love it. or live with it...”需要重点关注哪些问题？",
+      "id": "433dd0cf2324357656986f47fa55c219",
+      "title": "The coming futures market in AI compute",
+      "url": "https://www.ft.com/content/a1815bc5-b5d5-47ff-bbbc-e1a689929321",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“The coming futures market in AI compute”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 469
+      "hotnessScore": 208
+    },
+    {
+      "id": "45d461e7b80707463a336cdb929be5c9",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Redefining enterprise intelligence with autonomous AI”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 184
+    },
+    {
+      "id": "ec96eb3a57a63c4fda322e0652396ce1",
+      "title": "Why does Anthropic’s IPO feel so weird?",
+      "url": "https://www.ft.com/content/69d2d0ec-c0d4-444f-84c5-4ca4f64b7899?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Why does Anthropic’s IPO feel so weird?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 183
     },
     {
       "id": "c4101665d3a3731db6c3e1f55dddcb87",
@@ -17,7 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Is circular financing in AI a problem?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 175
+      "hotnessScore": 128
     },
     {
       "id": "c76ea69a07fb2b3e35ed8ca614fb7e5d",
@@ -26,34 +44,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Pearson’s Workera deal targets a big workplace problem: No time to AI upskill”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 167
-    },
-    {
-      "id": "a0aeabced7e63bc18a7c0268a97b4c45",
-      "title": "Tencent leases 100,000 chips from Oracle to accelerate AI push",
-      "url": "https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Tencent leases 100,000 chips from Oracle to accelerate AI push”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 157
-    },
-    {
-      "id": "a3968689b5ef66bb178daf9577ae2a8b",
-      "title": "Google releases most advanced Gemini AI model",
-      "url": "https://www.ft.com/content/46194a0b-a0e4-42cc-ad40-0df753492768?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Google releases most advanced Gemini AI model”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 149
-    },
-    {
-      "id": "51480e2d2f6e36ee6376b0d0b13bb934",
-      "title": "What’s inside Silicon Valley’s AI ‘self-regulation’ agreement with Trump?",
-      "url": "https://www.ft.com/content/f52f7b0e-be7d-414c-b19d-d78a3a5f4882?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“What’s inside Silicon Valley’s AI ‘self-regulation’ agreement with Trump?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 138
+      "hotnessScore": 121
     },
     {
       "id": "d1148b01f95193fff578814007ea4dbf",
@@ -62,7 +53,34 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“LLMjacking can run up your business’ AI bill fast – how to stop it”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 137
+      "hotnessScore": 112
+    },
+    {
+      "id": "a0aeabced7e63bc18a7c0268a97b4c45",
+      "title": "Tencent leases 100,000 chips from Oracle to accelerate AI push",
+      "url": "https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Tencent leases 100,000 chips from Oracle to accelerate AI push”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 110
+    },
+    {
+      "id": "a3968689b5ef66bb178daf9577ae2a8b",
+      "title": "Google releases most advanced Gemini AI model",
+      "url": "https://www.ft.com/content/46194a0b-a0e4-42cc-ad40-0df753492768?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Google releases most advanced Gemini AI model”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 103
+    },
+    {
+      "id": "51480e2d2f6e36ee6376b0d0b13bb934",
+      "title": "What’s inside Silicon Valley’s AI ‘self-regulation’ agreement with Trump?",
+      "url": "https://www.ft.com/content/f52f7b0e-be7d-414c-b19d-d78a3a5f4882?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“What’s inside Silicon Valley’s AI ‘self-regulation’ agreement with Trump?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 91
     },
     {
       "id": "c044d5d4c76c3bcfde37598ca82ea7ed",
@@ -71,34 +89,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“KKR warns of growing credit market risks from AI borrowing spree”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 129
-    },
-    {
-      "id": "76c78ba7bda6e3429f1e6d865a4563a2",
-      "title": "Trump shrugs off AI regulation",
-      "url": "https://www.ft.com/content/89a294af-4794-4d60-9421-45bafe48387f?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Trump shrugs off AI regulation”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 115
-    },
-    {
-      "id": "27145fe2c201b58bb290e412a92b1011",
-      "title": "Trump praises tech bosses’ ‘tremendous self-regulation’ of AI",
-      "url": "https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Trump praises tech bosses’ ‘tremendous self-regulation’ of AI”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 105
-    },
-    {
-      "id": "d9155561ee5e7eea8952f9a11fdaea60",
-      "title": "When can we say AI made a scientific discovery?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "source": "MIT Technology Review",
-      "question": "围绕“When can we say AI made a scientific discovery?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 80
+      "hotnessScore": 82
     },
     {
       "id": "2c718526311a71b2d0bffdf6c7934122",
