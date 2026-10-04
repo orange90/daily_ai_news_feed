@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-03T06:03:49.244Z",
+  "generatedAt": "2026-10-04T06:38:20.061Z",
   "items": [
     {
-      "id": "433dd0cf2324357656986f47fa55c219",
-      "title": "The coming futures market in AI compute",
-      "url": "https://www.ft.com/content/a1815bc5-b5d5-47ff-bbbc-e1a689929321",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“The coming futures market in AI compute”需要重点关注哪些问题？",
+      "id": "6a83570d08cca11518f9f711fbc9fa83",
+      "title": "Changelog to README: testing LLM update strategies",
+      "url": "https://codecut.ai/readme-update-from-release-notes/",
+      "source": "Hacker News · AI",
+      "question": "围绕“Changelog to README: testing LLM update strategies”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 208
+      "hotnessScore": 447
+    },
+    {
+      "id": "298e0afbca4dbb8465da14471eb869f6",
+      "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
+      "url": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 207
     },
     {
       "id": "45d461e7b80707463a336cdb929be5c9",
@@ -17,7 +26,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“Redefining enterprise intelligence with autonomous AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 184
+      "hotnessScore": 134
     },
     {
       "id": "ec96eb3a57a63c4fda322e0652396ce1",
@@ -26,25 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Why does Anthropic’s IPO feel so weird?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 183
-    },
-    {
-      "id": "c4101665d3a3731db6c3e1f55dddcb87",
-      "title": "Is circular financing in AI a problem?",
-      "url": "https://www.ft.com/content/87875b20-4081-4511-9afe-4ee389409742",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Is circular financing in AI a problem?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 128
-    },
-    {
-      "id": "c76ea69a07fb2b3e35ed8ca614fb7e5d",
-      "title": "Pearson’s Workera deal targets a big workplace problem: No time to AI upskill",
-      "url": "https://www.zdnet.com/innovation/pearson-workera-acquisition-ai-upskilling/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Pearson’s Workera deal targets a big workplace problem: No time to AI upskill”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 121
+      "hotnessScore": 133
     },
     {
       "id": "d1148b01f95193fff578814007ea4dbf",
@@ -56,13 +47,22 @@
       "hotnessScore": 112
     },
     {
-      "id": "a0aeabced7e63bc18a7c0268a97b4c45",
-      "title": "Tencent leases 100,000 chips from Oracle to accelerate AI push",
-      "url": "https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Tencent leases 100,000 chips from Oracle to accelerate AI push”需要重点关注哪些问题？",
+      "id": "c76ea69a07fb2b3e35ed8ca614fb7e5d",
+      "title": "Pearson’s Workera deal targets a big workplace problem: No time to AI upskill",
+      "url": "https://www.zdnet.com/innovation/pearson-workera-acquisition-ai-upskilling/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Pearson’s Workera deal targets a big workplace problem: No time to AI upskill”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 110
+      "hotnessScore": 108
+    },
+    {
+      "id": "c4101665d3a3731db6c3e1f55dddcb87",
+      "title": "Is circular financing in AI a problem?",
+      "url": "https://www.ft.com/content/87875b20-4081-4511-9afe-4ee389409742",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Is circular financing in AI a problem?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 79
     },
     {
       "id": "a3968689b5ef66bb178daf9577ae2a8b",
@@ -71,7 +71,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Google releases most advanced Gemini AI model”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 103
+      "hotnessScore": 72
     },
     {
       "id": "51480e2d2f6e36ee6376b0d0b13bb934",
@@ -80,25 +80,16 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“What’s inside Silicon Valley’s AI ‘self-regulation’ agreement with Trump?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 91
+      "hotnessScore": 72
     },
     {
-      "id": "c044d5d4c76c3bcfde37598ca82ea7ed",
-      "title": "KKR warns of growing credit market risks from AI borrowing spree",
-      "url": "https://www.ft.com/content/33449ea5-428b-4080-bdf6-ff5843bbd3cd?syn-25a6b1a6=1",
+      "id": "a0aeabced7e63bc18a7c0268a97b4c45",
+      "title": "Tencent leases 100,000 chips from Oracle to accelerate AI push",
+      "url": "https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“KKR warns of growing credit market risks from AI borrowing spree”需要重点关注哪些问题？",
+      "question": "围绕“Tencent leases 100,000 chips from Oracle to accelerate AI push”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 82
-    },
-    {
-      "id": "2c718526311a71b2d0bffdf6c7934122",
-      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
-      "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“The 10-year Treasury yield is at its highest in nearly two decades. How we got here”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 58
+      "hotnessScore": 68
     }
   ]
 }
