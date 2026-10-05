@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-04T06:38:20.061Z",
+  "generatedAt": "2026-10-05T06:34:07.032Z",
   "items": [
     {
-      "id": "6a83570d08cca11518f9f711fbc9fa83",
-      "title": "Changelog to README: testing LLM update strategies",
-      "url": "https://codecut.ai/readme-update-from-release-notes/",
+      "id": "a238b1340b92aa83dc9f7e63f06dac75",
+      "title": "Show HN: Recursant, the agent-aware model router built for hybrid workloads",
+      "url": "https://github.com/ajensenwaud/recursant/",
       "source": "Hacker News · AI",
-      "question": "围绕“Changelog to README: testing LLM update strategies”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: Recursant, the agent-aware model router built for hybrid workloads”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 447
+      "hotnessScore": 454
+    },
+    {
+      "id": "f948fcd6ca8df202a1e19927e9229a90",
+      "title": "Linux 7.3-Rc6 Released: Normal for the New \"AI Normal\"",
+      "url": "https://www.phoronix.com/news/Linux-7.3-rc6-Released",
+      "source": "Hacker News · AI",
+      "question": "围绕“Linux 7.3-Rc6 Released: Normal for the New \"AI Normal\"”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 451
     },
     {
       "id": "298e0afbca4dbb8465da14471eb869f6",
@@ -17,25 +26,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 207
-    },
-    {
-      "id": "45d461e7b80707463a336cdb929be5c9",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Redefining enterprise intelligence with autonomous AI”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 134
-    },
-    {
-      "id": "ec96eb3a57a63c4fda322e0652396ce1",
-      "title": "Why does Anthropic’s IPO feel so weird?",
-      "url": "https://www.ft.com/content/69d2d0ec-c0d4-444f-84c5-4ca4f64b7899?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Why does Anthropic’s IPO feel so weird?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 133
+      "hotnessScore": 159
     },
     {
       "id": "d1148b01f95193fff578814007ea4dbf",
@@ -56,31 +47,31 @@
       "hotnessScore": 108
     },
     {
+      "id": "45d461e7b80707463a336cdb929be5c9",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Redefining enterprise intelligence with autonomous AI”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 87
+    },
+    {
+      "id": "ec96eb3a57a63c4fda322e0652396ce1",
+      "title": "Why does Anthropic’s IPO feel so weird?",
+      "url": "https://www.ft.com/content/69d2d0ec-c0d4-444f-84c5-4ca4f64b7899?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Why does Anthropic’s IPO feel so weird?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 86
+    },
+    {
       "id": "c4101665d3a3731db6c3e1f55dddcb87",
       "title": "Is circular financing in AI a problem?",
       "url": "https://www.ft.com/content/87875b20-4081-4511-9afe-4ee389409742",
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Is circular financing in AI a problem?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 79
-    },
-    {
-      "id": "a3968689b5ef66bb178daf9577ae2a8b",
-      "title": "Google releases most advanced Gemini AI model",
-      "url": "https://www.ft.com/content/46194a0b-a0e4-42cc-ad40-0df753492768?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Google releases most advanced Gemini AI model”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
-    },
-    {
-      "id": "51480e2d2f6e36ee6376b0d0b13bb934",
-      "title": "What’s inside Silicon Valley’s AI ‘self-regulation’ agreement with Trump?",
-      "url": "https://www.ft.com/content/f52f7b0e-be7d-414c-b19d-d78a3a5f4882?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“What’s inside Silicon Valley’s AI ‘self-regulation’ agreement with Trump?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
+      "hotnessScore": 68
     },
     {
       "id": "a0aeabced7e63bc18a7c0268a97b4c45",
