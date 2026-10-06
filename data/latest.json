@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-10-05T06:34:07.032Z",
+  "generatedAt": "2026-10-06T07:12:43.109Z",
   "items": [
     {
-      "id": "a238b1340b92aa83dc9f7e63f06dac75",
-      "title": "Show HN: Recursant, the agent-aware model router built for hybrid workloads",
-      "url": "https://github.com/ajensenwaud/recursant/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Recursant, the agent-aware model router built for hybrid workloads”需要重点关注哪些问题？",
+      "id": "eb5804693631828627de3e5738400535",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Bringing predictive analytics to the agentic AI era”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 454
+      "hotnessScore": 181
     },
     {
-      "id": "f948fcd6ca8df202a1e19927e9229a90",
-      "title": "Linux 7.3-Rc6 Released: Normal for the New \"AI Normal\"",
-      "url": "https://www.phoronix.com/news/Linux-7.3-rc6-Released",
-      "source": "Hacker News · AI",
-      "question": "围绕“Linux 7.3-Rc6 Released: Normal for the New \"AI Normal\"”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 451
-    },
-    {
-      "id": "298e0afbca4dbb8465da14471eb869f6",
-      "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
-      "url": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
+      "id": "6e0f0866138e6a7b34e356db69329799",
+      "title": "What people in AI really think about regulation",
+      "url": "https://www.ft.com/content/c8cf8739-837e-4bb3-9fd9-bb54c02b7289?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet”需要重点关注哪些问题？",
+      "question": "围绕“What people in AI really think about regulation”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 159
+      "hotnessScore": 180
+    },
+    {
+      "id": "76c7f4cc03860957def6b96701d04780",
+      "title": "A Chinese billionaire reckons with the limits of building AI across borders",
+      "url": "https://www.ft.com/content/91741bbc-9626-41fc-8320-9ab9adbd8631?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“A Chinese billionaire reckons with the limits of building AI across borders”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 174
     },
     {
       "id": "d1148b01f95193fff578814007ea4dbf",
@@ -38,6 +38,15 @@
       "hotnessScore": 112
     },
     {
+      "id": "298e0afbca4dbb8465da14471eb869f6",
+      "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
+      "url": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 110
+    },
+    {
       "id": "c76ea69a07fb2b3e35ed8ca614fb7e5d",
       "title": "Pearson’s Workera deal targets a big workplace problem: No time to AI upskill",
       "url": "https://www.zdnet.com/innovation/pearson-workera-acquisition-ai-upskilling/",
@@ -47,38 +56,20 @@
       "hotnessScore": 108
     },
     {
-      "id": "45d461e7b80707463a336cdb929be5c9",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Redefining enterprise intelligence with autonomous AI”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 87
-    },
-    {
       "id": "ec96eb3a57a63c4fda322e0652396ce1",
       "title": "Why does Anthropic’s IPO feel so weird?",
       "url": "https://www.ft.com/content/69d2d0ec-c0d4-444f-84c5-4ca4f64b7899?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Why does Anthropic’s IPO feel so weird?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 86
-    },
-    {
-      "id": "c4101665d3a3731db6c3e1f55dddcb87",
-      "title": "Is circular financing in AI a problem?",
-      "url": "https://www.ft.com/content/87875b20-4081-4511-9afe-4ee389409742",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Is circular financing in AI a problem?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
     },
     {
-      "id": "a0aeabced7e63bc18a7c0268a97b4c45",
-      "title": "Tencent leases 100,000 chips from Oracle to accelerate AI push",
-      "url": "https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Tencent leases 100,000 chips from Oracle to accelerate AI push”需要重点关注哪些问题？",
+      "id": "45d461e7b80707463a336cdb929be5c9",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Redefining enterprise intelligence with autonomous AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
     }
