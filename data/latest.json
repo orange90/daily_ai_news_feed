@@ -1,12 +1,21 @@
 {
-  "generatedAt": "2026-10-06T07:12:43.109Z",
+  "generatedAt": "2026-10-07T06:52:05.242Z",
   "items": [
     {
-      "id": "eb5804693631828627de3e5738400535",
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Bringing predictive analytics to the agentic AI era”需要重点关注哪些问题？",
+      "id": "8ac509b2f7e4cf73655cec9c485069e6",
+      "title": "SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo",
+      "url": "https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 195
+    },
+    {
+      "id": "c3050f85ba5d64f5cc86b07ace82b570",
+      "title": "FT and Standard Chartered Business Book of the Year Award 2026 — the shortlist",
+      "url": "https://www.ft.com/content/d0b2bf57-56c9-4d49-b721-611fc11df7a4?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“FT and Standard Chartered Business Book of the Year Award 2026 — the shortlist”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 181
     },
@@ -17,7 +26,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“What people in AI really think about regulation”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 180
+      "hotnessScore": 132
     },
     {
       "id": "76c7f4cc03860957def6b96701d04780",
@@ -26,25 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“A Chinese billionaire reckons with the limits of building AI across borders”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 174
-    },
-    {
-      "id": "d1148b01f95193fff578814007ea4dbf",
-      "title": "LLMjacking can run up your business’ AI bill fast – how to stop it",
-      "url": "https://www.zdnet.com/innovation/llmjacking-business-ai-bill-cost-how-to-stop/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“LLMjacking can run up your business’ AI bill fast – how to stop it”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 112
-    },
-    {
-      "id": "298e0afbca4dbb8465da14471eb869f6",
-      "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
-      "url": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 110
+      "hotnessScore": 126
     },
     {
       "id": "c76ea69a07fb2b3e35ed8ca614fb7e5d",
@@ -56,20 +47,11 @@
       "hotnessScore": 108
     },
     {
-      "id": "ec96eb3a57a63c4fda322e0652396ce1",
-      "title": "Why does Anthropic’s IPO feel so weird?",
-      "url": "https://www.ft.com/content/69d2d0ec-c0d4-444f-84c5-4ca4f64b7899?syn-25a6b1a6=1",
+      "id": "298e0afbca4dbb8465da14471eb869f6",
+      "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
+      "url": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Why does Anthropic’s IPO feel so weird?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
-      "id": "45d461e7b80707463a336cdb929be5c9",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Redefining enterprise intelligence with autonomous AI”需要重点关注哪些问题？",
+      "question": "围绕“Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
     }
