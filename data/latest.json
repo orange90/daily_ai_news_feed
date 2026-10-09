@@ -1,50 +1,23 @@
 {
-  "generatedAt": "2026-10-08T07:00:51.662Z",
+  "generatedAt": "2026-10-09T07:09:00.854Z",
   "items": [
     {
-      "id": "3a54a8240d934aed46d23a5788e14630",
-      "title": "Microsoft Execution Containers: Policy-driven containment for AI agents",
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "id": "02130effd623eda0d582134c8e64c6c2",
+      "title": "Visa Releases Its AI-Powered Cyber Defense System to Open Source",
+      "url": "https://corporate.visa.com/en/sites/visa-perspectives/security-trust/visa-cybersecurity-mythos-project-glasswing.html",
       "source": "Hacker News · AI",
-      "question": "围绕“Microsoft Execution Containers: Policy-driven containment for AI agents”需要重点关注哪些问题？",
+      "question": "围绕“Visa Releases Its AI-Powered Cyber Defense System to Open Source”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 459
+      "hotnessScore": 463
     },
     {
-      "id": "f62ca9881a13c5a6089342e247f342ec",
-      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Microsoft event debuts new AI-friendly hardware and Windows changes”需要重点关注哪些问题？",
+      "id": "d8e886e59cc7144962013a322696c56f",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source": "MIT Technology Review",
+      "question": "围绕“AI breakthroughs in robotics won’t change your life any time soon”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 451
-    },
-    {
-      "id": "7be3a4e2667e0ec66ed77d7e259c3a64",
-      "title": "Kelly's AI Tax Bill Struggles to Link Tech with Economic Harms",
-      "url": "https://news.bloombergtax.com/tax-insights-and-commentary/kellys-ai-tax-bill-struggles-to-link-tech-with-economic-harms",
-      "source": "Hacker News · AI",
-      "question": "围绕“Kelly's AI Tax Bill Struggles to Link Tech with Economic Harms”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 450
-    },
-    {
-      "id": "dd3a9fed4458553317ae79711f7c6b02",
-      "title": "Liquid AI releases Pareto-frontier, multimodal decision model for the edge",
-      "url": "https://www.liquid.ai/blog/d1-open",
-      "source": "Hacker News · AI",
-      "question": "围绕“Liquid AI releases Pareto-frontier, multimodal decision model for the edge”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 450
-    },
-    {
-      "id": "44b606cccc451176b4d246a2884a3308",
-      "title": "Ask HN: Is the Future of IDEs Bleak?",
-      "url": "https://news.ycombinator.com/item?id=49999930",
-      "source": "Hacker News · AI",
-      "question": "围绕“Ask HN: Is the Future of IDEs Bleak?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 446
+      "hotnessScore": 168
     },
     {
       "id": "8ac509b2f7e4cf73655cec9c485069e6",
@@ -53,7 +26,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“SpaceX looks to raise $40bn to buy Nvidia chips”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 147
+      "hotnessScore": 99
     },
     {
       "id": "c3050f85ba5d64f5cc86b07ace82b570",
@@ -62,25 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“FT and Standard Chartered Business Book of the Year Award 2026 — the shortlist”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 133
-    },
-    {
-      "id": "6e0f0866138e6a7b34e356db69329799",
-      "title": "What people in AI really think about regulation",
-      "url": "https://www.ft.com/content/c8cf8739-837e-4bb3-9fd9-bb54c02b7289?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“What people in AI really think about regulation”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 84
-    },
-    {
-      "id": "76c7f4cc03860957def6b96701d04780",
-      "title": "A Chinese billionaire reckons with the limits of building AI across borders",
-      "url": "https://www.ft.com/content/91741bbc-9626-41fc-8320-9ab9adbd8631?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“A Chinese billionaire reckons with the limits of building AI across borders”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 78
+      "hotnessScore": 85
     }
   ]
 }
