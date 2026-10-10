@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-09T07:09:00.854Z",
+  "generatedAt": "2026-10-10T06:42:14.801Z",
   "items": [
     {
-      "id": "02130effd623eda0d582134c8e64c6c2",
-      "title": "Visa Releases Its AI-Powered Cyber Defense System to Open Source",
-      "url": "https://corporate.visa.com/en/sites/visa-perspectives/security-trust/visa-cybersecurity-mythos-project-glasswing.html",
-      "source": "Hacker News · AI",
-      "question": "围绕“Visa Releases Its AI-Powered Cyber Defense System to Open Source”需要重点关注哪些问题？",
+      "id": "c0358c6771946e265e6b4f115885106e",
+      "title": "100 new UK jobs created as Kuwait buys British-made AI-enabled air defence systems",
+      "url": "https://www.gov.uk/government/news/100-new-uk-jobs-created-as-kuwait-buys-british-made-ai-enabled-air-defence-systems",
+      "source": "UK Government · AI Regulation Updates",
+      "question": "围绕“100 new UK jobs created as Kuwait buys British-made AI-enabled air defence systems”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 463
+      "hotnessScore": 177
     },
     {
       "id": "d8e886e59cc7144962013a322696c56f",
@@ -17,16 +17,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“AI breakthroughs in robotics won’t change your life any time soon”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 168
-    },
-    {
-      "id": "8ac509b2f7e4cf73655cec9c485069e6",
-      "title": "SpaceX looks to raise $40bn to buy Nvidia chips",
-      "url": "https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“SpaceX looks to raise $40bn to buy Nvidia chips”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 99
+      "hotnessScore": 121
     },
     {
       "id": "c3050f85ba5d64f5cc86b07ace82b570",
@@ -35,7 +26,16 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“FT and Standard Chartered Business Book of the Year Award 2026 — the shortlist”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 85
+      "hotnessScore": 72
+    },
+    {
+      "id": "8ac509b2f7e4cf73655cec9c485069e6",
+      "title": "SpaceX looks to raise $40bn to buy Nvidia chips",
+      "url": "https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“SpaceX looks to raise $40bn to buy Nvidia chips”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 68
     }
   ]
 }
