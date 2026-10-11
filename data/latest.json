@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-10T06:42:14.801Z",
+  "generatedAt": "2026-10-11T06:49:18.070Z",
   "items": [
+    {
+      "id": "2e5cb09c8ed018cbb17755316288c7a4",
+      "title": "Show HN: I wrote Dependency Hell 5 years ago. Today I updated it for AI Era [pdf]",
+      "url": "https://github.com/jaronilan/stories/blob/main/Agent%20Loop.pdf",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: I wrote Dependency Hell 5 years ago. Today I updated it for AI Era [pdf]”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 447
+    },
+    {
+      "id": "5aaf491069cde96ce0bb323da5992f63",
+      "title": "What if AI prefers CVs written by AI?",
+      "url": "https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“What if AI prefers CVs written by AI?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 210
+    },
     {
       "id": "c0358c6771946e265e6b4f115885106e",
       "title": "100 new UK jobs created as Kuwait buys British-made AI-enabled air defence systems",
@@ -8,7 +26,7 @@
       "source": "UK Government · AI Regulation Updates",
       "question": "围绕“100 new UK jobs created as Kuwait buys British-made AI-enabled air defence systems”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 177
+      "hotnessScore": 129
     },
     {
       "id": "d8e886e59cc7144962013a322696c56f",
@@ -16,15 +34,6 @@
       "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
       "source": "MIT Technology Review",
       "question": "围绕“AI breakthroughs in robotics won’t change your life any time soon”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 121
-    },
-    {
-      "id": "c3050f85ba5d64f5cc86b07ace82b570",
-      "title": "FT and Standard Chartered Business Book of the Year Award 2026 — the shortlist",
-      "url": "https://www.ft.com/content/d0b2bf57-56c9-4d49-b721-611fc11df7a4?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“FT and Standard Chartered Business Book of the Year Award 2026 — the shortlist”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 72
     },
