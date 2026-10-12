@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-11T06:49:18.070Z",
+  "generatedAt": "2026-10-12T06:59:39.620Z",
   "items": [
     {
-      "id": "2e5cb09c8ed018cbb17755316288c7a4",
-      "title": "Show HN: I wrote Dependency Hell 5 years ago. Today I updated it for AI Era [pdf]",
-      "url": "https://github.com/jaronilan/stories/blob/main/Agent%20Loop.pdf",
+      "id": "b80484a65ec1f57197c5ae5365d49942",
+      "title": "Nvidia, Microsoft Launch Windows PCs with RTX Spark and AI Agents",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: I wrote Dependency Hell 5 years ago. Today I updated it for AI Era [pdf]”需要重点关注哪些问题？",
+      "question": "围绕“Nvidia, Microsoft Launch Windows PCs with RTX Spark and AI Agents”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 447
+      "hotnessScore": 462
     },
     {
       "id": "5aaf491069cde96ce0bb323da5992f63",
@@ -17,7 +17,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“What if AI prefers CVs written by AI?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 210
+      "hotnessScore": 162
     },
     {
       "id": "c0358c6771946e265e6b4f115885106e",
@@ -26,7 +26,7 @@
       "source": "UK Government · AI Regulation Updates",
       "question": "围绕“100 new UK jobs created as Kuwait buys British-made AI-enabled air defence systems”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 129
+      "hotnessScore": 81
     },
     {
       "id": "d8e886e59cc7144962013a322696c56f",
@@ -34,15 +34,6 @@
       "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
       "source": "MIT Technology Review",
       "question": "围绕“AI breakthroughs in robotics won’t change your life any time soon”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
-    },
-    {
-      "id": "8ac509b2f7e4cf73655cec9c485069e6",
-      "title": "SpaceX looks to raise $40bn to buy Nvidia chips",
-      "url": "https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“SpaceX looks to raise $40bn to buy Nvidia chips”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
     }
