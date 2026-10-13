@@ -1,14 +1,59 @@
 {
-  "generatedAt": "2026-10-12T06:59:39.620Z",
+  "generatedAt": "2026-10-13T07:23:08.806Z",
   "items": [
     {
-      "id": "b80484a65ec1f57197c5ae5365d49942",
-      "title": "Nvidia, Microsoft Launch Windows PCs with RTX Spark and AI Agents",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+      "id": "14ccb86862bb8355128894c70a26733d",
+      "title": "Examining China's AI Financing [pdf]",
+      "url": "https://www.visualcapitalist.com/wp-content/uploads/2026/09/Examining-Chinas-AI-Financing.pdf",
       "source": "Hacker News · AI",
-      "question": "围绕“Nvidia, Microsoft Launch Windows PCs with RTX Spark and AI Agents”需要重点关注哪些问题？",
+      "question": "围绕“Examining China's AI Financing [pdf]”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 462
+      "hotnessScore": 461
+    },
+    {
+      "id": "3edd345a95ef360e7d1f263919dc3261",
+      "title": "Show HN: Proofsource. Find where AI leaves you out. And Fix it",
+      "url": "https://proofsource.co/",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Proofsource. Find where AI leaves you out. And Fix it”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 458
+    },
+    {
+      "id": "aca9f35b657f30757528256e2b127637",
+      "title": "Chip stocks slide in wake of ‘casino’ comment by Broadcom boss",
+      "url": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Chip stocks slide in wake of ‘casino’ comment by Broadcom boss”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 209
+    },
+    {
+      "id": "5388d20da1073f57151b9eef8f0583a1",
+      "title": "IMF upgrades outlook for UK as AI drives growth spurt",
+      "url": "https://www.ft.com/content/4a7a7282-74a5-4d12-8294-6dd0d4802d88?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“IMF upgrades outlook for UK as AI drives growth spurt”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 197
+    },
+    {
+      "id": "00ca0472253cad3c394d5b95c9e9a8e9",
+      "title": "AI regulation must mimic Industrial Revolution laws, UK minister says",
+      "url": "https://www.ft.com/content/ba28b7cd-293e-4eee-a073-ad81aaefced3?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“AI regulation must mimic Industrial Revolution laws, UK minister says”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 189
+    },
+    {
+      "id": "75c50b4c6dc5d8319874eb89fe2cd6ea",
+      "title": "Zuckerberg says Meta has reached AI ‘frontier’",
+      "url": "https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Zuckerberg says Meta has reached AI ‘frontier’”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 187
     },
     {
       "id": "5aaf491069cde96ce0bb323da5992f63",
@@ -17,25 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“What if AI prefers CVs written by AI?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 162
-    },
-    {
-      "id": "c0358c6771946e265e6b4f115885106e",
-      "title": "100 new UK jobs created as Kuwait buys British-made AI-enabled air defence systems",
-      "url": "https://www.gov.uk/government/news/100-new-uk-jobs-created-as-kuwait-buys-british-made-ai-enabled-air-defence-systems",
-      "source": "UK Government · AI Regulation Updates",
-      "question": "围绕“100 new UK jobs created as Kuwait buys British-made AI-enabled air defence systems”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 81
-    },
-    {
-      "id": "d8e886e59cc7144962013a322696c56f",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "source": "MIT Technology Review",
-      "question": "围绕“AI breakthroughs in robotics won’t change your life any time soon”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
+      "hotnessScore": 113
     }
   ]
 }
