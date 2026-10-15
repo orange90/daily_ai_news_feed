@@ -1,32 +1,41 @@
 {
-  "generatedAt": "2026-10-14T05:50:14.770Z",
+  "generatedAt": "2026-10-15T05:34:36.219Z",
   "items": [
     {
-      "id": "ef49e5125fe277390db930e93248d3b1",
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "url": "https://pulseos.finance",
+      "id": "2ddd88c05b1bbfb9b0d5eac824a1f9d9",
+      "title": "Asia chip stocks fall, AI funding worries",
+      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine”需要重点关注哪些问题？",
+      "question": "围绕“Asia chip stocks fall, AI funding worries”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 711
+      "hotnessScore": 488
     },
     {
-      "id": "aa70aa938f5edb41e8bbb78031d2b546",
-      "title": "Show HN: GenClass, A 10 MB in-browser model that catches bugs that never throw",
-      "url": "https://www.npmjs.com/package/@genclass/runtime",
+      "id": "82bbc79560be8720170bb44c4c83833d",
+      "title": "Call for stories: human–AI collaboration in recent mathematics",
+      "url": "https://terrytao.wordpress.com/2026/10/14/call-for-stories-human-ai-collaboration-in-recent-mathematics/",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: GenClass, A 10 MB in-browser model that catches bugs that never throw”需要重点关注哪些问题？",
+      "question": "围绕“Call for stories: human–AI collaboration in recent mathematics”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 456
+      "hotnessScore": 447
     },
     {
-      "id": "dee1b834d230374a43dfd2d6d3662270",
-      "title": "Amex introduces a framework to prevent AI agents from unauthorized purchases",
-      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Amex introduces a framework to prevent AI agents from unauthorized purchases”需要重点关注哪些问题？",
+      "id": "caf5bbab822a5da9a8f4c4837161e1e4",
+      "title": "FCA plans to embrace AI to automate financial regulation",
+      "url": "https://www.ft.com/content/3a9364ec-6930-4877-a1a2-c053dd689760?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“FCA plans to embrace AI to automate financial regulation”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 455
+      "hotnessScore": 213
+    },
+    {
+      "id": "f058733979e03aabce20cb578ea76339",
+      "title": "OpenAI claims employee sent secret device information to Apple",
+      "url": "https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“OpenAI claims employee sent secret device information to Apple”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 199
     },
     {
       "id": "aca9f35b657f30757528256e2b127637",
@@ -35,16 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 193
-    },
-    {
-      "id": "3211cb0d30ae2cbb08582f1750df7229",
-      "title": "UK-Canada renewed AI security partnership",
-      "url": "https://www.gov.uk/government/news/uk-canada-renewed-ai-security-partnership",
-      "source": "UK Government · AI Regulation Updates",
-      "question": "围绕“UK-Canada renewed AI security partnership”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 191
+      "hotnessScore": 146
     },
     {
       "id": "5ee8a92952d3d51a60a0f63038c79c77",
@@ -53,7 +53,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“The Download: open model trade-offs and geothermal power’s promise”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 180
+      "hotnessScore": 133
     },
     {
       "id": "07438ae12d7b3b5d3fde6955ccda18d0",
@@ -62,7 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 177
+      "hotnessScore": 129
     },
     {
       "id": "5388d20da1073f57151b9eef8f0583a1",
@@ -71,7 +71,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“IMF upgrades outlook for UK as AI drives growth spurt”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 152
+      "hotnessScore": 105
     },
     {
       "id": "00ca0472253cad3c394d5b95c9e9a8e9",
@@ -80,7 +80,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“AI regulation must mimic Industrial Revolution laws, UK minister says”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 144
+      "hotnessScore": 97
     },
     {
       "id": "75c50b4c6dc5d8319874eb89fe2cd6ea",
@@ -89,16 +89,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Zuckerberg says Meta has reached AI ‘frontier’”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 142
-    },
-    {
-      "id": "5aaf491069cde96ce0bb323da5992f63",
-      "title": "What if AI prefers CVs written by AI?",
-      "url": "https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“What if AI prefers CVs written by AI?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
+      "hotnessScore": 95
     }
   ]
 }
