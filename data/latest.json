@@ -1,23 +1,68 @@
 {
-  "generatedAt": "2026-10-15T05:34:36.219Z",
+  "generatedAt": "2026-10-16T05:28:28.162Z",
   "items": [
     {
-      "id": "2ddd88c05b1bbfb9b0d5eac824a1f9d9",
-      "title": "Asia chip stocks fall, AI funding worries",
-      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-      "source": "Hacker News · AI",
-      "question": "围绕“Asia chip stocks fall, AI funding worries”需要重点关注哪些问题？",
+      "id": "2958751ff004c9a37afbd2326b1dfc99",
+      "title": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
+      "url": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 488
+      "hotnessScore": 227
     },
     {
-      "id": "82bbc79560be8720170bb44c4c83833d",
-      "title": "Call for stories: human–AI collaboration in recent mathematics",
-      "url": "https://terrytao.wordpress.com/2026/10/14/call-for-stories-human-ai-collaboration-in-recent-mathematics/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Call for stories: human–AI collaboration in recent mathematics”需要重点关注哪些问题？",
+      "id": "32254f466cb6bf3e73bcfa835906c5db",
+      "title": "Why law firms should resist the lure of the AI spin-off",
+      "url": "https://www.ft.com/content/0ce2a031-5c81-4b48-a4b1-d19585fd3a66?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Why law firms should resist the lure of the AI spin-off”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 447
+      "hotnessScore": 213
+    },
+    {
+      "id": "2eb678611ac79e3cd51f5c2505ebed32",
+      "title": "Anthropic secured highest junk credit rating in June",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic secured highest junk credit rating in June”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 209
+    },
+    {
+      "id": "c9858faaba18a7e51716e78e10c95408",
+      "title": "Meta and Apple team up on AI model tailored for Mac computers",
+      "url": "https://www.ft.com/content/3568dbda-ac85-45b3-815a-3a8ec853a78d?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Meta and Apple team up on AI model tailored for Mac computers”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 193
+    },
+    {
+      "id": "5eaa25db054df3b25a66dac706ff6bbc",
+      "title": "Tokenomics: smart strategies to deal with the costs of AI and infrastructure",
+      "url": "https://www.ft.com/content/3effd703-591f-43c5-828e-dd11839653eb",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Tokenomics: smart strategies to deal with the costs of AI and infrastructure”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 180
+    },
+    {
+      "id": "a9a0d7ec125b96569e3b39d67c1169c7",
+      "title": "Can AI help experts get their message across?",
+      "url": "https://www.ft.com/content/2a744ab5-e40c-49f3-a9dd-2feee4cff4d8?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Can AI help experts get their message across?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 180
+    },
+    {
+      "id": "4655ef5d87efa5767a5aee1c684fb265",
+      "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "source": "Apple Machine Learning Research",
+      "question": "围绕“Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 177
     },
     {
       "id": "caf5bbab822a5da9a8f4c4837161e1e4",
@@ -26,7 +71,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“FCA plans to embrace AI to automate financial regulation”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 213
+      "hotnessScore": 165
     },
     {
       "id": "f058733979e03aabce20cb578ea76339",
@@ -35,16 +80,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“OpenAI claims employee sent secret device information to Apple”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 199
-    },
-    {
-      "id": "aca9f35b657f30757528256e2b127637",
-      "title": "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing",
-      "url": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 146
+      "hotnessScore": 151
     },
     {
       "id": "5ee8a92952d3d51a60a0f63038c79c77",
@@ -53,43 +89,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“The Download: open model trade-offs and geothermal power’s promise”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 133
-    },
-    {
-      "id": "07438ae12d7b3b5d3fde6955ccda18d0",
-      "title": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices",
-      "url": "https://www.ft.com/content/64aaa8d5-f26a-4b96-b8cf-0ef0c6fbe69e?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 129
-    },
-    {
-      "id": "5388d20da1073f57151b9eef8f0583a1",
-      "title": "IMF upgrades outlook for UK as AI drives growth spurt",
-      "url": "https://www.ft.com/content/4a7a7282-74a5-4d12-8294-6dd0d4802d88?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“IMF upgrades outlook for UK as AI drives growth spurt”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 105
-    },
-    {
-      "id": "00ca0472253cad3c394d5b95c9e9a8e9",
-      "title": "AI regulation must mimic Industrial Revolution laws, UK minister says",
-      "url": "https://www.ft.com/content/ba28b7cd-293e-4eee-a073-ad81aaefced3?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“AI regulation must mimic Industrial Revolution laws, UK minister says”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 97
-    },
-    {
-      "id": "75c50b4c6dc5d8319874eb89fe2cd6ea",
-      "title": "Zuckerberg says Meta has reached AI ‘frontier’",
-      "url": "https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Zuckerberg says Meta has reached AI ‘frontier’”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 95
+      "hotnessScore": 85
     }
   ]
 }
