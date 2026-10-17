@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-16T05:28:28.162Z",
+  "generatedAt": "2026-10-17T05:20:22.157Z",
   "items": [
+    {
+      "id": "b9a80b88b1fc22dcb3fe39a1c1f7b1ac",
+      "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
+      "url": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic offers Blackstone double-digit yield in latest chip financing”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 203
+    },
     {
       "id": "2958751ff004c9a37afbd2326b1dfc99",
       "title": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
@@ -8,7 +17,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 227
+      "hotnessScore": 179
     },
     {
       "id": "32254f466cb6bf3e73bcfa835906c5db",
@@ -17,16 +26,16 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Why law firms should resist the lure of the AI spin-off”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 213
+      "hotnessScore": 165
     },
     {
       "id": "2eb678611ac79e3cd51f5c2505ebed32",
-      "title": "Anthropic secured highest junk credit rating in June",
+      "title": "Anthropic assigned highest junk credit rating in June",
       "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Anthropic secured highest junk credit rating in June”需要重点关注哪些问题？",
+      "question": "围绕“Anthropic assigned highest junk credit rating in June”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 209
+      "hotnessScore": 161
     },
     {
       "id": "c9858faaba18a7e51716e78e10c95408",
@@ -35,7 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Meta and Apple team up on AI model tailored for Mac computers”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 193
+      "hotnessScore": 145
     },
     {
       "id": "5eaa25db054df3b25a66dac706ff6bbc",
@@ -44,7 +53,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Tokenomics: smart strategies to deal with the costs of AI and infrastructure”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 180
+      "hotnessScore": 132
     },
     {
       "id": "a9a0d7ec125b96569e3b39d67c1169c7",
@@ -53,7 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Can AI help experts get their message across?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 180
+      "hotnessScore": 132
     },
     {
       "id": "4655ef5d87efa5767a5aee1c684fb265",
@@ -62,7 +71,7 @@
       "source": "Apple Machine Learning Research",
       "question": "围绕“Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 177
+      "hotnessScore": 129
     },
     {
       "id": "caf5bbab822a5da9a8f4c4837161e1e4",
@@ -71,25 +80,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“FCA plans to embrace AI to automate financial regulation”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 165
-    },
-    {
-      "id": "f058733979e03aabce20cb578ea76339",
-      "title": "OpenAI claims employee sent secret device information to Apple",
-      "url": "https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“OpenAI claims employee sent secret device information to Apple”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 151
-    },
-    {
-      "id": "5ee8a92952d3d51a60a0f63038c79c77",
-      "title": "The Download: open model trade-offs and geothermal power’s promise",
-      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-      "source": "MIT Technology Review",
-      "question": "围绕“The Download: open model trade-offs and geothermal power’s promise”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 85
+      "hotnessScore": 117
     }
   ]
 }
