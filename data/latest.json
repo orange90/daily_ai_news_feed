@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-17T05:20:22.157Z",
+  "generatedAt": "2026-10-18T05:27:23.832Z",
   "items": [
+    {
+      "id": "bc08b90df76c6dfc1e357a0437369d26",
+      "title": "Anthropic turns to lawyers to help AI agents strike deals",
+      "url": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic turns to lawyers to help AI agents strike deals”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 213
+    },
     {
       "id": "b9a80b88b1fc22dcb3fe39a1c1f7b1ac",
       "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
@@ -8,7 +17,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic offers Blackstone double-digit yield in latest chip financing”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 203
+      "hotnessScore": 155
     },
     {
       "id": "2958751ff004c9a37afbd2326b1dfc99",
@@ -17,7 +26,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 179
+      "hotnessScore": 131
     },
     {
       "id": "32254f466cb6bf3e73bcfa835906c5db",
@@ -26,7 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Why law firms should resist the lure of the AI spin-off”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 165
+      "hotnessScore": 117
     },
     {
       "id": "2eb678611ac79e3cd51f5c2505ebed32",
@@ -35,7 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic assigned highest junk credit rating in June”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 161
+      "hotnessScore": 113
     },
     {
       "id": "c9858faaba18a7e51716e78e10c95408",
@@ -44,25 +53,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Meta and Apple team up on AI model tailored for Mac computers”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 145
-    },
-    {
-      "id": "5eaa25db054df3b25a66dac706ff6bbc",
-      "title": "Tokenomics: smart strategies to deal with the costs of AI and infrastructure",
-      "url": "https://www.ft.com/content/3effd703-591f-43c5-828e-dd11839653eb",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Tokenomics: smart strategies to deal with the costs of AI and infrastructure”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 132
-    },
-    {
-      "id": "a9a0d7ec125b96569e3b39d67c1169c7",
-      "title": "Can AI help experts get their message across?",
-      "url": "https://www.ft.com/content/2a744ab5-e40c-49f3-a9dd-2feee4cff4d8?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Can AI help experts get their message across?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 132
+      "hotnessScore": 97
     },
     {
       "id": "4655ef5d87efa5767a5aee1c684fb265",
@@ -71,16 +62,7 @@
       "source": "Apple Machine Learning Research",
       "question": "围绕“Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 129
-    },
-    {
-      "id": "caf5bbab822a5da9a8f4c4837161e1e4",
-      "title": "FCA plans to embrace AI to automate financial regulation",
-      "url": "https://www.ft.com/content/3a9364ec-6930-4877-a1a2-c053dd689760?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“FCA plans to embrace AI to automate financial regulation”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 117
+      "hotnessScore": 92
     }
   ]
 }
