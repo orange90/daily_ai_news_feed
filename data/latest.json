@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-18T05:27:23.832Z",
+  "generatedAt": "2026-10-19T05:45:00.783Z",
   "items": [
+    {
+      "id": "221ae42da5ceb780dbd3858d4d239b0f",
+      "title": "Air: A Python web framework designed for AI to write",
+      "url": "https://airwebframework.org/",
+      "source": "Hacker News · AI",
+      "question": "围绕“Air: A Python web framework designed for AI to write”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 458
+    },
     {
       "id": "bc08b90df76c6dfc1e357a0437369d26",
       "title": "Anthropic turns to lawyers to help AI agents strike deals",
@@ -8,16 +17,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic turns to lawyers to help AI agents strike deals”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 213
-    },
-    {
-      "id": "b9a80b88b1fc22dcb3fe39a1c1f7b1ac",
-      "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
-      "url": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Anthropic offers Blackstone double-digit yield in latest chip financing”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 155
+      "hotnessScore": 165
     },
     {
       "id": "2958751ff004c9a37afbd2326b1dfc99",
@@ -26,34 +26,16 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 131
+      "hotnessScore": 112
     },
     {
-      "id": "32254f466cb6bf3e73bcfa835906c5db",
-      "title": "Why law firms should resist the lure of the AI spin-off",
-      "url": "https://www.ft.com/content/0ce2a031-5c81-4b48-a4b1-d19585fd3a66?syn-25a6b1a6=1",
+      "id": "b9a80b88b1fc22dcb3fe39a1c1f7b1ac",
+      "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
+      "url": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Why law firms should resist the lure of the AI spin-off”需要重点关注哪些问题？",
+      "question": "围绕“Anthropic offers Blackstone double-digit yield in latest chip financing”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 117
-    },
-    {
-      "id": "2eb678611ac79e3cd51f5c2505ebed32",
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Anthropic assigned highest junk credit rating in June”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 113
-    },
-    {
-      "id": "c9858faaba18a7e51716e78e10c95408",
-      "title": "Meta and Apple team up on AI model tailored for Mac computers",
-      "url": "https://www.ft.com/content/3568dbda-ac85-45b3-815a-3a8ec853a78d?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Meta and Apple team up on AI model tailored for Mac computers”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 97
+      "hotnessScore": 106
     },
     {
       "id": "4655ef5d87efa5767a5aee1c684fb265",
@@ -63,6 +45,24 @@
       "question": "围绕“Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 92
+    },
+    {
+      "id": "32254f466cb6bf3e73bcfa835906c5db",
+      "title": "Why law firms should resist the lure of the AI spin-off",
+      "url": "https://www.ft.com/content/0ce2a031-5c81-4b48-a4b1-d19585fd3a66?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Why law firms should resist the lure of the AI spin-off”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 72
+    },
+    {
+      "id": "2eb678611ac79e3cd51f5c2505ebed32",
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic assigned highest junk credit rating in June”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 68
     }
   ]
 }
