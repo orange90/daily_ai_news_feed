@@ -1,14 +1,59 @@
 {
-  "generatedAt": "2026-10-19T05:45:00.783Z",
+  "generatedAt": "2026-10-20T05:41:31.035Z",
   "items": [
     {
-      "id": "221ae42da5ceb780dbd3858d4d239b0f",
-      "title": "Air: A Python web framework designed for AI to write",
-      "url": "https://airwebframework.org/",
+      "id": "0e369f40a9ff0b73ef2f272a837c5433",
+      "title": "Show HN: Visual heat map of AI news updated hourly",
+      "url": "https://ai-news.jagular.io",
       "source": "Hacker News · AI",
-      "question": "围绕“Air: A Python web framework designed for AI to write”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: Visual heat map of AI news updated hourly”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 458
+      "hotnessScore": 450
+    },
+    {
+      "id": "d23e0cf52dadfc9632c6b3abdb8f312f",
+      "title": "Data centre builder tumbles on trading debut",
+      "url": "https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Data centre builder tumbles on trading debut”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 205
+    },
+    {
+      "id": "32bf1c1d7d4b75fe85858321c4a0397e",
+      "title": "OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim",
+      "url": "https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 200
+    },
+    {
+      "id": "2aee858e6766dda73454bb3545563514",
+      "title": "Anthropic and Nscale in talks for second multibillion-dollar deal",
+      "url": "https://www.ft.com/content/26a604d8-1a9d-4801-bd73-6ac588b63bdc?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic and Nscale in talks for second multibillion-dollar deal”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 198
+    },
+    {
+      "id": "4f4385195f9bb9fa54e92e1dc358f343",
+      "title": "UK regulator brings new AI and MedTech agenda to AdvaMed",
+      "url": "https://www.gov.uk/government/news/uk-regulator-brings-new-ai-and-medtech-agenda-to-advamed",
+      "source": "UK Government · AI Regulation Updates",
+      "question": "围绕“UK regulator brings new AI and MedTech agenda to AdvaMed”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 187
+    },
+    {
+      "id": "fb6576eb68358f11006616993fca1042",
+      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+      "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Anthropic is AI trade's last big hope for a major IPO this year”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 176
     },
     {
       "id": "bc08b90df76c6dfc1e357a0437369d26",
@@ -17,7 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic turns to lawyers to help AI agents strike deals”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 165
+      "hotnessScore": 117
     },
     {
       "id": "2958751ff004c9a37afbd2326b1dfc99",
@@ -29,15 +74,6 @@
       "hotnessScore": 112
     },
     {
-      "id": "b9a80b88b1fc22dcb3fe39a1c1f7b1ac",
-      "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
-      "url": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Anthropic offers Blackstone double-digit yield in latest chip financing”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 106
-    },
-    {
       "id": "4655ef5d87efa5767a5aee1c684fb265",
       "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
       "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
@@ -47,20 +83,11 @@
       "hotnessScore": 92
     },
     {
-      "id": "32254f466cb6bf3e73bcfa835906c5db",
-      "title": "Why law firms should resist the lure of the AI spin-off",
-      "url": "https://www.ft.com/content/0ce2a031-5c81-4b48-a4b1-d19585fd3a66?syn-25a6b1a6=1",
+      "id": "b9a80b88b1fc22dcb3fe39a1c1f7b1ac",
+      "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
+      "url": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Why law firms should resist the lure of the AI spin-off”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
-    },
-    {
-      "id": "2eb678611ac79e3cd51f5c2505ebed32",
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Anthropic assigned highest junk credit rating in June”需要重点关注哪些问题？",
+      "question": "围绕“Anthropic offers Blackstone double-digit yield in latest chip financing”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
     }
