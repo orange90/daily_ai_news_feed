@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-10-21T05:44:33.990Z",
+  "generatedAt": "2026-10-22T05:46:12.621Z",
   "items": [
+    {
+      "id": "a4a01b02f54d46bb8618871ee2e6feb4",
+      "title": "LiteLLM Security Update",
+      "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
+      "source": "Hacker News · AI",
+      "question": "围绕“LiteLLM Security Update”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 472
+    },
+    {
+      "id": "ff2885e59fb308355ed609b49fccb33a",
+      "title": "Ask HN: How has your company adapted interviews in the AI world?",
+      "url": "https://news.ycombinator.com/item?id=50191025",
+      "source": "Hacker News · AI",
+      "question": "围绕“Ask HN: How has your company adapted interviews in the AI world?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 450
+    },
+    {
+      "id": "3c6c8d58b9f9b5f34195f5db232d2510",
+      "title": "Unsupervised AI agent reportedly deletes TV show's edit before release",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-deletes-tv-shows-entire-edit-weeks-before-release-backup-failure-means-production-team-needs-to-re-edit",
+      "source": "Hacker News · AI",
+      "question": "围绕“Unsupervised AI agent reportedly deletes TV show's edit before release”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 448
+    },
+    {
+      "id": "4b14326280cc59851283e470fed10ca9",
+      "title": "ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
+      "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“ServiceNow and Nvidia launch Arc, a new AI agent for enterprise”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 219
+    },
+    {
+      "id": "dc5309dba04e675e6ddb2cb4dac10495",
+      "title": "Who’s paying for the AI build-out? Probably you",
+      "url": "https://www.ft.com/content/09f56730-4702-446d-9986-f7c93ffe6bf0?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Who’s paying for the AI build-out? Probably you”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 182
+    },
     {
       "id": "7e6837587b653332edd5b97068f9b4b3",
       "title": "Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)",
@@ -8,7 +53,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 229
+      "hotnessScore": 180
     },
     {
       "id": "f5e613fac69dc48d785a7dadb1ad9689",
@@ -17,7 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“SpaceX and Tesla boards explore potential merger”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 204
+      "hotnessScore": 156
     },
     {
       "id": "d23e0cf52dadfc9632c6b3abdb8f312f",
@@ -26,7 +71,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“South Korean data centre builder tumbles 32% on trading debut”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 167
+      "hotnessScore": 119
     },
     {
       "id": "f6d25d5682df6af6df8d4b155875a87f",
@@ -35,34 +80,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Microsoft gives data centre hopefuls a pre-IPO reality check”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 161
-    },
-    {
-      "id": "32bf1c1d7d4b75fe85858321c4a0397e",
-      "title": "OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim",
-      "url": "https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 151
-    },
-    {
-      "id": "2aee858e6766dda73454bb3545563514",
-      "title": "Anthropic and Nscale in talks for second multibillion-dollar deal",
-      "url": "https://www.ft.com/content/26a604d8-1a9d-4801-bd73-6ac588b63bdc?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Anthropic and Nscale in talks for second multibillion-dollar deal”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 149
-    },
-    {
-      "id": "fb6576eb68358f11006616993fca1042",
-      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-      "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Anthropic is AI trade's last big hope for a major IPO this year”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 128
+      "hotnessScore": 112
     },
     {
       "id": "2958751ff004c9a37afbd2326b1dfc99",
@@ -74,22 +92,31 @@
       "hotnessScore": 112
     },
     {
-      "id": "4655ef5d87efa5767a5aee1c684fb265",
-      "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "source": "Apple Machine Learning Research",
-      "question": "围绕“Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio”需要重点关注哪些问题？",
+      "id": "32bf1c1d7d4b75fe85858321c4a0397e",
+      "title": "OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim",
+      "url": "https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 92
+      "hotnessScore": 103
     },
     {
-      "id": "bc08b90df76c6dfc1e357a0437369d26",
-      "title": "Anthropic turns to lawyers to help AI agents strike deals",
-      "url": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9?syn-25a6b1a6=1",
+      "id": "2aee858e6766dda73454bb3545563514",
+      "title": "Anthropic and Nscale in talks for second multibillion-dollar deal",
+      "url": "https://www.ft.com/content/26a604d8-1a9d-4801-bd73-6ac588b63bdc?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Anthropic turns to lawyers to help AI agents strike deals”需要重点关注哪些问题？",
+      "question": "围绕“Anthropic and Nscale in talks for second multibillion-dollar deal”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
+      "hotnessScore": 101
+    },
+    {
+      "id": "fb6576eb68358f11006616993fca1042",
+      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+      "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Anthropic is AI trade's last big hope for a major IPO this year”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 80
     }
   ]
 }
