@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-23T05:45:12.666Z",
+  "generatedAt": "2026-10-24T05:24:16.811Z",
   "items": [
+    {
+      "id": "820264d24ea09f2142d36c69be529f99",
+      "title": "Algernon – A B2B compliance and security oracle for AI agents on Base via x402",
+      "url": "https://github.com/tobiaslofton/algernon-x402-oracle",
+      "source": "Hacker News · AI",
+      "question": "围绕“Algernon – A B2B compliance and security oracle for AI agents on Base via x402”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 452
+    },
+    {
+      "id": "3a09eebf28a79baa37ca86ef5cabccf0",
+      "title": "Chancellor unveils Britain’s ambitious plan for AI",
+      "url": "https://www.gov.uk/government/news/chancellor-unveils-britains-ambitious-plan-for-ai",
+      "source": "UK Government · AI Regulation Updates",
+      "question": "围绕“Chancellor unveils Britain’s ambitious plan for AI”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 211
+    },
+    {
+      "id": "d6e970299fa0708f156ae635df9fef6d",
+      "title": "Introducing the AI Biosecurity Lab",
+      "url": "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab",
+      "source": "UK Government · AI Regulation Updates",
+      "question": "围绕“Introducing the AI Biosecurity Lab”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 207
+    },
+    {
+      "id": "ebc5aad63a8f0bae3fc77c43cbe92bc4",
+      "title": "Anthropic strikes deal to launch European consultancy",
+      "url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic strikes deal to launch European consultancy”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 183
+    },
     {
       "id": "edd278e60f4e3061997a262db6628bac",
       "title": "AI’s hidden storage bill: What inference leaves behind",
@@ -8,7 +44,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“AI’s hidden storage bill: What inference leaves behind”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 174
+      "hotnessScore": 127
     },
     {
       "id": "4b14326280cc59851283e470fed10ca9",
@@ -17,7 +53,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“ServiceNow and Nvidia launch Arc, a new AI agent for enterprise”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 171
+      "hotnessScore": 124
     },
     {
       "id": "6a68c1f6877fce8f39d06108911ab096",
@@ -26,16 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Barclays to cut 5,000 jobs as bank steps up AI adoption”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 168
-    },
-    {
-      "id": "dc5309dba04e675e6ddb2cb4dac10495",
-      "title": "Who’s paying for the AI build-out? Probably you",
-      "url": "https://www.ft.com/content/09f56730-4702-446d-9986-f7c93ffe6bf0?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Who’s paying for the AI build-out? Probably you”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 135
+      "hotnessScore": 121
     },
     {
       "id": "7e6837587b653332edd5b97068f9b4b3",
@@ -44,34 +71,16 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 132
+      "hotnessScore": 104
     },
     {
-      "id": "f5e613fac69dc48d785a7dadb1ad9689",
-      "title": "SpaceX and Tesla boards explore potential merger",
-      "url": "https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
+      "id": "dc5309dba04e675e6ddb2cb4dac10495",
+      "title": "Who’s paying for the AI build-out? Probably you",
+      "url": "https://www.ft.com/content/09f56730-4702-446d-9986-f7c93ffe6bf0?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“SpaceX and Tesla boards explore potential merger”需要重点关注哪些问题？",
+      "question": "围绕“Who’s paying for the AI build-out? Probably you”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 108
-    },
-    {
-      "id": "d23e0cf52dadfc9632c6b3abdb8f312f",
-      "title": "South Korean data centre builder tumbles 32% on trading debut",
-      "url": "https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“South Korean data centre builder tumbles 32% on trading debut”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 71
-    },
-    {
-      "id": "f6d25d5682df6af6df8d4b155875a87f",
-      "title": "Microsoft gives data centre hopefuls a pre-IPO reality check",
-      "url": "https://www.ft.com/content/0751ec3e-48d5-462c-a8d0-eca325daf1f3?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Microsoft gives data centre hopefuls a pre-IPO reality check”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
+      "hotnessScore": 87
     },
     {
       "id": "fb6576eb68358f11006616993fca1042",
