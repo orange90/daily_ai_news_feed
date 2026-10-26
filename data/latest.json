@@ -1,42 +1,6 @@
 {
-  "generatedAt": "2026-10-25T05:42:52.167Z",
+  "generatedAt": "2026-10-26T05:47:07.593Z",
   "items": [
-    {
-      "id": "786100c502dfb225dc73465979f50cff",
-      "title": "Documentary film 'Bot Love' exploring AI companionship to debut Oct. 21",
-      "url": "https://www.thesuburban.com/arts_and_entertainment/entertainment/documentary-film-bot-love-exploring-ai-companionship-to-debut-oct-21-on-cbc-and-cbc/article_f7277775-bd32-475f-9aa5-3ce58907374f.html",
-      "source": "Hacker News · AI",
-      "question": "围绕“Documentary film 'Bot Love' exploring AI companionship to debut Oct. 21”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 452
-    },
-    {
-      "id": "b4631976d3746cf2e6af60d3994e14eb",
-      "title": "Show HN: AI Senate – AI senators debate live policy and vote on the record",
-      "url": "https://aisenatus.com",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: AI Senate – AI senators debate live policy and vote on the record”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 452
-    },
-    {
-      "id": "275d6ae3e20aff966b6041650c569b61",
-      "title": "UK government sets out $800M of AI security funding",
-      "url": "https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/",
-      "source": "Hacker News · AI",
-      "question": "围绕“UK government sets out $800M of AI security funding”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 450
-    },
-    {
-      "id": "c536bcad63206ef5fc106e183e12edc1",
-      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-      "url": "https://huggingface.co/destined/hurston-1",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 447
-    },
     {
       "id": "3a09eebf28a79baa37ca86ef5cabccf0",
       "title": "Chancellor unveils Britain’s ambitious plan for AI",
@@ -44,25 +8,7 @@
       "source": "UK Government · AI Regulation Updates",
       "question": "围绕“Chancellor unveils Britain’s ambitious plan for AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 163
-    },
-    {
-      "id": "d6e970299fa0708f156ae635df9fef6d",
-      "title": "Introducing the AI Biosecurity Lab",
-      "url": "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab",
-      "source": "UK Government · AI Regulation Updates",
-      "question": "围绕“Introducing the AI Biosecurity Lab”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 159
-    },
-    {
-      "id": "ebc5aad63a8f0bae3fc77c43cbe92bc4",
-      "title": "Anthropic strikes deal to launch European consultancy",
-      "url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Anthropic strikes deal to launch European consultancy”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 135
+      "hotnessScore": 114
     },
     {
       "id": "4b14326280cc59851283e470fed10ca9",
@@ -74,6 +20,15 @@
       "hotnessScore": 112
     },
     {
+      "id": "d6e970299fa0708f156ae635df9fef6d",
+      "title": "Introducing the AI Biosecurity Lab",
+      "url": "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab",
+      "source": "UK Government · AI Regulation Updates",
+      "question": "围绕“Introducing the AI Biosecurity Lab”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 110
+    },
+    {
       "id": "7e6837587b653332edd5b97068f9b4b3",
       "title": "Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)",
       "url": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
@@ -83,13 +38,22 @@
       "hotnessScore": 104
     },
     {
+      "id": "ebc5aad63a8f0bae3fc77c43cbe92bc4",
+      "title": "Anthropic strikes deal to launch European consultancy",
+      "url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic strikes deal to launch European consultancy”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 87
+    },
+    {
       "id": "edd278e60f4e3061997a262db6628bac",
       "title": "AI’s hidden storage bill: What inference leaves behind",
       "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
       "source": "MIT Technology Review",
       "question": "围绕“AI’s hidden storage bill: What inference leaves behind”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 78
+      "hotnessScore": 72
     },
     {
       "id": "6a68c1f6877fce8f39d06108911ab096",
@@ -98,7 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Barclays to cut 5,000 jobs as bank steps up AI adoption”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
+      "hotnessScore": 68
     },
     {
       "id": "dc5309dba04e675e6ddb2cb4dac10495",
