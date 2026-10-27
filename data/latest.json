@@ -1,14 +1,68 @@
 {
-  "generatedAt": "2026-10-26T05:47:07.593Z",
+  "generatedAt": "2026-10-27T05:59:44.882Z",
   "items": [
     {
-      "id": "3a09eebf28a79baa37ca86ef5cabccf0",
-      "title": "Chancellor unveils Britain’s ambitious plan for AI",
-      "url": "https://www.gov.uk/government/news/chancellor-unveils-britains-ambitious-plan-for-ai",
-      "source": "UK Government · AI Regulation Updates",
-      "question": "围绕“Chancellor unveils Britain’s ambitious plan for AI”需要重点关注哪些问题？",
+      "id": "e0481c7bdac59270e87914208d414f5c",
+      "title": "Request for Immediate Release of Yang–Mills AI Output",
+      "url": "https://agmai.org/#request-immediate-release",
+      "source": "Hacker News · AI",
+      "question": "围绕“Request for Immediate Release of Yang–Mills AI Output”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 114
+      "hotnessScore": 449
+    },
+    {
+      "id": "57f59dd139f1f0023adb279da49ff0f2",
+      "title": "Invite to build your business on KeilHQ",
+      "url": "https://news.ycombinator.com/item?id=50253932",
+      "source": "Hacker News · AI",
+      "question": "围绕“Invite to build your business on KeilHQ”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 447
+    },
+    {
+      "id": "35a76da4086d0627d317869478b5fc75",
+      "title": "Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime",
+      "url": "https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 230
+    },
+    {
+      "id": "10c374cf9ff4227d4d97592c9d3bcebc",
+      "title": "Indian IT services groups turn corner as AI revenue grows",
+      "url": "https://www.ft.com/content/42dc1a1c-2454-4eaf-bafe-ded5ad7855e4?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Indian IT services groups turn corner as AI revenue grows”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 211
+    },
+    {
+      "id": "ceba677f273c631c66ddb5f5b7e9e56b",
+      "title": "Meta plans $95bn stock offering to bankroll AI expansion",
+      "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Meta plans $95bn stock offering to bankroll AI expansion”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 198
+    },
+    {
+      "id": "ebf84f7422373c4226313a76decc8e20",
+      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The Download: everyday AI harms and the race to nuclear spaceflight”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 177
+    },
+    {
+      "id": "48c9c47705c03b5e374ed0c59b06aaf9",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The focus on AI safety disasters ignores everyday harms”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 174
     },
     {
       "id": "4b14326280cc59851283e470fed10ca9",
@@ -18,15 +72,6 @@
       "question": "围绕“ServiceNow and Nvidia launch Arc, a new AI agent for enterprise”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 112
-    },
-    {
-      "id": "d6e970299fa0708f156ae635df9fef6d",
-      "title": "Introducing the AI Biosecurity Lab",
-      "url": "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab",
-      "source": "UK Government · AI Regulation Updates",
-      "question": "围绕“Introducing the AI Biosecurity Lab”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 110
     },
     {
       "id": "7e6837587b653332edd5b97068f9b4b3",
@@ -44,43 +89,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic strikes deal to launch European consultancy”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 87
-    },
-    {
-      "id": "edd278e60f4e3061997a262db6628bac",
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "source": "MIT Technology Review",
-      "question": "围绕“AI’s hidden storage bill: What inference leaves behind”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
-    },
-    {
-      "id": "6a68c1f6877fce8f39d06108911ab096",
-      "title": "Barclays to cut 5,000 jobs as bank steps up AI adoption",
-      "url": "https://www.ft.com/content/e83591cd-13d4-4358-aee9-c500930bfd36?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Barclays to cut 5,000 jobs as bank steps up AI adoption”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
-      "id": "dc5309dba04e675e6ddb2cb4dac10495",
-      "title": "Who’s paying for the AI build-out? Probably you",
-      "url": "https://www.ft.com/content/09f56730-4702-446d-9986-f7c93ffe6bf0?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Who’s paying for the AI build-out? Probably you”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
-      "id": "fb6576eb68358f11006616993fca1042",
-      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-      "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Anthropic is AI trade's last big hope for a major IPO this year”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 58
+      "hotnessScore": 80
     }
   ]
 }
