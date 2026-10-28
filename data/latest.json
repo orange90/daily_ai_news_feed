@@ -1,23 +1,14 @@
 {
-  "generatedAt": "2026-10-27T05:59:44.882Z",
+  "generatedAt": "2026-10-28T06:38:43.596Z",
   "items": [
     {
-      "id": "e0481c7bdac59270e87914208d414f5c",
-      "title": "Request for Immediate Release of Yang–Mills AI Output",
-      "url": "https://agmai.org/#request-immediate-release",
-      "source": "Hacker News · AI",
-      "question": "围绕“Request for Immediate Release of Yang–Mills AI Output”需要重点关注哪些问题？",
+      "id": "50a80ba91eae7423029675428e378f30",
+      "title": "The limits of hedging the AI boom",
+      "url": "https://www.ft.com/content/0b0ae366-c1e0-4c35-8cad-c924a23d33e7?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“The limits of hedging the AI boom”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 449
-    },
-    {
-      "id": "57f59dd139f1f0023adb279da49ff0f2",
-      "title": "Invite to build your business on KeilHQ",
-      "url": "https://news.ycombinator.com/item?id=50253932",
-      "source": "Hacker News · AI",
-      "question": "围绕“Invite to build your business on KeilHQ”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 447
+      "hotnessScore": 185
     },
     {
       "id": "35a76da4086d0627d317869478b5fc75",
@@ -26,16 +17,25 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 230
+      "hotnessScore": 180
+    },
+    {
+      "id": "f80d7923d81c57f8f4592732ee2a9248",
+      "title": "How solid-state transformers could help power the AI boom",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "source": "MIT Technology Review",
+      "question": "围绕“How solid-state transformers could help power the AI boom”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 165
     },
     {
       "id": "10c374cf9ff4227d4d97592c9d3bcebc",
-      "title": "Indian IT services groups turn corner as AI revenue grows",
+      "title": "India’s outsourcers defy AI threat",
       "url": "https://www.ft.com/content/42dc1a1c-2454-4eaf-bafe-ded5ad7855e4?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Indian IT services groups turn corner as AI revenue grows”需要重点关注哪些问题？",
+      "question": "围绕“India’s outsourcers defy AI threat”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 211
+      "hotnessScore": 161
     },
     {
       "id": "ceba677f273c631c66ddb5f5b7e9e56b",
@@ -44,7 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Meta plans $95bn stock offering to bankroll AI expansion”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 198
+      "hotnessScore": 148
     },
     {
       "id": "ebf84f7422373c4226313a76decc8e20",
@@ -53,7 +53,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“The Download: everyday AI harms and the race to nuclear spaceflight”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 177
+      "hotnessScore": 128
     },
     {
       "id": "48c9c47705c03b5e374ed0c59b06aaf9",
@@ -62,7 +62,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“The focus on AI safety disasters ignores everyday harms”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 174
+      "hotnessScore": 125
     },
     {
       "id": "4b14326280cc59851283e470fed10ca9",
@@ -72,24 +72,6 @@
       "question": "围绕“ServiceNow and Nvidia launch Arc, a new AI agent for enterprise”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 112
-    },
-    {
-      "id": "7e6837587b653332edd5b97068f9b4b3",
-      "title": "Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)",
-      "url": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 104
-    },
-    {
-      "id": "ebc5aad63a8f0bae3fc77c43cbe92bc4",
-      "title": "Anthropic strikes deal to launch European consultancy",
-      "url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Anthropic strikes deal to launch European consultancy”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 80
     }
   ]
 }
