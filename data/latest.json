@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-29T06:46:12.468Z",
+  "generatedAt": "2026-10-30T06:49:16.826Z",
   "items": [
     {
-      "id": "092e3cbf6732194330e5c4bead61a50f",
-      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-      "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-      "source": "Hacker News · AI",
-      "question": "围绕“MicroZig to Adopt Strict No LLM / No AI Policy”需要重点关注哪些问题？",
+      "id": "ec1befc56b23e9d4a7113e10acd338b5",
+      "title": "Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO",
+      "url": "https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 593
+      "hotnessScore": 208
     },
     {
-      "id": "ede4ac4b4ed56c82a390d53c85e7062e",
-      "title": "NLnet Publishes More Stringent Generative AI Policy",
-      "url": "https://nlnet.nl/news/2026/20261020-AI-policy.html",
-      "source": "Hacker News · AI",
-      "question": "围绕“NLnet Publishes More Stringent Generative AI Policy”需要重点关注哪些问题？",
+      "id": "8ce477412b81d13dbf34b2d1b7c4131e",
+      "title": "US economy beats forecasts to grow at 3.4% rate in third quarter",
+      "url": "https://www.ft.com/content/f2de9f3c-3290-4e87-bbc2-55430025f2ab?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“US economy beats forecasts to grow at 3.4% rate in third quarter”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 460
+      "hotnessScore": 190
     },
     {
       "id": "f36e8ffd85488a9e128798e9f3167bd6",
@@ -26,16 +26,25 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Opera will run AI locally in your browser now – why that’s a gamechanger and how to try it”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 227
+      "hotnessScore": 179
     },
     {
-      "id": "50a80ba91eae7423029675428e378f30",
-      "title": "The limits of hedging the AI boom",
-      "url": "https://www.ft.com/content/0b0ae366-c1e0-4c35-8cad-c924a23d33e7?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“The limits of hedging the AI boom”需要重点关注哪些问题？",
+      "id": "67089c4bbd7e2e78fb59deab7ed62f8e",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The Download: AI agent tracking and climate feedback loops”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 137
+      "hotnessScore": 175
+    },
+    {
+      "id": "3322acb9e8d32e5b0d94fbee3d3330a5",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "Hugging Face Blog",
+      "question": "围绕“Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 170
     },
     {
       "id": "35a76da4086d0627d317869478b5fc75",
@@ -44,7 +53,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 132
+      "hotnessScore": 104
     },
     {
       "id": "f80d7923d81c57f8f4592732ee2a9248",
@@ -53,43 +62,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“How solid-state transformers could help power the AI boom”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 116
-    },
-    {
-      "id": "10c374cf9ff4227d4d97592c9d3bcebc",
-      "title": "India’s outsourcers defy AI threat",
-      "url": "https://www.ft.com/content/42dc1a1c-2454-4eaf-bafe-ded5ad7855e4?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“India’s outsourcers defy AI threat”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 113
-    },
-    {
-      "id": "ceba677f273c631c66ddb5f5b7e9e56b",
-      "title": "Meta plans $95bn stock offering to bankroll AI expansion",
-      "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Meta plans $95bn stock offering to bankroll AI expansion”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 100
-    },
-    {
-      "id": "ebf84f7422373c4226313a76decc8e20",
-      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
-      "source": "MIT Technology Review",
-      "question": "围绕“The Download: everyday AI harms and the race to nuclear spaceflight”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 80
-    },
-    {
-      "id": "48c9c47705c03b5e374ed0c59b06aaf9",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "source": "MIT Technology Review",
-      "question": "围绕“The focus on AI safety disasters ignores everyday harms”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 76
+      "hotnessScore": 68
     }
   ]
 }
