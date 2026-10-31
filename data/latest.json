@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-30T06:49:16.826Z",
+  "generatedAt": "2026-10-31T06:39:14.027Z",
   "items": [
+    {
+      "id": "4e6a5f8a6ab186d28a5c93432e7fd91e",
+      "title": "Rewriting Copyright Law for Generative AI Would Hurt Everyone",
+      "url": "https://www.eff.org/deeplinks/2026/10/rewriting-copyright-law-generative-ai-would-hurt-everyone",
+      "source": "Hacker News · AI",
+      "question": "围绕“Rewriting Copyright Law for Generative AI Would Hurt Everyone”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 461
+    },
+    {
+      "id": "3dbbee2cba7c2800ae3fab2026515ff0",
+      "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+      "url": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“OpenAI slashes funding target by $10bn as tech anxieties mount”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 199
+    },
+    {
+      "id": "2b6a8afe82c424a688aa1bb93d59bc14",
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic may not secure investment-grade rating after IPO, Blackstone says”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 187
+    },
     {
       "id": "ec1befc56b23e9d4a7113e10acd338b5",
       "title": "Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO",
@@ -8,7 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 208
+      "hotnessScore": 161
     },
     {
       "id": "8ce477412b81d13dbf34b2d1b7c4131e",
@@ -17,7 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“US economy beats forecasts to grow at 3.4% rate in third quarter”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 190
+      "hotnessScore": 143
     },
     {
       "id": "f36e8ffd85488a9e128798e9f3167bd6",
@@ -26,7 +53,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Opera will run AI locally in your browser now – why that’s a gamechanger and how to try it”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 179
+      "hotnessScore": 131
     },
     {
       "id": "67089c4bbd7e2e78fb59deab7ed62f8e",
@@ -35,7 +62,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“The Download: AI agent tracking and climate feedback loops”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 175
+      "hotnessScore": 127
     },
     {
       "id": "3322acb9e8d32e5b0d94fbee3d3330a5",
@@ -44,25 +71,7 @@
       "source": "Hugging Face Blog",
       "question": "围绕“Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 170
-    },
-    {
-      "id": "35a76da4086d0627d317869478b5fc75",
-      "title": "Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime",
-      "url": "https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 104
-    },
-    {
-      "id": "f80d7923d81c57f8f4592732ee2a9248",
-      "title": "How solid-state transformers could help power the AI boom",
-      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
-      "source": "MIT Technology Review",
-      "question": "围绕“How solid-state transformers could help power the AI boom”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
+      "hotnessScore": 123
     }
   ]
 }
