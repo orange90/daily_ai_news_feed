@@ -1,32 +1,23 @@
 {
-  "generatedAt": "2026-11-01T07:08:43.729Z",
+  "generatedAt": "2026-11-02T07:14:48.800Z",
   "items": [
     {
-      "id": "0f359aba9956630f0d7814c87f3b4b56",
-      "title": "Wikimedia Foundation Tries to Save Itself by Brokering AI Copyright Deal",
-      "url": "https://gizmodo.com/wikimedia-foundation-tries-to-save-itself-from-oblivion-by-brokering-ai-copyright-deal-2000833099",
+      "id": "859f3d07be5fa1b5ca3a9ad6f26489ba",
+      "title": "Show HN: Better Together – AI agents team up against spam calls and texts",
+      "url": "https://better-together.fun/",
       "source": "Hacker News · AI",
-      "question": "围绕“Wikimedia Foundation Tries to Save Itself by Brokering AI Copyright Deal”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: Better Together – AI agents team up against spam calls and texts”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 457
+      "hotnessScore": 456
     },
     {
-      "id": "3dbbee2cba7c2800ae3fab2026515ff0",
-      "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
-      "url": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“OpenAI slashes funding target by $10bn as tech anxieties mount”需要重点关注哪些问题？",
+      "id": "e2e4cd1713c708ba0a71490579558a78",
+      "title": "Show HN: Shipvo – open-source RN OTA updates and an AI-drivable simulator",
+      "url": "https://github.com/shipvo/shipvo",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Shipvo – open-source RN OTA updates and an AI-drivable simulator”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 150
-    },
-    {
-      "id": "2b6a8afe82c424a688aa1bb93d59bc14",
-      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Anthropic may not secure investment-grade rating after IPO, Blackstone says”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 138
+      "hotnessScore": 451
     },
     {
       "id": "f36e8ffd85488a9e128798e9f3167bd6",
@@ -38,22 +29,22 @@
       "hotnessScore": 112
     },
     {
-      "id": "ec1befc56b23e9d4a7113e10acd338b5",
-      "title": "Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO",
-      "url": "https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff?syn-25a6b1a6=1",
+      "id": "3dbbee2cba7c2800ae3fab2026515ff0",
+      "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+      "url": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO”需要重点关注哪些问题？",
+      "question": "围绕“OpenAI slashes funding target by $10bn as tech anxieties mount”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 112
+      "hotnessScore": 102
     },
     {
-      "id": "8ce477412b81d13dbf34b2d1b7c4131e",
-      "title": "US economy beats forecasts to grow at 3.4% rate in third quarter",
-      "url": "https://www.ft.com/content/f2de9f3c-3290-4e87-bbc2-55430025f2ab?syn-25a6b1a6=1",
+      "id": "2b6a8afe82c424a688aa1bb93d59bc14",
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“US economy beats forecasts to grow at 3.4% rate in third quarter”需要重点关注哪些问题？",
+      "question": "围绕“Anthropic may not secure investment-grade rating after IPO, Blackstone says”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 94
+      "hotnessScore": 90
     },
     {
       "id": "3322acb9e8d32e5b0d94fbee3d3330a5",
@@ -65,13 +56,22 @@
       "hotnessScore": 88
     },
     {
+      "id": "ec1befc56b23e9d4a7113e10acd338b5",
+      "title": "Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO",
+      "url": "https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 68
+    },
+    {
       "id": "67089c4bbd7e2e78fb59deab7ed62f8e",
       "title": "The Download: AI agent tracking and climate feedback loops",
       "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
       "source": "MIT Technology Review",
       "question": "围绕“The Download: AI agent tracking and climate feedback loops”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 78
+      "hotnessScore": 68
     }
   ]
 }
