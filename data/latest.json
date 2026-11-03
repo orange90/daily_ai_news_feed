@@ -1,23 +1,32 @@
 {
-  "generatedAt": "2026-11-02T07:14:48.800Z",
+  "generatedAt": "2026-11-03T07:34:49.935Z",
   "items": [
     {
-      "id": "859f3d07be5fa1b5ca3a9ad6f26489ba",
-      "title": "Show HN: Better Together – AI agents team up against spam calls and texts",
-      "url": "https://better-together.fun/",
+      "id": "a253fc0c6a63588e9cf106862eaf4f8c",
+      "title": "WorkOS reports security breach",
+      "url": "https://news.ycombinator.com/item?id=50345712",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Better Together – AI agents team up against spam calls and texts”需要重点关注哪些问题？",
+      "question": "围绕“WorkOS reports security breach”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 456
+      "hotnessScore": 644
     },
     {
-      "id": "e2e4cd1713c708ba0a71490579558a78",
-      "title": "Show HN: Shipvo – open-source RN OTA updates and an AI-drivable simulator",
-      "url": "https://github.com/shipvo/shipvo",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Shipvo – open-source RN OTA updates and an AI-drivable simulator”需要重点关注哪些问题？",
+      "id": "234663210c21c19f3a65a3028cdb2d78",
+      "title": "Athenahealth patients can ask Claude about their medical records now",
+      "url": "https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Athenahealth patients can ask Claude about their medical records now”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 451
+      "hotnessScore": 224
+    },
+    {
+      "id": "bf332b57c62d7c071509bfba10e9dbb5",
+      "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
+      "url": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Marvell to buy data centre component maker Lumentum in $115bn AI bet”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 192
     },
     {
       "id": "f36e8ffd85488a9e128798e9f3167bd6",
@@ -29,13 +38,22 @@
       "hotnessScore": 112
     },
     {
+      "id": "3322acb9e8d32e5b0d94fbee3d3330a5",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "Hugging Face Blog",
+      "question": "围绕“Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 88
+    },
+    {
       "id": "3dbbee2cba7c2800ae3fab2026515ff0",
       "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
       "url": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“OpenAI slashes funding target by $10bn as tech anxieties mount”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 102
+      "hotnessScore": 68
     },
     {
       "id": "2b6a8afe82c424a688aa1bb93d59bc14",
@@ -44,16 +62,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic may not secure investment-grade rating after IPO, Blackstone says”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 90
-    },
-    {
-      "id": "3322acb9e8d32e5b0d94fbee3d3330a5",
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "source": "Hugging Face Blog",
-      "question": "围绕“Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 88
+      "hotnessScore": 68
     },
     {
       "id": "ec1befc56b23e9d4a7113e10acd338b5",
@@ -72,6 +81,15 @@
       "question": "围绕“The Download: AI agent tracking and climate feedback loops”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
+    },
+    {
+      "id": "6540202647ec0bc63ae0dbfafce68e9e",
+      "title": "Aon CEO warns AI data center insurance risks could threaten financing",
+      "url": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Aon CEO warns AI data center insurance risks could threaten financing”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 58
     }
   ]
 }
