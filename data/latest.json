@@ -1,14 +1,77 @@
 {
-  "generatedAt": "2026-11-03T07:34:49.935Z",
+  "generatedAt": "2026-11-04T07:15:24.811Z",
   "items": [
     {
-      "id": "a253fc0c6a63588e9cf106862eaf4f8c",
-      "title": "WorkOS reports security breach",
-      "url": "https://news.ycombinator.com/item?id=50345712",
+      "id": "c3ffc7506b4d43e5e22ef5f15652767e",
+      "title": "Anthropic launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
       "source": "Hacker News · AI",
-      "question": "围绕“WorkOS reports security breach”需要重点关注哪些问题？",
+      "question": "围绕“Anthropic launched tools to show companies what their AI spending is buying”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 644
+      "hotnessScore": 471
+    },
+    {
+      "id": "5c676883f5a4d6161168ec2b68e5596a",
+      "title": "Writing as an act of rebellion (Despite the AI psychosis)",
+      "url": "https://charlesfonseca.substack.com/p/writing-as-an-act-of-rebellion",
+      "source": "Hacker News · AI",
+      "question": "围绕“Writing as an act of rebellion (Despite the AI psychosis)”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 462
+    },
+    {
+      "id": "bfe868dda524936460929dbb3381ca1a",
+      "title": "Oracle cancels $7B Tencent AI deal under Trump pressure",
+      "url": "https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c",
+      "source": "Hacker News · AI",
+      "question": "围绕“Oracle cancels $7B Tencent AI deal under Trump pressure”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 462
+    },
+    {
+      "id": "aa6bf6369a739f77d9d3a39d5db63e7e",
+      "title": "Show HN: HackerReels - Short Videos for viral HN posts",
+      "url": "https://wile.ai/v/BPOH3BHCRWWCAKU4OVNOTEQ73A",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: HackerReels - Short Videos for viral HN posts”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 455
+    },
+    {
+      "id": "dfdd7554160ea09c5e353acf9ed68e3b",
+      "title": "Ask HN: What do you call Holy Grail mania risk?",
+      "url": "https://news.ycombinator.com/item?id=50361108",
+      "source": "Hacker News · AI",
+      "question": "围绕“Ask HN: What do you call Holy Grail mania risk?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 454
+    },
+    {
+      "id": "d8df524ef0ffb1d0863ce6d590cbfc65",
+      "title": "SUSE lays off 1 in 10 workers – citing AI and automation",
+      "url": "https://www.zdnet.com/business/suse-lay-offs-workforce-ai-cited/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“SUSE lays off 1 in 10 workers – citing AI and automation”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 226
+    },
+    {
+      "id": "ee41483cadc915e4d26549ecdc724999",
+      "title": "The economic risks of the AI boom",
+      "url": "https://www.ft.com/content/b954b99c-b71e-4334-9789-18e2b69de76d?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“The economic risks of the AI boom”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 207
+    },
+    {
+      "id": "6c944b1a63dbebd34ca4df5d46d25bbb",
+      "title": "Oracle cancels $7bn Tencent AI deal under Trump pressure",
+      "url": "https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Oracle cancels $7bn Tencent AI deal under Trump pressure”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 207
     },
     {
       "id": "234663210c21c19f3a65a3028cdb2d78",
@@ -17,7 +80,16 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Athenahealth patients can ask Claude about their medical records now”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 224
+      "hotnessScore": 177
+    },
+    {
+      "id": "2ce844f0ccac147bf265217914938234",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "MIT Technology Review",
+      "question": "围绕“How “reverse game theory” could keep AI agents in check”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 175
     },
     {
       "id": "bf332b57c62d7c071509bfba10e9dbb5",
@@ -26,16 +98,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Marvell to buy data centre component maker Lumentum in $115bn AI bet”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 192
-    },
-    {
-      "id": "f36e8ffd85488a9e128798e9f3167bd6",
-      "title": "Opera will run AI locally in your browser now – why that’s a gamechanger and how to try it",
-      "url": "https://www.zdnet.com/innovation/opera-webai-local-ai-browser/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Opera will run AI locally in your browser now – why that’s a gamechanger and how to try it”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 112
+      "hotnessScore": 144
     },
     {
       "id": "3322acb9e8d32e5b0d94fbee3d3330a5",
@@ -61,15 +124,6 @@
       "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic may not secure investment-grade rating after IPO, Blackstone says”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
-      "id": "ec1befc56b23e9d4a7113e10acd338b5",
-      "title": "Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO",
-      "url": "https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
     },
