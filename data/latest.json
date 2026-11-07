@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-11-06T07:40:39.075Z",
+  "generatedAt": "2026-11-07T06:50:28.877Z",
   "items": [
     {
-      "id": "d5f5addb03bde21e833edb4274a564f7",
-      "title": "You Had Me at \"Hello\": A Chinese‑Language Framework Targeting AI Infrastructure",
-      "url": "https://era.security/blog/greeter-flowise-ai-infrastructure-attack",
+      "id": "fdfa823460ed80dd818baa411023ca78",
+      "title": "Show HN: Goethe – The infrastructure for self-hosted AI",
+      "url": "https://github.com/meshapplied/Goethe",
       "source": "Hacker News · AI",
-      "question": "围绕“You Had Me at \"Hello\": A Chinese‑Language Framework Targeting AI Infrastructure”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: Goethe – The infrastructure for self-hosted AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 456
+      "hotnessScore": 458
     },
     {
-      "id": "70170d4cccd39bed950f8d94595c260a",
-      "title": "Show HN: Stitch.ai – New all-in-one workspace with Stitchy the AI assistant",
-      "url": "https://app.stitch.ai/auth/signup",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Stitch.ai – New all-in-one workspace with Stitchy the AI assistant”需要重点关注哪些问题？",
+      "id": "cca9e0a83fad9ea19ba869fb73491784",
+      "title": "UK will not slow down on AI despite backlash in US, says growth minister",
+      "url": "https://www.ft.com/content/47dba9d2-4c82-4e17-969d-f1728ef13a5a?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“UK will not slow down on AI despite backlash in US, says growth minister”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 454
+      "hotnessScore": 208
     },
     {
-      "id": "ec0b9dbd428acc8392504df98088b4ce",
-      "title": "Paper: Nubank cuts AI agent update cycles from 3 weeks to under 5 days",
-      "url": "https://arxiv.org/abs/2609.30137",
-      "source": "Hacker News · AI",
-      "question": "围绕“Paper: Nubank cuts AI agent update cycles from 3 weeks to under 5 days”需要重点关注哪些问题？",
+      "id": "5796e3d54dc9ac400e227a153a950633",
+      "title": "Low-profile Wall Street firm to double down on Anthropic despite tech rout",
+      "url": "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Low-profile Wall Street firm to double down on Anthropic despite tech rout”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 437
+      "hotnessScore": 178
     },
     {
       "id": "654c9c0ef554ca44e9885a283d66075a",
@@ -35,7 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“America turns on Trump’s tech cheerleaders”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 207
+      "hotnessScore": 160
     },
     {
       "id": "71089889edece3685ecdd89bb2f823d2",
@@ -44,7 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“China’s block on SoftBank deal fires the starting gun on the robot wars”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 197
+      "hotnessScore": 150
     },
     {
       "id": "da4678af0929a91ba75a04cc2b1b5e12",
@@ -53,7 +53,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Safari finally gets 3 popular browser features – and I can’t wait to try them”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 187
+      "hotnessScore": 141
     },
     {
       "id": "5ed7d9aa4b2d8364cf4b163ca7ab38b8",
@@ -62,7 +62,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Researchers asked people to use AI chatbots for election info – results were mixed”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 181
+      "hotnessScore": 135
     },
     {
       "id": "512a7f662c094431cf556294bb83907e",
@@ -71,7 +71,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“The Download: Texas’s fragile AI boom and energy policy shifts”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 179
+      "hotnessScore": 133
     },
     {
       "id": "8fe82932902012024efde7f9a5defa52",
@@ -80,7 +80,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“What’s the real ROI for AI?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 178
+      "hotnessScore": 131
     },
     {
       "id": "cb6155022e019f1e7f18f4d8369e92a8",
@@ -89,7 +89,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Microsoft rejects multibillion-dollar AI deal with UK’s Nscale”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 159
+      "hotnessScore": 112
     },
     {
       "id": "d8df524ef0ffb1d0863ce6d590cbfc65",
@@ -98,43 +98,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“SUSE lays off 1 in 10 workers – citing AI and automation”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 129
-    },
-    {
-      "id": "ee41483cadc915e4d26549ecdc724999",
-      "title": "Are we ready for an AI bust?",
-      "url": "https://www.ft.com/content/b954b99c-b71e-4334-9789-18e2b69de76d?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Are we ready for an AI bust?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 111
-    },
-    {
-      "id": "6c944b1a63dbebd34ca4df5d46d25bbb",
-      "title": "Oracle cancels $7bn Tencent AI deal under Trump pressure",
-      "url": "https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Oracle cancels $7bn Tencent AI deal under Trump pressure”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 111
-    },
-    {
-      "id": "234663210c21c19f3a65a3028cdb2d78",
-      "title": "Athenahealth patients can ask Claude about their medical records now",
-      "url": "https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Athenahealth patients can ask Claude about their medical records now”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 108
-    },
-    {
-      "id": "2ce844f0ccac147bf265217914938234",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "source": "MIT Technology Review",
-      "question": "围绕“How “reverse game theory” could keep AI agents in check”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 78
     }
   ]
 }
