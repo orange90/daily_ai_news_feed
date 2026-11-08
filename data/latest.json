@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-07T06:50:28.877Z",
+  "generatedAt": "2026-11-08T06:56:36.721Z",
   "items": [
     {
-      "id": "fdfa823460ed80dd818baa411023ca78",
-      "title": "Show HN: Goethe – The infrastructure for self-hosted AI",
-      "url": "https://github.com/meshapplied/Goethe",
+      "id": "049accc1ac9059211ede8fc5ab2a02cb",
+      "title": "Show HN: I built an AI code editor that for teams",
+      "url": "https://www.rxcode.dev/",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Goethe – The infrastructure for self-hosted AI”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: I built an AI code editor that for teams”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 458
+      "hotnessScore": 454
     },
     {
       "id": "cca9e0a83fad9ea19ba869fb73491784",
@@ -17,7 +17,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“UK will not slow down on AI despite backlash in US, says growth minister”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 208
+      "hotnessScore": 160
     },
     {
       "id": "5796e3d54dc9ac400e227a153a950633",
@@ -26,25 +26,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Low-profile Wall Street firm to double down on Anthropic despite tech rout”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 178
-    },
-    {
-      "id": "654c9c0ef554ca44e9885a283d66075a",
-      "title": "America turns on Trump’s tech cheerleaders",
-      "url": "https://www.ft.com/content/bda53f77-f391-4750-ab5d-55e09cbbdb7c?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“America turns on Trump’s tech cheerleaders”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 160
-    },
-    {
-      "id": "71089889edece3685ecdd89bb2f823d2",
-      "title": "China’s block on SoftBank deal fires the starting gun on the robot wars",
-      "url": "https://www.ft.com/content/77b31f52-0485-414b-be6a-198d71fabc1a?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“China’s block on SoftBank deal fires the starting gun on the robot wars”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 150
+      "hotnessScore": 130
     },
     {
       "id": "da4678af0929a91ba75a04cc2b1b5e12",
@@ -53,7 +35,16 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Safari finally gets 3 popular browser features – and I can’t wait to try them”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 141
+      "hotnessScore": 120
+    },
+    {
+      "id": "654c9c0ef554ca44e9885a283d66075a",
+      "title": "America turns on Trump’s tech cheerleaders",
+      "url": "https://www.ft.com/content/bda53f77-f391-4750-ab5d-55e09cbbdb7c?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“America turns on Trump’s tech cheerleaders”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 112
     },
     {
       "id": "5ed7d9aa4b2d8364cf4b163ca7ab38b8",
@@ -61,33 +52,6 @@
       "url": "https://www.zdnet.com/innovation/ai-users-ask-chatbots-voting-advice-elections-yale-research/",
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Researchers asked people to use AI chatbots for election info – results were mixed”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 135
-    },
-    {
-      "id": "512a7f662c094431cf556294bb83907e",
-      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "source": "MIT Technology Review",
-      "question": "围绕“The Download: Texas’s fragile AI boom and energy policy shifts”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 133
-    },
-    {
-      "id": "8fe82932902012024efde7f9a5defa52",
-      "title": "What’s the real ROI for AI?",
-      "url": "https://www.ft.com/content/ed9ea00a-cc98-4b12-a300-794dcf1a11cb?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“What’s the real ROI for AI?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 131
-    },
-    {
-      "id": "cb6155022e019f1e7f18f4d8369e92a8",
-      "title": "Microsoft rejects multibillion-dollar AI deal with UK’s Nscale",
-      "url": "https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Microsoft rejects multibillion-dollar AI deal with UK’s Nscale”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 112
     },
@@ -99,6 +63,33 @@
       "question": "围绕“SUSE lays off 1 in 10 workers – citing AI and automation”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 108
+    },
+    {
+      "id": "71089889edece3685ecdd89bb2f823d2",
+      "title": "China’s block on SoftBank deal fires the starting gun on the robot wars",
+      "url": "https://www.ft.com/content/77b31f52-0485-414b-be6a-198d71fabc1a?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“China’s block on SoftBank deal fires the starting gun on the robot wars”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 102
+    },
+    {
+      "id": "512a7f662c094431cf556294bb83907e",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The Download: Texas’s fragile AI boom and energy policy shifts”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 84
+    },
+    {
+      "id": "8fe82932902012024efde7f9a5defa52",
+      "title": "What’s the real ROI for AI?",
+      "url": "https://www.ft.com/content/ed9ea00a-cc98-4b12-a300-794dcf1a11cb?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“What’s the real ROI for AI?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 83
     }
   ]
 }
