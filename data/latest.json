@@ -1,32 +1,68 @@
 {
-  "generatedAt": "2026-11-08T06:56:36.721Z",
+  "generatedAt": "2026-11-09T07:41:11.506Z",
   "items": [
     {
-      "id": "049accc1ac9059211ede8fc5ab2a02cb",
-      "title": "Show HN: I built an AI code editor that for teams",
-      "url": "https://www.rxcode.dev/",
+      "id": "df211ad107d0d98a9fbce308a9a6875c",
+      "title": "Show HN: Mindfries- AI Interviewer based on real eng skill not on L**tC*de",
+      "url": "https://company.mindfries.com/login",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: I built an AI code editor that for teams”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: Mindfries- AI Interviewer based on real eng skill not on L**tC*de”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 454
+      "hotnessScore": 458
     },
     {
-      "id": "cca9e0a83fad9ea19ba869fb73491784",
-      "title": "UK will not slow down on AI despite backlash in US, says growth minister",
-      "url": "https://www.ft.com/content/47dba9d2-4c82-4e17-969d-f1728ef13a5a?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“UK will not slow down on AI despite backlash in US, says growth minister”需要重点关注哪些问题？",
+      "id": "7c774139b873efdf87e955288989263b",
+      "title": "Anthropic secures $3.4B generator deal for AI data centers",
+      "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/",
+      "source": "Hacker News · AI",
+      "question": "围绕“Anthropic secures $3.4B generator deal for AI data centers”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 160
+      "hotnessScore": 456
     },
     {
-      "id": "5796e3d54dc9ac400e227a153a950633",
-      "title": "Low-profile Wall Street firm to double down on Anthropic despite tech rout",
-      "url": "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Low-profile Wall Street firm to double down on Anthropic despite tech rout”需要重点关注哪些问题？",
+      "id": "5635c3e34f5407711053a460d808d348",
+      "title": "Show HN: Airlock – Policy-as-code for fleets of AI coding agents",
+      "url": "https://airlock.lunareng.com/docs",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Airlock – Policy-as-code for fleets of AI coding agents”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 130
+      "hotnessScore": 452
+    },
+    {
+      "id": "840b7ae0dcbaab54f25c97377c5ba81e",
+      "title": "Open Source AI Research Collaboration Platform",
+      "url": "https://station-house.net/",
+      "source": "Hacker News · AI",
+      "question": "围绕“Open Source AI Research Collaboration Platform”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 440
+    },
+    {
+      "id": "8b1593eed6663acf7d11ca45e010d380",
+      "title": "Ask HN: What do you use to get the latest technical AI news?",
+      "url": "https://news.ycombinator.com/item?id=50419260",
+      "source": "Hacker News · AI",
+      "question": "围绕“Ask HN: What do you use to get the latest technical AI news?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 436
+    },
+    {
+      "id": "3135fc284eafc87f7de52df2d64be935",
+      "title": "Tech’s teetering towers",
+      "url": "https://www.ft.com/content/d3f706c8-a936-4395-bcf1-7f8bc2bed99a?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Tech’s teetering towers”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 207
+    },
+    {
+      "id": "5d8f99b60d9678914ff720e84d89ba8e",
+      "title": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres",
+      "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic strikes $3.4bn deal to generate gas-fired power for data centres”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 171
     },
     {
       "id": "da4678af0929a91ba75a04cc2b1b5e12",
@@ -38,15 +74,6 @@
       "hotnessScore": 120
     },
     {
-      "id": "654c9c0ef554ca44e9885a283d66075a",
-      "title": "America turns on Trump’s tech cheerleaders",
-      "url": "https://www.ft.com/content/bda53f77-f391-4750-ab5d-55e09cbbdb7c?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“America turns on Trump’s tech cheerleaders”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 112
-    },
-    {
       "id": "5ed7d9aa4b2d8364cf4b163ca7ab38b8",
       "title": "Researchers asked people to use AI chatbots for election info – results were mixed",
       "url": "https://www.zdnet.com/innovation/ai-users-ask-chatbots-voting-advice-elections-yale-research/",
@@ -54,6 +81,15 @@
       "question": "围绕“Researchers asked people to use AI chatbots for election info – results were mixed”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 112
+    },
+    {
+      "id": "cca9e0a83fad9ea19ba869fb73491784",
+      "title": "UK will not slow down on AI despite backlash in US, says growth minister",
+      "url": "https://www.ft.com/content/47dba9d2-4c82-4e17-969d-f1728ef13a5a?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“UK will not slow down on AI despite backlash in US, says growth minister”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 111
     },
     {
       "id": "d8df524ef0ffb1d0863ce6d590cbfc65",
@@ -65,13 +101,13 @@
       "hotnessScore": 108
     },
     {
-      "id": "71089889edece3685ecdd89bb2f823d2",
-      "title": "China’s block on SoftBank deal fires the starting gun on the robot wars",
-      "url": "https://www.ft.com/content/77b31f52-0485-414b-be6a-198d71fabc1a?syn-25a6b1a6=1",
+      "id": "5796e3d54dc9ac400e227a153a950633",
+      "title": "Low-profile Wall Street firm to double down on Anthropic despite tech rout",
+      "url": "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“China’s block on SoftBank deal fires the starting gun on the robot wars”需要重点关注哪些问题？",
+      "question": "围绕“Low-profile Wall Street firm to double down on Anthropic despite tech rout”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 102
+      "hotnessScore": 81
     },
     {
       "id": "512a7f662c094431cf556294bb83907e",
@@ -80,16 +116,25 @@
       "source": "MIT Technology Review",
       "question": "围绕“The Download: Texas’s fragile AI boom and energy policy shifts”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 84
+      "hotnessScore": 72
     },
     {
-      "id": "8fe82932902012024efde7f9a5defa52",
-      "title": "What’s the real ROI for AI?",
-      "url": "https://www.ft.com/content/ed9ea00a-cc98-4b12-a300-794dcf1a11cb?syn-25a6b1a6=1",
+      "id": "654c9c0ef554ca44e9885a283d66075a",
+      "title": "America turns on Trump’s tech cheerleaders",
+      "url": "https://www.ft.com/content/bda53f77-f391-4750-ab5d-55e09cbbdb7c?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“What’s the real ROI for AI?”需要重点关注哪些问题？",
+      "question": "围绕“America turns on Trump’s tech cheerleaders”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 83
+      "hotnessScore": 68
+    },
+    {
+      "id": "71089889edece3685ecdd89bb2f823d2",
+      "title": "China’s block on SoftBank deal fires the starting gun on the robot wars",
+      "url": "https://www.ft.com/content/77b31f52-0485-414b-be6a-198d71fabc1a?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“China’s block on SoftBank deal fires the starting gun on the robot wars”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 68
     }
   ]
 }
