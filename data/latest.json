@@ -1,59 +1,95 @@
 {
-  "generatedAt": "2026-11-09T07:41:11.506Z",
+  "generatedAt": "2026-11-10T08:00:59.728Z",
   "items": [
     {
-      "id": "df211ad107d0d98a9fbce308a9a6875c",
-      "title": "Show HN: Mindfries- AI Interviewer based on real eng skill not on L**tC*de",
-      "url": "https://company.mindfries.com/login",
+      "id": "89cc92efadfa8a95f7b30a4e8f096b38",
+      "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
+      "url": "https://news.ycombinator.com/item?id=50436636",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Mindfries- AI Interviewer based on real eng skill not on L**tC*de”需要重点关注哪些问题？",
+      "question": "围绕“Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 458
+      "hotnessScore": 477
     },
     {
-      "id": "7c774139b873efdf87e955288989263b",
-      "title": "Anthropic secures $3.4B generator deal for AI data centers",
-      "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/",
+      "id": "36702401a1d017ce3abf285b3a6b7847",
+      "title": "We're launching an in-game AI agent for WoW",
+      "url": "https://willocompanion.com/",
       "source": "Hacker News · AI",
-      "question": "围绕“Anthropic secures $3.4B generator deal for AI data centers”需要重点关注哪些问题？",
+      "question": "围绕“We're launching an in-game AI agent for WoW”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 456
     },
     {
-      "id": "5635c3e34f5407711053a460d808d348",
-      "title": "Show HN: Airlock – Policy-as-code for fleets of AI coding agents",
-      "url": "https://airlock.lunareng.com/docs",
+      "id": "c2161a72f8155b58df925239b99c1984",
+      "title": "Musk and Gwynne Shotwell on AI Risks, Peer Review, Starship, Terafab, Merger",
+      "url": "https://www.youtube.com/watch?v=iwBOQeFPAwg",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Airlock – Policy-as-code for fleets of AI coding agents”需要重点关注哪些问题？",
+      "question": "围绕“Musk and Gwynne Shotwell on AI Risks, Peer Review, Starship, Terafab, Merger”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 452
+      "hotnessScore": 447
     },
     {
-      "id": "840b7ae0dcbaab54f25c97377c5ba81e",
-      "title": "Open Source AI Research Collaboration Platform",
-      "url": "https://station-house.net/",
+      "id": "706e1618d3c0d6040ed8793882ee81b9",
+      "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
       "source": "Hacker News · AI",
-      "question": "围绕“Open Source AI Research Collaboration Platform”需要重点关注哪些问题？",
+      "question": "围绕“Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 440
+      "hotnessScore": 437
     },
     {
-      "id": "8b1593eed6663acf7d11ca45e010d380",
-      "title": "Ask HN: What do you use to get the latest technical AI news?",
-      "url": "https://news.ycombinator.com/item?id=50419260",
-      "source": "Hacker News · AI",
-      "question": "围绕“Ask HN: What do you use to get the latest technical AI news?”需要重点关注哪些问题？",
+      "id": "4f774b48af57c0e288246d7c71f7fe89",
+      "title": "Ready for a Siri AI agent? Apple under pressure to upgrade its assistant faster",
+      "url": "https://www.zdnet.com/home-and-office/apple-siri-ai-agentic-strategy/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Ready for a Siri AI agent? Apple under pressure to upgrade its assistant faster”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 436
+      "hotnessScore": 232
+    },
+    {
+      "id": "741a94d25d5b9e164c3819f129f3403c",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Nancy Pelosi’s replacement is ready to regulate AI”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 186
+    },
+    {
+      "id": "8b2f565dedcffaf9d30be7ed2b33d293",
+      "title": "Fund manager Nick Train has best month since 2000 on back of AI sell-off",
+      "url": "https://www.ft.com/content/e3a7d3b9-5391-4f2d-a12a-2b252a18b73a?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Fund manager Nick Train has best month since 2000 on back of AI sell-off”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 181
+    },
+    {
+      "id": "68aa89dc7b67f09beb57bf62fb2b2101",
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The Download: empty AI climate claims, and an Nvidia investigation”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 178
+    },
+    {
+      "id": "30938a4c9fe152fa55a88f4eea7cfc6c",
+      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+      "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Goldman CEO Solomon says AI financing remains strong despite market jitters”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 174
     },
     {
       "id": "3135fc284eafc87f7de52df2d64be935",
-      "title": "Tech’s teetering towers",
+      "title": "Tech’s ‘vertical’ obsession doesn’t stack up",
       "url": "https://www.ft.com/content/d3f706c8-a936-4395-bcf1-7f8bc2bed99a?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Tech’s teetering towers”需要重点关注哪些问题？",
+      "question": "围绕“Tech’s ‘vertical’ obsession doesn’t stack up”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 207
+      "hotnessScore": 158
     },
     {
       "id": "5d8f99b60d9678914ff720e84d89ba8e",
@@ -62,7 +98,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic strikes $3.4bn deal to generate gas-fired power for data centres”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 171
+      "hotnessScore": 122
     },
     {
       "id": "da4678af0929a91ba75a04cc2b1b5e12",
@@ -83,15 +119,6 @@
       "hotnessScore": 112
     },
     {
-      "id": "cca9e0a83fad9ea19ba869fb73491784",
-      "title": "UK will not slow down on AI despite backlash in US, says growth minister",
-      "url": "https://www.ft.com/content/47dba9d2-4c82-4e17-969d-f1728ef13a5a?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“UK will not slow down on AI despite backlash in US, says growth minister”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 111
-    },
-    {
       "id": "d8df524ef0ffb1d0863ce6d590cbfc65",
       "title": "SUSE lays off 1 in 10 workers – citing AI and automation",
       "url": "https://www.zdnet.com/business/suse-lay-offs-workforce-ai-cited/",
@@ -99,15 +126,6 @@
       "question": "围绕“SUSE lays off 1 in 10 workers – citing AI and automation”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 108
-    },
-    {
-      "id": "5796e3d54dc9ac400e227a153a950633",
-      "title": "Low-profile Wall Street firm to double down on Anthropic despite tech rout",
-      "url": "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Low-profile Wall Street firm to double down on Anthropic despite tech rout”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 81
     },
     {
       "id": "512a7f662c094431cf556294bb83907e",
@@ -119,20 +137,20 @@
       "hotnessScore": 72
     },
     {
-      "id": "654c9c0ef554ca44e9885a283d66075a",
-      "title": "America turns on Trump’s tech cheerleaders",
-      "url": "https://www.ft.com/content/bda53f77-f391-4750-ab5d-55e09cbbdb7c?syn-25a6b1a6=1",
+      "id": "cca9e0a83fad9ea19ba869fb73491784",
+      "title": "UK will not slow down on AI despite backlash in US, says growth minister",
+      "url": "https://www.ft.com/content/47dba9d2-4c82-4e17-969d-f1728ef13a5a?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“America turns on Trump’s tech cheerleaders”需要重点关注哪些问题？",
+      "question": "围绕“UK will not slow down on AI despite backlash in US, says growth minister”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
     },
     {
-      "id": "71089889edece3685ecdd89bb2f823d2",
-      "title": "China’s block on SoftBank deal fires the starting gun on the robot wars",
-      "url": "https://www.ft.com/content/77b31f52-0485-414b-be6a-198d71fabc1a?syn-25a6b1a6=1",
+      "id": "5796e3d54dc9ac400e227a153a950633",
+      "title": "Low-profile Wall Street firm to double down on Anthropic despite tech rout",
+      "url": "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“China’s block on SoftBank deal fires the starting gun on the robot wars”需要重点关注哪些问题？",
+      "question": "围绕“Low-profile Wall Street firm to double down on Anthropic despite tech rout”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 68
     }
