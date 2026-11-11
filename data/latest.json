@@ -1,41 +1,68 @@
 {
-  "generatedAt": "2026-11-10T08:00:59.728Z",
+  "generatedAt": "2026-11-11T07:30:46.343Z",
   "items": [
     {
-      "id": "89cc92efadfa8a95f7b30a4e8f096b38",
-      "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
-      "url": "https://news.ycombinator.com/item?id=50436636",
+      "id": "243fe5d51cb22c446d5ad5bffd2b35ff",
+      "title": "Why are AI.Engineer talks/transcripts/presentations not available for attendes?",
+      "url": "https://news.ycombinator.com/item?id=50449728",
       "source": "Hacker News · AI",
-      "question": "围绕“Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack”需要重点关注哪些问题？",
+      "question": "围绕“Why are AI.Engineer talks/transcripts/presentations not available for attendes?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 477
+      "hotnessScore": 453
     },
     {
-      "id": "36702401a1d017ce3abf285b3a6b7847",
-      "title": "We're launching an in-game AI agent for WoW",
-      "url": "https://willocompanion.com/",
+      "id": "1cbaf7e15b4b51ff8581b947f66f5059",
+      "title": "Show HN: Rystic – Stateful Local Simulators of Slack, GitHub and Linear",
+      "url": "https://www.rystic.ai",
       "source": "Hacker News · AI",
-      "question": "围绕“We're launching an in-game AI agent for WoW”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: Rystic – Stateful Local Simulators of Slack, GitHub and Linear”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 456
+      "hotnessScore": 450
     },
     {
-      "id": "c2161a72f8155b58df925239b99c1984",
-      "title": "Musk and Gwynne Shotwell on AI Risks, Peer Review, Starship, Terafab, Merger",
-      "url": "https://www.youtube.com/watch?v=iwBOQeFPAwg",
-      "source": "Hacker News · AI",
-      "question": "围绕“Musk and Gwynne Shotwell on AI Risks, Peer Review, Starship, Terafab, Merger”需要重点关注哪些问题？",
+      "id": "df36fd1066d776cb33ca09d07ede514b",
+      "title": "Need more AI in Creator Studio? Apple may charge you for it",
+      "url": "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Need more AI in Creator Studio? Apple may charge you for it”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 447
+      "hotnessScore": 230
     },
     {
-      "id": "706e1618d3c0d6040ed8793882ee81b9",
-      "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
-      "source": "Hacker News · AI",
-      "question": "围绕“Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity”需要重点关注哪些问题？",
+      "id": "7bbaa5bb32d757ad9140427bf3626b52",
+      "title": "5 apps I need Siri AI to work with now that it’s open to third-party developers",
+      "url": "https://www.zdnet.com/home-and-office/third-party-app-developers-siri-ai-integration/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“5 apps I need Siri AI to work with now that it’s open to third-party developers”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 437
+      "hotnessScore": 218
+    },
+    {
+      "id": "4d95c8a7ea8b6c0207b8192bb01f5269",
+      "title": "Nvidia spy scandal exposes Singapore’s role in China’s AI chip trade",
+      "url": "https://www.ft.com/content/52b5f9a8-346f-4dae-8a16-14d5d9eb1244?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Nvidia spy scandal exposes Singapore’s role in China’s AI chip trade”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 207
+    },
+    {
+      "id": "1d45ac7b3530044058f444cacc1fc23f",
+      "title": "Anthropic IPO valuation calculator: How much is it really worth?",
+      "url": "https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic IPO valuation calculator: How much is it really worth?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 207
+    },
+    {
+      "id": "f48508fb7bda4246079b3f9fce0c75a5",
+      "title": "CoreWeave plans multibillion-dollar chip-backed debt deal",
+      "url": "https://www.ft.com/content/fa5c5bdc-c2b0-4fab-8951-0526a4608773?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“CoreWeave plans multibillion-dollar chip-backed debt deal”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 197
     },
     {
       "id": "4f774b48af57c0e288246d7c71f7fe89",
@@ -44,7 +71,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Ready for a Siri AI agent? Apple under pressure to upgrade its assistant faster”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 232
+      "hotnessScore": 185
     },
     {
       "id": "741a94d25d5b9e164c3819f129f3403c",
@@ -53,7 +80,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“Nancy Pelosi’s replacement is ready to regulate AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 186
+      "hotnessScore": 139
     },
     {
       "id": "8b2f565dedcffaf9d30be7ed2b33d293",
@@ -62,7 +89,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Fund manager Nick Train has best month since 2000 on back of AI sell-off”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 181
+      "hotnessScore": 134
     },
     {
       "id": "68aa89dc7b67f09beb57bf62fb2b2101",
@@ -71,7 +98,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“The Download: empty AI climate claims, and an Nvidia investigation”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 178
+      "hotnessScore": 131
     },
     {
       "id": "30938a4c9fe152fa55a88f4eea7cfc6c",
@@ -80,7 +107,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“Goldman CEO Solomon says AI financing remains strong despite market jitters”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 174
+      "hotnessScore": 127
     },
     {
       "id": "3135fc284eafc87f7de52df2d64be935",
@@ -89,7 +116,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Tech’s ‘vertical’ obsession doesn’t stack up”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 158
+      "hotnessScore": 111
     },
     {
       "id": "5d8f99b60d9678914ff720e84d89ba8e",
@@ -98,34 +125,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Anthropic strikes $3.4bn deal to generate gas-fired power for data centres”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 122
-    },
-    {
-      "id": "da4678af0929a91ba75a04cc2b1b5e12",
-      "title": "Safari finally gets 3 popular browser features – and I can’t wait to try them",
-      "url": "https://www.zdnet.com/tech/safari-os-27-3-developer-beta-features/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Safari finally gets 3 popular browser features – and I can’t wait to try them”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 120
-    },
-    {
-      "id": "5ed7d9aa4b2d8364cf4b163ca7ab38b8",
-      "title": "Researchers asked people to use AI chatbots for election info – results were mixed",
-      "url": "https://www.zdnet.com/innovation/ai-users-ask-chatbots-voting-advice-elections-yale-research/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Researchers asked people to use AI chatbots for election info – results were mixed”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 112
-    },
-    {
-      "id": "d8df524ef0ffb1d0863ce6d590cbfc65",
-      "title": "SUSE lays off 1 in 10 workers – citing AI and automation",
-      "url": "https://www.zdnet.com/business/suse-lay-offs-workforce-ai-cited/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“SUSE lays off 1 in 10 workers – citing AI and automation”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 108
+      "hotnessScore": 75
     },
     {
       "id": "512a7f662c094431cf556294bb83907e",
@@ -135,24 +135,6 @@
       "question": "围绕“The Download: Texas’s fragile AI boom and energy policy shifts”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 72
-    },
-    {
-      "id": "cca9e0a83fad9ea19ba869fb73491784",
-      "title": "UK will not slow down on AI despite backlash in US, says growth minister",
-      "url": "https://www.ft.com/content/47dba9d2-4c82-4e17-969d-f1728ef13a5a?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“UK will not slow down on AI despite backlash in US, says growth minister”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
-    },
-    {
-      "id": "5796e3d54dc9ac400e227a153a950633",
-      "title": "Low-profile Wall Street firm to double down on Anthropic despite tech rout",
-      "url": "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Low-profile Wall Street firm to double down on Anthropic despite tech rout”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
     }
   ]
 }
