@@ -1,32 +1,50 @@
 {
-  "generatedAt": "2026-11-13T07:37:18.806Z",
+  "generatedAt": "2026-11-14T07:21:38.658Z",
   "items": [
     {
-      "id": "d9baab0d3d2a393901d480bfe9e142f0",
-      "title": "Show HN: Wonderchat – A Zendesk alternative that doesn't charge per seat",
-      "url": "https://wonderchat.io/",
+      "id": "0fa023400832ed812f3ce57b09f3ebd5",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Wonderchat – A Zendesk alternative that doesn't charge per seat”需要重点关注哪些问题？",
+      "question": "围绕“Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 464
+      "hotnessScore": 1589
     },
     {
-      "id": "46257bdef700c888b59e1a92bba48537",
-      "title": "Introducing: Qualiaphobic AI – By Erik Hoel",
-      "url": "https://www.theintrinsicperspective.com/p/introducing-qualiaphobic-ai",
+      "id": "bf6c29d74590dd84f789b4084abee457",
+      "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+      "url": "https://claude.com/resources/articles/projects-redesigned",
       "source": "Hacker News · AI",
-      "question": "围绕“Introducing: Qualiaphobic AI – By Erik Hoel”需要重点关注哪些问题？",
+      "question": "围绕“Anthropic upgrades Claude Code Projects to run parallel AI workers”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 453
+      "hotnessScore": 680
     },
     {
-      "id": "80bd48532150c17c79c26c91c05751d6",
-      "title": "AI Bubble: 'Circular financing is over' – Ed Zitron [video]",
-      "url": "https://www.youtube.com/watch?v=hhVpOvpXUEE",
+      "id": "2fb1c472ff5ee09cf1a9cc24f15420b9",
+      "title": "AI has become a utility bill for Gen Z",
+      "url": "https://www.reuters.com/markets/on-the-money/how-ai-has-become-utility-bill-gen-z-2026-11-13/",
       "source": "Hacker News · AI",
-      "question": "围绕“AI Bubble: 'Circular financing is over' – Ed Zitron [video]”需要重点关注哪些问题？",
+      "question": "围绕“AI has become a utility bill for Gen Z”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 450
+      "hotnessScore": 468
+    },
+    {
+      "id": "473a80a35c41d2626b074cb9f8107eb3",
+      "title": "Show HN: Building a list of places to launch your app",
+      "url": "https://another.directory/where-to-launch",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Building a list of places to launch your app”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 448
+    },
+    {
+      "id": "4ab7b4ca499a48c27f3d5c90838fbfd6",
+      "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
+      "url": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 197
     },
     {
       "id": "89455663e8b467a5a2b12dfe44f1f916",
@@ -35,7 +53,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“AI agents shouldn’t have to pretend to be us”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 215
+      "hotnessScore": 168
     },
     {
       "id": "25f15868006796244ecc090557922802",
@@ -44,16 +62,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Pixel users are getting a major Android Auto update – and it rivals Siri AI”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 171
-    },
-    {
-      "id": "98e447211faa3a994d017e374c12b813",
-      "title": "Can markets find the AI cash?",
-      "url": "https://www.ft.com/content/324ba152-0805-485b-94d5-d16bc904a98f?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Can markets find the AI cash?”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 151
+      "hotnessScore": 124
     },
     {
       "id": "df36fd1066d776cb33ca09d07ede514b",
@@ -62,7 +71,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Need more AI in Creator Studio? Apple may charge you for it”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 134
+      "hotnessScore": 108
     },
     {
       "id": "7bbaa5bb32d757ad9140427bf3626b52",
@@ -71,25 +80,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“5 apps I need Siri AI to work with now that it’s open to third-party developers”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 122
-    },
-    {
-      "id": "741a94d25d5b9e164c3819f129f3403c",
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Nancy Pelosi’s replacement is ready to regulate AI”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
-    },
-    {
-      "id": "68aa89dc7b67f09beb57bf62fb2b2101",
-      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-      "source": "MIT Technology Review",
-      "question": "围绕“The Download: empty AI climate claims, and an Nvidia investigation”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
+      "hotnessScore": 108
     },
     {
       "id": "30938a4c9fe152fa55a88f4eea7cfc6c",
