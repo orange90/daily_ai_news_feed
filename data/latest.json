@@ -1,41 +1,23 @@
 {
-  "generatedAt": "2026-11-14T07:21:38.658Z",
+  "generatedAt": "2026-11-15T07:34:22.301Z",
   "items": [
     {
-      "id": "0fa023400832ed812f3ce57b09f3ebd5",
-      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "id": "7381cb8d1ed0b9f0a367069b0194bbfd",
+      "title": "Lawyer upgrades eight-V100 private AI server to run 80% of DeepSeek v4.1 Flash",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu",
       "source": "Hacker News · AI",
-      "question": "围绕“Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 1589
-    },
-    {
-      "id": "bf6c29d74590dd84f789b4084abee457",
-      "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-      "url": "https://claude.com/resources/articles/projects-redesigned",
-      "source": "Hacker News · AI",
-      "question": "围绕“Anthropic upgrades Claude Code Projects to run parallel AI workers”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 680
-    },
-    {
-      "id": "2fb1c472ff5ee09cf1a9cc24f15420b9",
-      "title": "AI has become a utility bill for Gen Z",
-      "url": "https://www.reuters.com/markets/on-the-money/how-ai-has-become-utility-bill-gen-z-2026-11-13/",
-      "source": "Hacker News · AI",
-      "question": "围绕“AI has become a utility bill for Gen Z”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 468
-    },
-    {
-      "id": "473a80a35c41d2626b074cb9f8107eb3",
-      "title": "Show HN: Building a list of places to launch your app",
-      "url": "https://another.directory/where-to-launch",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Building a list of places to launch your app”需要重点关注哪些问题？",
+      "question": "围绕“Lawyer upgrades eight-V100 private AI server to run 80% of DeepSeek v4.1 Flash”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 448
+    },
+    {
+      "id": "9d0ed51b3c40147cf8774767feeff630",
+      "title": "DeepSeek releases API for its apps along with open source front end",
+      "url": "https://twitter.com/deepseek_ai/status/2121247896918253875",
+      "source": "Hacker News · AI",
+      "question": "围绕“DeepSeek releases API for its apps along with open source front end”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 447
     },
     {
       "id": "4ab7b4ca499a48c27f3d5c90838fbfd6",
@@ -44,7 +26,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 197
+      "hotnessScore": 148
     },
     {
       "id": "89455663e8b467a5a2b12dfe44f1f916",
@@ -53,16 +35,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“AI agents shouldn’t have to pretend to be us”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 168
-    },
-    {
-      "id": "25f15868006796244ecc090557922802",
-      "title": "Pixel users are getting a major Android Auto update – and it rivals Siri AI",
-      "url": "https://www.zdnet.com/tech/android-auto-gemini-intelligence-update/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Pixel users are getting a major Android Auto update – and it rivals Siri AI”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 124
+      "hotnessScore": 119
     },
     {
       "id": "df36fd1066d776cb33ca09d07ede514b",
@@ -81,6 +54,15 @@
       "question": "围绕“5 apps I need Siri AI to work with now that it’s open to third-party developers”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 108
+    },
+    {
+      "id": "25f15868006796244ecc090557922802",
+      "title": "Pixel users are getting a major Android Auto update – and it rivals Siri AI",
+      "url": "https://www.zdnet.com/tech/android-auto-gemini-intelligence-update/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Pixel users are getting a major Android Auto update – and it rivals Siri AI”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 104
     },
     {
       "id": "30938a4c9fe152fa55a88f4eea7cfc6c",
