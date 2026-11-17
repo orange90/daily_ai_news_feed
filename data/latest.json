@@ -1,21 +1,93 @@
 {
-  "generatedAt": "2026-11-16T07:40:35.508Z",
+  "generatedAt": "2026-11-17T08:49:29.092Z",
   "items": [
+    {
+      "id": "ed4e629cf591df4e671b5cc81f2c80b7",
+      "title": "Adopting AI inside an organization that has to pass a compliance audit",
+      "url": "https://zimmergren.net/ai-and-compliance/",
+      "source": "Hacker News · AI",
+      "question": "围绕“Adopting AI inside an organization that has to pass a compliance audit”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 459
+    },
+    {
+      "id": "01a19e0667ee628e91487f7dacd7c21f",
+      "title": "Show HN: Standard Support – a convention for AI agents to file support tickets",
+      "url": "https://standardsupport.dev/",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Standard Support – a convention for AI agents to file support tickets”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 442
+    },
+    {
+      "id": "81dba8c492e9b2ac4e71b776d1566822",
+      "title": "Ask HN: Who's really winning with AI-Coding?",
+      "url": "https://news.ycombinator.com/item?id=50525329",
+      "source": "Hacker News · AI",
+      "question": "围绕“Ask HN: Who's really winning with AI-Coding?”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 442
+    },
+    {
+      "id": "5de04eefd91246f912392c6811594175",
+      "title": "iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades",
+      "url": "https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade/",
+      "source": "Hacker News · AI",
+      "question": "围绕“iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 439
+    },
+    {
+      "id": "5e1a66d8ba967667f97266a583b8680b",
+      "title": "Apple could build its AI health chatbot from this study – how to enroll",
+      "url": "https://www.zdnet.com/tech/apple-health-ai-usage-study-how-to-enroll/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Apple could build its AI health chatbot from this study – how to enroll”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 229
+    },
+    {
+      "id": "537eea73f175fc0f8e15a78cf95bd1d2",
+      "title": "Your enterprise AI access can be sold for pennies – beware ‘LLM Mixers’",
+      "url": "https://www.zdnet.com/innovation/google-threat-intelligence-report-llmjacking-ai/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Your enterprise AI access can be sold for pennies – beware ‘LLM Mixers’”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 218
+    },
+    {
+      "id": "44ef97d234984c6a9201ec3bda438033",
+      "title": "Amazon’s $17bn Ohio AI data centre bet threatened by voter backlash",
+      "url": "https://www.ft.com/content/e95adad4-b428-477d-9716-92172bbd199f?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Amazon’s $17bn Ohio AI data centre bet threatened by voter backlash”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 204
+    },
+    {
+      "id": "14f2cb6055c8ca892e5363b62cb95148",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "source": "MIT Technology Review",
+      "question": "围绕“Building trustworthy AI by fencing it in, not predicting it”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 179
+    },
+    {
+      "id": "b42c4103784440bc9296773fb8f43029",
+      "title": "EU renews push for global AI rules after midterms weaken Trump",
+      "url": "https://www.ft.com/content/f2ea4f22-32ba-4795-971d-2a4bbb0143fb?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“EU renews push for global AI rules after midterms weaken Trump”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 168
+    },
     {
       "id": "df36fd1066d776cb33ca09d07ede514b",
       "title": "Need more AI in Creator Studio? Apple may charge you for it",
       "url": "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/",
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Need more AI in Creator Studio? Apple may charge you for it”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 108
-    },
-    {
-      "id": "7bbaa5bb32d757ad9140427bf3626b52",
-      "title": "5 apps I need Siri AI to work with now that it’s open to third-party developers",
-      "url": "https://www.zdnet.com/home-and-office/third-party-app-developers-siri-ai-integration/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“5 apps I need Siri AI to work with now that it’s open to third-party developers”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 108
     },
@@ -35,25 +107,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 100
-    },
-    {
-      "id": "89455663e8b467a5a2b12dfe44f1f916",
-      "title": "AI agents shouldn’t have to pretend to be us",
-      "url": "https://www.ft.com/content/069cdc48-e17a-430b-818c-93894768706f?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“AI agents shouldn’t have to pretend to be us”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 72
-    },
-    {
-      "id": "30938a4c9fe152fa55a88f4eea7cfc6c",
-      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-      "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Goldman CEO Solomon says AI financing remains strong despite market jitters”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 58
+      "hotnessScore": 68
     }
   ]
 }
