@@ -1,41 +1,59 @@
 {
-  "generatedAt": "2026-11-17T08:49:29.092Z",
+  "generatedAt": "2026-11-18T08:12:46.075Z",
   "items": [
     {
-      "id": "ed4e629cf591df4e671b5cc81f2c80b7",
-      "title": "Adopting AI inside an organization that has to pass a compliance audit",
-      "url": "https://zimmergren.net/ai-and-compliance/",
+      "id": "07d47a74d80ee3d78c5d661d88be8e89",
+      "title": "IMF warns global economy is standing on one leg as AI circular financing surges",
+      "url": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
       "source": "Hacker News · AI",
-      "question": "围绕“Adopting AI inside an organization that has to pass a compliance audit”需要重点关注哪些问题？",
+      "question": "围绕“IMF warns global economy is standing on one leg as AI circular financing surges”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 465
+    },
+    {
+      "id": "f8e8d499a6ea46484b9a9a1f581f93d0",
+      "title": "How are large companies not ripshit about the frontier labs?",
+      "url": "https://news.ycombinator.com/item?id=50541857",
+      "source": "Hacker News · AI",
+      "question": "围绕“How are large companies not ripshit about the frontier labs?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 459
     },
     {
-      "id": "01a19e0667ee628e91487f7dacd7c21f",
-      "title": "Show HN: Standard Support – a convention for AI agents to file support tickets",
-      "url": "https://standardsupport.dev/",
+      "id": "165e97972c1ff9bcd2be4e2c71936a92",
+      "title": "Human-written Launch HN posts get more upvotes than AI-generated ones",
+      "url": "https://www.lettercamp.com/blog/ai-writing-in-launch-hn-posts",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Standard Support – a convention for AI agents to file support tickets”需要重点关注哪些问题？",
+      "question": "围绕“Human-written Launch HN posts get more upvotes than AI-generated ones”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 442
+      "hotnessScore": 459
     },
     {
-      "id": "81dba8c492e9b2ac4e71b776d1566822",
-      "title": "Ask HN: Who's really winning with AI-Coding?",
-      "url": "https://news.ycombinator.com/item?id=50525329",
+      "id": "26b1d5d3feb982dcb4e8b08021c1ef78",
+      "title": "Btrfs Seeks to Deal with AI and Newbies Without Common Sense",
+      "url": "https://lore.kernel.org/lkml/df1c1fa031ba7e66486348dc37d1a7be53c18e43.1794894953.git.wqu@suse.com/",
       "source": "Hacker News · AI",
-      "question": "围绕“Ask HN: Who's really winning with AI-Coding?”需要重点关注哪些问题？",
+      "question": "围绕“Btrfs Seeks to Deal with AI and Newbies Without Common Sense”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 442
+      "hotnessScore": 449
     },
     {
-      "id": "5de04eefd91246f912392c6811594175",
-      "title": "iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades",
-      "url": "https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade/",
-      "source": "Hacker News · AI",
-      "question": "围绕“iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades”需要重点关注哪些问题？",
+      "id": "a74cd8c27187321f6e2a0849a5597ce3",
+      "title": "Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates",
+      "url": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 439
+      "hotnessScore": 242
+    },
+    {
+      "id": "acc1f7a5dc60afa4e81ffa137f7ce788",
+      "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
+      "url": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 233
     },
     {
       "id": "5e1a66d8ba967667f97266a583b8680b",
@@ -44,7 +62,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Apple could build its AI health chatbot from this study – how to enroll”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 229
+      "hotnessScore": 182
     },
     {
       "id": "537eea73f175fc0f8e15a78cf95bd1d2",
@@ -53,7 +71,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Your enterprise AI access can be sold for pennies – beware ‘LLM Mixers’”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 218
+      "hotnessScore": 172
     },
     {
       "id": "44ef97d234984c6a9201ec3bda438033",
@@ -62,7 +80,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“Amazon’s $17bn Ohio AI data centre bet threatened by voter backlash”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 204
+      "hotnessScore": 158
     },
     {
       "id": "14f2cb6055c8ca892e5363b62cb95148",
@@ -71,7 +89,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“Building trustworthy AI by fencing it in, not predicting it”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 179
+      "hotnessScore": 132
     },
     {
       "id": "b42c4103784440bc9296773fb8f43029",
@@ -80,34 +98,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“EU renews push for global AI rules after midterms weaken Trump”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 168
-    },
-    {
-      "id": "df36fd1066d776cb33ca09d07ede514b",
-      "title": "Need more AI in Creator Studio? Apple may charge you for it",
-      "url": "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Need more AI in Creator Studio? Apple may charge you for it”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 108
-    },
-    {
-      "id": "25f15868006796244ecc090557922802",
-      "title": "Pixel users are getting a major Android Auto update – and it rivals Siri AI",
-      "url": "https://www.zdnet.com/tech/android-auto-gemini-intelligence-update/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Pixel users are getting a major Android Auto update – and it rivals Siri AI”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 104
-    },
-    {
-      "id": "4ab7b4ca499a48c27f3d5c90838fbfd6",
-      "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
-      "url": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 68
+      "hotnessScore": 121
     }
   ]
 }
