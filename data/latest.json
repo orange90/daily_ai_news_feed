@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-11-18T08:12:46.075Z",
+  "generatedAt": "2026-11-19T08:25:04.494Z",
   "items": [
     {
-      "id": "07d47a74d80ee3d78c5d661d88be8e89",
-      "title": "IMF warns global economy is standing on one leg as AI circular financing surges",
-      "url": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
+      "id": "8bf90c3ef270abaf0f48fc18318b58d6",
+      "title": "Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",
+      "url": "https://calmatters.org/economy/technology/2026/11/newsom-touts-ai-kill-switch/",
       "source": "Hacker News · AI",
-      "question": "围绕“IMF warns global economy is standing on one leg as AI circular financing surges”需要重点关注哪些问题？",
+      "question": "围绕“Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 465
+      "hotnessScore": 454
     },
     {
-      "id": "f8e8d499a6ea46484b9a9a1f581f93d0",
-      "title": "How are large companies not ripshit about the frontier labs?",
-      "url": "https://news.ycombinator.com/item?id=50541857",
+      "id": "b4d8b02492a5914ff9f1cf0595a726a9",
+      "title": "Show HN: Frontier Observatory – A visual timeline of what the AI labs ship",
+      "url": "https://frontier-lab-observatory.lucentcarrot1.chatgpt.site",
       "source": "Hacker News · AI",
-      "question": "围绕“How are large companies not ripshit about the frontier labs?”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: Frontier Observatory – A visual timeline of what the AI labs ship”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 459
+      "hotnessScore": 445
     },
     {
-      "id": "165e97972c1ff9bcd2be4e2c71936a92",
-      "title": "Human-written Launch HN posts get more upvotes than AI-generated ones",
-      "url": "https://www.lettercamp.com/blog/ai-writing-in-launch-hn-posts",
+      "id": "abd6438bc13459bf12b335ad1524cac1",
+      "title": "Btrfs to Deal with AI and Newbies Without Common Senses More Harm Than Good",
+      "url": "https://www.phoronix.com/news/Btrfs-LLM-Newbies-Guidelines",
       "source": "Hacker News · AI",
-      "question": "围绕“Human-written Launch HN posts get more upvotes than AI-generated ones”需要重点关注哪些问题？",
+      "question": "围绕“Btrfs to Deal with AI and Newbies Without Common Senses More Harm Than Good”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 459
+      "hotnessScore": 440
     },
     {
-      "id": "26b1d5d3feb982dcb4e8b08021c1ef78",
-      "title": "Btrfs Seeks to Deal with AI and Newbies Without Common Sense",
-      "url": "https://lore.kernel.org/lkml/df1c1fa031ba7e66486348dc37d1a7be53c18e43.1794894953.git.wqu@suse.com/",
-      "source": "Hacker News · AI",
-      "question": "围绕“Btrfs Seeks to Deal with AI and Newbies Without Common Sense”需要重点关注哪些问题？",
+      "id": "81acbf902954e06411d07f7a4a15b062",
+      "title": "Anthropic’s AI advances trigger new safety fears on eve of IPO",
+      "url": "https://www.ft.com/content/d8be4655-211c-49a8-bfe4-18a00b8e8619?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic’s AI advances trigger new safety fears on eve of IPO”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 449
+      "hotnessScore": 209
     },
     {
       "id": "a74cd8c27187321f6e2a0849a5597ce3",
@@ -44,7 +44,16 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 242
+      "hotnessScore": 194
+    },
+    {
+      "id": "fea75d258eb25034d2acea64915f2500",
+      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+      "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 193
     },
     {
       "id": "acc1f7a5dc60afa4e81ffa137f7ce788",
@@ -53,7 +62,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 233
+      "hotnessScore": 185
     },
     {
       "id": "5e1a66d8ba967667f97266a583b8680b",
@@ -62,7 +71,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Apple could build its AI health chatbot from this study – how to enroll”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 182
+      "hotnessScore": 134
     },
     {
       "id": "537eea73f175fc0f8e15a78cf95bd1d2",
@@ -71,16 +80,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Your enterprise AI access can be sold for pennies – beware ‘LLM Mixers’”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 172
-    },
-    {
-      "id": "44ef97d234984c6a9201ec3bda438033",
-      "title": "Amazon’s $17bn Ohio AI data centre bet threatened by voter backlash",
-      "url": "https://www.ft.com/content/e95adad4-b428-477d-9716-92172bbd199f?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Amazon’s $17bn Ohio AI data centre bet threatened by voter backlash”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 158
+      "hotnessScore": 123
     },
     {
       "id": "14f2cb6055c8ca892e5363b62cb95148",
@@ -89,16 +89,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“Building trustworthy AI by fencing it in, not predicting it”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 132
-    },
-    {
-      "id": "b42c4103784440bc9296773fb8f43029",
-      "title": "EU renews push for global AI rules after midterms weaken Trump",
-      "url": "https://www.ft.com/content/f2ea4f22-32ba-4795-971d-2a4bbb0143fb?syn-25a6b1a6=1",
-      "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“EU renews push for global AI rules after midterms weaken Trump”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 121
+      "hotnessScore": 83
     }
   ]
 }
