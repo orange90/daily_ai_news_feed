@@ -1,41 +1,59 @@
 {
-  "generatedAt": "2026-11-19T08:25:04.494Z",
+  "generatedAt": "2026-11-20T08:05:58.741Z",
   "items": [
     {
-      "id": "8bf90c3ef270abaf0f48fc18318b58d6",
-      "title": "Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",
-      "url": "https://calmatters.org/economy/technology/2026/11/newsom-touts-ai-kill-switch/",
+      "id": "2165a71637629038bac103207f514e9a",
+      "title": "Show HN: Zeus – Claude Code for AI voice agents",
+      "url": "https://thunderphone.com/blog/introducing-zeus",
       "source": "Hacker News · AI",
-      "question": "围绕“Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases”需要重点关注哪些问题？",
+      "question": "围绕“Show HN: Zeus – Claude Code for AI voice agents”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 454
+      "hotnessScore": 456
     },
     {
-      "id": "b4d8b02492a5914ff9f1cf0595a726a9",
-      "title": "Show HN: Frontier Observatory – A visual timeline of what the AI labs ship",
-      "url": "https://frontier-lab-observatory.lucentcarrot1.chatgpt.site",
+      "id": "ed84ff61ddd826c2468e77f18ab7f018",
+      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+      "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Frontier Observatory – A visual timeline of what the AI labs ship”需要重点关注哪些问题？",
+      "question": "围绕“Senate passes BAAJA permitting reform bill backed by AI, energy sectors”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 445
+      "hotnessScore": 455
     },
     {
-      "id": "abd6438bc13459bf12b335ad1524cac1",
-      "title": "Btrfs to Deal with AI and Newbies Without Common Senses More Harm Than Good",
-      "url": "https://www.phoronix.com/news/Btrfs-LLM-Newbies-Guidelines",
+      "id": "58d9e7180306dfb45ff4fdc570862e32",
+      "title": "Ask HN: Does AI slop require more marketing in the future?",
+      "url": "https://news.ycombinator.com/item?id=50570283",
       "source": "Hacker News · AI",
-      "question": "围绕“Btrfs to Deal with AI and Newbies Without Common Senses More Harm Than Good”需要重点关注哪些问题？",
+      "question": "围绕“Ask HN: Does AI slop require more marketing in the future?”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 440
+      "hotnessScore": 448
+    },
+    {
+      "id": "c3cc3a496999d139c924fb1e32714609",
+      "title": "Show HN: Tyche, An intelligent interface that clicks, books, and shops on iPhone",
+      "url": "https://apps.apple.com/us/app/tyche-intelligent-interface/id6835683787",
+      "source": "Hacker News · AI",
+      "question": "围绕“Show HN: Tyche, An intelligent interface that clicks, books, and shops on iPhone”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 442
+    },
+    {
+      "id": "67a56646f256c24546f93b1b1eae9c75",
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The Download: a living liver, a billion-dollar battery deal, and AI hype”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 174
     },
     {
       "id": "81acbf902954e06411d07f7a4a15b062",
-      "title": "Anthropic’s AI advances trigger new safety fears on eve of IPO",
+      "title": "AI advances trigger new safety fears on eve of market debut",
       "url": "https://www.ft.com/content/d8be4655-211c-49a8-bfe4-18a00b8e8619?syn-25a6b1a6=1",
       "source": "Financial Times · Artificial Intelligence",
-      "question": "围绕“Anthropic’s AI advances trigger new safety fears on eve of IPO”需要重点关注哪些问题？",
+      "question": "围绕“AI advances trigger new safety fears on eve of market debut”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 209
+      "hotnessScore": 170
     },
     {
       "id": "a74cd8c27187321f6e2a0849a5597ce3",
@@ -44,7 +62,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 194
+      "hotnessScore": 146
     },
     {
       "id": "fea75d258eb25034d2acea64915f2500",
@@ -53,7 +71,7 @@
       "source": "CNBC · Technology",
       "question": "围绕“Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 193
+      "hotnessScore": 145
     },
     {
       "id": "acc1f7a5dc60afa4e81ffa137f7ce788",
@@ -62,7 +80,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 185
+      "hotnessScore": 137
     },
     {
       "id": "5e1a66d8ba967667f97266a583b8680b",
@@ -71,25 +89,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Apple could build its AI health chatbot from this study – how to enroll”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 134
-    },
-    {
-      "id": "537eea73f175fc0f8e15a78cf95bd1d2",
-      "title": "Your enterprise AI access can be sold for pennies – beware ‘LLM Mixers’",
-      "url": "https://www.zdnet.com/innovation/google-threat-intelligence-report-llmjacking-ai/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Your enterprise AI access can be sold for pennies – beware ‘LLM Mixers’”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 123
-    },
-    {
-      "id": "14f2cb6055c8ca892e5363b62cb95148",
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "source": "MIT Technology Review",
-      "question": "围绕“Building trustworthy AI by fencing it in, not predicting it”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 83
+      "hotnessScore": 112
     }
   ]
 }
