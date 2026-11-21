@@ -1,41 +1,32 @@
 {
-  "generatedAt": "2026-11-20T08:05:58.741Z",
+  "generatedAt": "2026-11-21T08:00:32.592Z",
   "items": [
     {
-      "id": "2165a71637629038bac103207f514e9a",
-      "title": "Show HN: Zeus – Claude Code for AI voice agents",
-      "url": "https://thunderphone.com/blog/introducing-zeus",
+      "id": "8a667bb35215c9376d3445dffe3a0469",
+      "title": "I'm building GURU, a framework for a personal AI that lives alongside you",
+      "url": "https://github.com/GuruProduction/GURUbyUnusLumen",
       "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Zeus – Claude Code for AI voice agents”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 456
-    },
-    {
-      "id": "ed84ff61ddd826c2468e77f18ab7f018",
-      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
-      "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
-      "source": "Hacker News · AI",
-      "question": "围绕“Senate passes BAAJA permitting reform bill backed by AI, energy sectors”需要重点关注哪些问题？",
+      "question": "围绕“I'm building GURU, a framework for a personal AI that lives alongside you”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 455
     },
     {
-      "id": "58d9e7180306dfb45ff4fdc570862e32",
-      "title": "Ask HN: Does AI slop require more marketing in the future?",
-      "url": "https://news.ycombinator.com/item?id=50570283",
-      "source": "Hacker News · AI",
-      "question": "围绕“Ask HN: Does AI slop require more marketing in the future?”需要重点关注哪些问题？",
+      "id": "f958106198fb0a28e8e0d15f93565131",
+      "title": "Anthropic shares slide as tech stocks tumble",
+      "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+      "source": "Financial Times · Artificial Intelligence",
+      "question": "围绕“Anthropic shares slide as tech stocks tumble”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 448
+      "hotnessScore": 184
     },
     {
-      "id": "c3cc3a496999d139c924fb1e32714609",
-      "title": "Show HN: Tyche, An intelligent interface that clicks, books, and shops on iPhone",
-      "url": "https://apps.apple.com/us/app/tyche-intelligent-interface/id6835683787",
-      "source": "Hacker News · AI",
-      "question": "围绕“Show HN: Tyche, An intelligent interface that clicks, books, and shops on iPhone”需要重点关注哪些问题？",
+      "id": "a099b57a58c525c073117975f93db7ca",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Technology Review",
+      "question": "围绕“The most misunderstood graph in AI just got a major update”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 442
+      "hotnessScore": 180
     },
     {
       "id": "67a56646f256c24546f93b1b1eae9c75",
@@ -44,7 +35,7 @@
       "source": "MIT Technology Review",
       "question": "围绕“The Download: a living liver, a billion-dollar battery deal, and AI hype”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 174
+      "hotnessScore": 126
     },
     {
       "id": "81acbf902954e06411d07f7a4a15b062",
@@ -53,7 +44,7 @@
       "source": "Financial Times · Artificial Intelligence",
       "question": "围绕“AI advances trigger new safety fears on eve of market debut”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 170
+      "hotnessScore": 122
     },
     {
       "id": "a74cd8c27187321f6e2a0849a5597ce3",
@@ -62,25 +53,7 @@
       "source": "ZDNET · Artificial Intelligence",
       "question": "围绕“Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 146
-    },
-    {
-      "id": "fea75d258eb25034d2acea64915f2500",
-      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-      "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
-      "source": "CNBC · Technology",
-      "question": "围绕“Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 145
-    },
-    {
-      "id": "acc1f7a5dc60afa4e81ffa137f7ce788",
-      "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
-      "url": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
-      "source": "ZDNET · Artificial Intelligence",
-      "question": "围绕“Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost”需要重点关注哪些问题？",
-      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
-      "hotnessScore": 137
+      "hotnessScore": 116
     },
     {
       "id": "5e1a66d8ba967667f97266a583b8680b",
@@ -90,6 +63,24 @@
       "question": "围绕“Apple could build its AI health chatbot from this study – how to enroll”需要重点关注哪些问题？",
       "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
       "hotnessScore": 112
+    },
+    {
+      "id": "acc1f7a5dc60afa4e81ffa137f7ce788",
+      "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
+      "url": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
+      "source": "ZDNET · Artificial Intelligence",
+      "question": "围绕“Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 108
+    },
+    {
+      "id": "fea75d258eb25034d2acea64915f2500",
+      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+      "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+      "source": "CNBC · Technology",
+      "question": "围绕“Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show”需要重点关注哪些问题？",
+      "answer": "（调用 DeepSeek 失败，已记录日志，请稍后重试）",
+      "hotnessScore": 97
     }
   ]
 }
